@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://d3t8jz6506hbdb.cloudfront.net"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>泡泡</title>
+ <link>https://d24f0fbbs0l72b.cloudfront.net</link>
+ <description></description>
+ <language>zh-hans</language>
+<item>
+ <title>从中国到全球：“依附的自由”网站解封升级 </title>
+ <link>https://divgearcmrfs2.cloudfront.net/article/391</link>
+ <description> &lt;p&gt;&lt;strong&gt;对抗中国网络封锁的“依附的自由”，日前为记者无国界组织利用。3月12日，记者无国界组织使用Greatfire的这一开源技术，为全球各地的9个网站解封，解封地区包括俄罗斯、伊朗、越南、古巴、沙特阿拉伯和中国。&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;自从2013年成功用“依附的自由”技术解封第一个新闻网站以来，网络自由组织Greatfire便在探索对抗网络封锁的途径。&lt;br /&gt;&lt;br /&gt;大量封锁翻墙工具在近期在中国遭到干扰。但Greatfire使用不同的翻墙技术：他们将网站放在全球领先的CDN上。审查部门要封锁这些网站与app，必须封锁这些CDN上的所有网站与app。由于CDN构成了超半数的全球网络交通，封锁CDN，将对中国的网络服务造成重大的干扰，将影响到每一个网民。其所造成的经济损失也将十分重大。Greatfire认为，中国当局也深知封锁这些CDN对经济的影响。&lt;br /&gt;&lt;br /&gt;据Greatfire报道，中国当局试图通过干扰CDN来封锁他们的技术，但在封锁了一个CDN之后，便停止封锁其他CDN了。Greatfire因此认为，他们的这种“依附的自由”策略是成功的，便将该技术开源化，在其&lt;a href=&quot;https://en.greatfire.org/https/github.com/greatfire&quot; title=&quot;0% blocked&quot; rel=&quot;nofollow&quot;&gt;Github 页&lt;/a&gt;上公开了源代码，以便他人能使用同样的技术来解封网站和app。&lt;br /&gt;&lt;br /&gt;3月12日，在全球反审查日这天，记者无国界组织利用Greatfire的代码，为9个网站解封，分别针对俄罗斯、伊朗、越南、古巴、沙特、以及中国等国。记者无国界表示：&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;这些互联网的敌人审查互联网，剥夺了其居民在网络上获取独立报道的新闻与信息的权利。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Greatfire表示，每增加一个网站使用依附的自由策略，我们就向推到世界各地的防火墙迈进一步。在过去的一年里，Greatfire已经解封了包括泡泡、中国数字时代、谷歌、BBC中文网等网站，最新加入这一团队的是德国之声。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;自由浏览&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;同时，在2月26日，Greatfire发布了&lt;a href=&quot;https://play.google.com/store/apps/details?id=org.greatfire.freebrowser&quot; rel=&quot;nofollow&quot;&gt;“自由浏览”的安卓翻墙工具&lt;/a&gt;，以供中国网民自由上网。据Greatfire介绍，所有被中国封锁的内容都可以通过该工具访问，包括新闻、人权、民主、宗教、西藏等在中国被严厉封锁的内容。到目前为止，已有日均5000用户使用该工具。&lt;br /&gt;&lt;br /&gt;Greatfire介绍说，该工具不仅适用于中国，也适用于其他存在防火墙的国家。许多学校建立了防火墙，防止学生在校使用社交媒体，这个app也能帮助学生翻过这样的防火墙。&lt;br /&gt;&lt;br /&gt;Greatfire表示，该app是从OpenDoor上获得的灵感。OpenDoor是苹果移动系统上的翻墙工具。当中国审查部门发现无法阻止OpenDoor时，便要求苹果将其从中国的网店撤除。苹果当时答应了政府部门的要求。&lt;br /&gt;&lt;br /&gt;&lt;em&gt;本文中文版授权由泡泡编译，英文原版发表于&lt;a href=&quot;https://en.greatfire.org/blog/2015/mar/collateral-freedom-and-not-so-great-firewall&quot; rel=&quot;nofollow&quot;&gt;GreatFire&lt;/a&gt;。&lt;/em&gt;&lt;/p&gt;
+ </description>
+ <pubDate>Fri, 13 Mar 2015 16:34:42 +0000</pubDate>
+ <dc:creator>GreatFire</dc:creator>
+ <guid isPermaLink="false">391 at https://divgearcmrfs2.cloudfront.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/a.jpg?itok=WbWd3huK" length="28516" type="image/jpeg" />
+ <comments>https://d3t8jz6506hbdb.cloudfront.net/article/391#comments</comments>
+</item>
+<item>
+ <title>苹果回应向中国提交源代码</title>
+ <link>https://pp15.global.ssl.fastly.net/article/390</link>
+ <description> &lt;p&gt;据外媒报道，苹果已经同意向中国市场的提交产品源代码以及密钥，并且提供“后门”以供监管。对此，苹果方面最新回应称，他们只是同意让自家产品接受中国的审核，并不涉及源代码又或是密钥等核心技术。&lt;br /&gt;&lt;br /&gt;此外，&lt;strong&gt;苹果&lt;/strong&gt;方面还强调，虽然他们&lt;strong&gt;已经将其服务器转到中国电信&lt;/strong&gt;，但这只是为了让用户得到更好的体验，而不涉及任何安全问题，因为中国电信也不能够查看用户的数据。&lt;br /&gt;&lt;br /&gt;据了解，此前外媒Quartz报道，苹果可能已经同意中国即将出台的《反恐法》当中的部分条款。这部新法当中的条款规定，所有进入中国市场的外国企业都必须提交产品源代码以及密钥，并且提供“后门”以供监管。&lt;br /&gt;&lt;br /&gt;中国政府正在起草的《反恐法》草案要求所有在华外国科技公司提供专用的源代码和加密密钥，方便有关部门可以访问存储在这些公司服务器上的用户数据，美国总统奥巴马对于草案中所出现的针对外国科技公司进行安全审查的条款进行了强烈批评。奥巴马日前接受路透社采访时表示，如果中国想与美国企业做生意，那么就需要在上述规定中做出改变。“美国的科技公司肯定不乐意这样做，”奥巴马说道，“我不认为欧美的科技公司会愿意把用户的个人数据开放给政府部门。”&lt;br /&gt;&lt;br /&gt;微评：我觉得，在华外国科技公司提供专用的源代码和加密密钥给有关部门，可能存在的主要风险，一是知识产权的泄密，巨资研发的产品被他人轻易山寨，二是安全隐患，黑客可通过源代码分析出系统潜在的漏洞，并入侵系统获得用户信息。因此苹果不太可能会提交源代码和密钥给政府部门。&lt;br /&gt;&lt;br /&gt;本文转载自&lt;em&gt;&lt;a href=&quot;http://www.williamlong.info/archives/4170.html&quot; rel=&quot;nofollow&quot;&gt;月光博客&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+ </description>
+ <pubDate>Fri, 13 Mar 2015 12:38:14 +0000</pubDate>
+ <dc:creator>William Long</dc:creator>
+ <guid isPermaLink="false">390 at https://pp17.global.ssl.fastly.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/apple.jpg?itok=X2OZ28Su" length="27015" type="image/jpeg" />
+ <comments>https://d24f0fbbs0l72b.cloudfront.net/article/390#comments</comments>
+</item>
+<item>
+ <title>大数据：中国统治工具？</title>
+ <link>https://pp15.global.ssl.fastly.net/article/389</link>
+ <description> &lt;p&gt;&lt;em&gt;（&lt;span&gt;James Palmer是一位与中国新闻工作者密切合作的英国作家、编辑。出版过&lt;a href=&quot;http://book.douban.com/subject/10472768/&quot; rel=&quot;nofollow&quot;&gt;《The Death of Mao》&lt;/a&gt;&lt;/span&gt;）&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2009年7月5日，新疆的居民发现他们忽然不能上网了。断网对于偏远地区倒也不算稀奇，但是很快人们就察觉，这次网络是一去不复返了。乌鲁木齐当地年轻维吾尔人针对汉人的抗议最终演化为暴动，并造成了至少197人死亡之后，政府干脆断掉了整个新疆的网络。&lt;br /&gt;&lt;br /&gt;断网原是为了防止长期处于宗教和文化压迫下的维族人再次发生类似暴乱，也为了防止汉人报复。从这个角度看，断网可能奏效了。官方数据上看，此后新疆确实没有什么致命反击，但是断网这一举动如今被视为是政府下错了棋。&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;一位匿名的中国安全顾问把这场断网表述为“一个严重的错误”，“本来我们还能追踪恐怖分子的，可是现在已经被甩在千里之外了”。&lt;/strong&gt;年轻的维族人把互联网看成敌对领域，这是由当时&lt;a href=&quot;https://d2s8qxo7hs115t.cloudfront.net/article/243&quot; rel=&quot;nofollow&quot;&gt;伊力哈木·土赫提的被捕&lt;/a&gt;激起的。伊力哈木是著名的经济学教授，由于运营一个维语网站而被指控为“极端主义者”。一位精通科技的维族朋友说，“我们聊政治之前都要先关掉手机”。&lt;br /&gt;&lt;br /&gt;维族人仍然使用电子媒体，不过越来越多是以线下的形式：通过碟片看土耳其电视剧，通过记忆棒来传阅圣战的宣传。中国媒体曾报道，被捕的维族人都上过分裂主义的网站，但媒体如今看到更多的是满抽屉销毁的DVD和闪存盘。&lt;br /&gt;&lt;br /&gt;2014初的一系列残暴恐怖袭击再次给中国政府上了一课。为了把维族人逼下线，他们同时也扔掉大量有价值的数据。去年夏天，中国人民公安大学开始向海外招募数据分析专家，据我所知，还包括以色列保安部队的前成员。&lt;br /&gt;&lt;br /&gt;在新疆，严密的控制意味着信息减少。况且，中国政府在处理信息时历来关系紧张，无论是公开的还是私密的信息。如今&lt;strong&gt;，数据的激增，意味着许多以前被封锁的信息资源现在被开放了。对一些人来说，这可能是转向民主的信号。不过，政府内部的技术统治论者，也把它看作是一种更有效的独裁形式&lt;/strong&gt;。&lt;br /&gt;&lt;br /&gt;在正常运作的民主社会里，信息是从大学、报纸、非政府组织和民意调查等各种不同的独立渠道收集起来的。但是对中共而言，独立且不受控制的媒体仍是他们的眼中钉。媒体被告诫要“引导民意”，而不是反映民意。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;政府对数据的渴求&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;21世纪初，一个以数字为主导的市民社会慢慢地形成。社交媒体、公共论坛、泄密网站和新闻调查的出现，为曝光腐败现象、敦促国家遵循自己的法律，提供了相应的渠道。但是最近的三年来，所有这些努力都被残忍地击垮。曾经在网上领导舆论的律师、记者和活动家们，都被判刑、流亡、禁止使用社交媒体、因受到威胁而被噤声，或者以被迫在国家电视台上“忏悔”的方式当众被羞辱。不同于中共宣传意识形态，如家庭教会，受到了更强烈的迫害。新浪微博等社媒也受到严格管控，成千上万的账号被封，微博被删。&lt;br /&gt;&lt;br /&gt;然而这给北京带来了和以往一样的问题。从一开始，中央政府就企图在收集信息的同时，防止信息落入公众之手。&lt;br /&gt;&lt;br /&gt;从地震监测员到秘密警察，各路地方人马都为政府收集了数据，但是在党国内层层推进的过程中，由于政治和个人目的，这些数据都难免被扭曲&lt;strong&gt;。现在政府里的一些人把科技看作一个解决方法：可以直接从下往上收集数据，绕过层级制度的干预和被监督的危险。但对另一些人而言，在收集信息时哪怕放掉一点点控制，都会看作是对自身权力的威胁。&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;小任（化名），是个年近三十的北京小伙。在西方留学的那几年，一直热忱地在网上为中国辩护。不过他现在说，“我意识到原来我根本不了解情况，现在到处都是各种问题。”回国后在政府部门工作，他认为在一个“负责的”独裁环境下，监控社交媒体是政府跟进和回应舆论的最好方法。腐败官员会被指认出来，地方问题会得到高层关注，民众的呼声也会传到政府耳朵里。与此同时，人们还可以把数据分析技术应用在一些地区的危险群体上，从而有效预防“大型群体事件”（即暴乱和抗议活动）的发生。&lt;br /&gt;&lt;br /&gt;小任说：“既然我们已经清除了‘大V’，那么就不用担心普通人说什么了。”大V是新浪微博及其它社交媒体认证的名人还有“公知”，一般都有很多的粉丝。他们在最近的三年里被系统的清除了。如今这些有号召力的舆论领导者和其他意识形态已经被剿灭，政府就不把公众的这些怨声载道看成直接威胁，而是潜在的消息源。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;不可公开的数据&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;中央政府对自己国家的了解微乎其微，这点中央政府自己也心知肚明。地方政府各自为政，为了各自的利益，扭曲上报的数据。比如，上级对于官员的评估，原本很大程度上是以数据衡量的，尤其看重国民生产总值(GDP)的增长。但暗地里，评估结果也取决于家庭背景和直接贿赂。这就导致官员们不择手段的在数据上做手脚。维基解密透露过，现任总理李克强，在2007年还是辽宁省党委书记的时候，曾经跟一个美国官员提到，GDP的数字基本上是“人造的”， “仅供参考”。&lt;br /&gt;&lt;br /&gt;和很多其他的分析师一样，李克强也说他会更多依赖代理数据，因为这个数据相对难以伪造。以他所在的辽宁省为例，若要测量它经济是否增长，则看电力、铁路运输和支付贷款的数据。不过他同时也需要通过“官方和非官方的渠道”来收集信息，甚至通过“来自省外的朋友来取得（我自己）无法获取的信息”。&lt;br /&gt;&lt;br /&gt;李克强的困境和历朝的皇帝差不多。中国的统治者历来来都试图收集有用的数据，尤其是农村地区的。在记录多样且庞大的人口上，中国的皇帝们可算是尽心尽力。早在古代，中国就通过户籍制度，试图掌控人民从生到死的各类细节。政府官员长途跋涉，翻山越岭，深入到偏远村庄。而与此同时，地方领导者向京城编出各种好话来掩盖自己的不足。&lt;br /&gt;&lt;br /&gt;共和国也继承了这些问题，但在此之上，共和国也执着于数据，这是借鉴苏联的经验。共产主义是“科学的”，所以得有证据来支持这个论断。五十年代的报纸上尽是关于生产增长、全民劳动的篇幅和图片。记者们仍会在故事里加上好多不必要（而且通常是虚假的）数据。（比如“新的工厂面积为2794平方米”）“数据显示”是大陆写作语言里被滥用次数最多的词汇之一。&lt;br /&gt;&lt;br /&gt;所有这些现象，导致了&lt;strong&gt;中国的真实信息总是被嫉妒掩盖，哪怕政府内部也是这样。几十年来，哪怕是那些最无害的数据，也被当成国家机密一样看待。&lt;/strong&gt;就连政府部门的联系电话，都只有寥寥几个特权人士才能得知。&lt;br /&gt;&lt;br /&gt;基层的数据交到上级来的时候已经面目全非，这一点中央政府也是明白的。负责掌管工业数据的国家统计局经常会要求更直接的汇报。他们会直接致电给企业，让他们把数据直接发给统计局，如果有企业拒绝，或者发现地方政府修改数据，则会点名批评。比如2013年9月，统计局的网站上就挂出，云南省的某镇将工业增长值的数字擅自翻了四倍。不过，一个权力更大的机构的初级官员对我吐露，国家统计局整体上还是很无助的，因为他们缺乏内部的影响力来执行其指令。&lt;/p&gt;
+&lt;p&gt;上级政府的策略是，派官员突击检查。不过擅长面子工程的地方政府，早就料到这一招，并有所准备。还有一个方法是信访制度，这个早在公元七世纪就已经制度化了。该制度让个人得以越过地方政府而直接向高级政府请愿，甚至可以直接到中央去上访。这个制度依然存在，而且每年要处理数百万计的请求。但是这个制度从来都没起过作用。那些上访者更多地被看成是挑事者，还会被拷打，或者囚禁。这个问题的产生，某种程度上也是因为对于官员的评估标准之一：其管辖区上访者的人数越少，说明地方政府治理有方，腐败也因此有了诱因。&lt;/p&gt;
+&lt;h2&gt;“数据是取之于民的，那也应该用之于民”&lt;/h2&gt;
+&lt;p&gt;“中间人”的不断干扰，使得中央政府的某些人热衷于直接获取数据。就以争论不休的人口问题为例，歪曲信息有利也有弊：在计划生育政策之下，农村家庭常常试图隐瞒超生，而农村的政府却倾向于故意多报人口数量，因为他们按照人口规模从中央获得好处。相反，城市地区则倾向于少报人口数量，因为他们需要保证城市化的速度在可控制水平。北京的官方人口数据是两千一百五十万，但是公共交通数字显示，真正的人口数量应该在三千到三千五百万之间。&lt;/p&gt;
+&lt;p&gt;理论上来说，中国的国家监控已收集了大量个人数据，足以向政府提供有价值的信息了。身份证，这个中国居民无论是去银行还是去医院都必不可少的证件，已经有了射频识别功能。中央数据库可以让人们在网上核对他人的身份证号和姓名，以此确认身份。但是除非被公安局（尤其是地方派出所）盯上，个人用身份证办理的事务不会被记录。所以官方拥有的异议人士的资料厚厚一叠，而对于日常生活的记录却很少。即使中央机构去寻找信息，但是这些信息已经先后被市级和省级的公安局扭曲了。&lt;/p&gt;
+&lt;p&gt;尽管政府内部收集了大量数据，中国的科学家和官员们也常会寻找西方的消息源。他们会通过海外项目显示的手机使用率来分析可能的人口流动情况。另外，身价二千五百五十亿美元的阿里巴巴的网购服务，也提供了大量的消费数据。如今智能手机提供的信息更多是为政府所需，甚至超过了秘密警察收集的资料。&lt;/p&gt;
+&lt;p&gt;中国收集数据本身，不存在道德偏向。美国的政治学者吉姆斯·斯科特，在他的《国家的视角》（1988）一书中提到，人口数据既可以用于普遍接种疫苗，也可以用于种族屠杀。&lt;/p&gt;
+&lt;p&gt;如果中国中央政府用这些大数据来打击腐败，确定潜在传染病源的位置，或者改善交通情况，那当然值得赞赏。有价值的数据还有助于非政府组织帮助复杂庞大的人口，帮助企业更好的看清中国的投资机会、开发中国的潜力。数据的流动可以绕过特权阶级，直接展现一个国家的潜力。中国科学院虚拟经济与数据科学研究中心的主任，石勇教授认为，这是一个道德问题，而非单纯的政府管理问题。他强调说：“数据是取之于民的，那也应该用之于民”。&lt;/p&gt;
+&lt;p&gt;绝大多数的中国人并不愿意向政府抗议。他们宁愿关注哪里有好学校，空气纯净指数是多少，地区医院的死亡率多高。在美国的大学里呆了二十年后，石勇回到了中国，因为中国这个成长中的信息社会带来的无数可能，让他兴奋不已。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;官员公示财产的阻力极大&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt; “假设我想搬到一座小城市”，他说，“我得知道这里的学校、房租和医疗条件。这些信息不是那么轻易就能得到的。相反，人们一般都跟熟人打听消息。”石勇指出，公开数据的阻力很大。阻力不仅来自政府内部，更多的还来自企业。“他们可能想保护自己企业的运营方式，很可能有些见不得人的事。”目前他正与和中国人民银行（央行）合作，建立一个全国性的个人信用评级系统。&lt;/p&gt;
+&lt;p&gt;石勇说，“事实上他们有两个数据库：一个用于个人信息，一个用于企业信息。他们想让我们两个都做，不过我拒绝了，我们只能先做第一个。这个数据很好看，比美国的还好看。因为其他的银行必须每天都直接把信息递交给央行。”相反，企业数据就非常难看，无从下手。“废料进，废品出，听说过吧？数据分析则是，小废料进，大废品出。”&lt;/p&gt;
+&lt;p&gt;石勇也强调，互联网已经将各省的情况开放给了中央政府。“比如反对PX（对甲二苯）的示威”，他提到了2011年8月大连及其他地区大规模的反对修建PX工厂的抗议事件。“二十年前，这种抗议根本不会起作用。但是这次，高层领导关注了此事。”&lt;/p&gt;
+&lt;p&gt;小量的信息注入，就已经在中国产生明显的影响。空气污染主要有两种形式：一种是相对大一些的可吸入颗粒物PM10，另一种小一些，叫PM2.5。多年来，中国的城市只公布PM10指数，而且数据也是从污染不太严重的地方挑出来的。但是自从美国驻北京大使馆等一些机构开始在网上实时发布独立检测的PM2.5指数以后，该指数在各大社交媒体被广泛传播，政府迫于公众压力，最后不得不调整政策。&lt;/p&gt;
+&lt;p&gt;关键的问题是，谁可以看见并使用这些数据。如果是仅限于官方使用，不管他们的目的有多单纯，所做的也无非是加强国家的控制能力。虽然中国有着强大的数据保护和隐私法，但并没有把保护国民的隐私不受国家侵犯放在首位，却反过来将政府官员和商人掩盖起来，让公众无法审视监督他们。官员财产公开的阻力极其强大。&lt;/p&gt;
+&lt;h2&gt;围墙花园里的百度&lt;/h2&gt;
+&lt;p&gt;不过，要是没有找到信息的工具，就算公开也毫无意义。在中国，大部分的搜索结果都被网络过滤掉了。百度拥有大陆四分之三的搜索收益。中国政府对外企的恐惧，建立了一座围墙花园，这有助于国产企业的繁荣。百度和许多中国网络企业都利用了这点。2010年谷歌宣布取消google.cn的内容审查之后，这位美国搜索引擎巨头就在大陆被无情的封锁了。其搜索份额从2009年的36%跌落至2013年的1.6%。不过百度消除了外忧，还有内患。包括国营的人民日报和新华社旗下搜索去年合并之后创办的“中国搜索”，都是百度的对手。&lt;/p&gt;
+&lt;p&gt;百度最近宣布，将推出一个大数据引擎，让公众搜索并分析有效数据。他们现在已经和交通部合作，通过从地图上获取的数据，预测交通趋势，进而协助管理交通。另外，百度还“借鉴”了谷歌流感趋势项目，和医疗机构合作，预测流行病的爆发。&lt;/p&gt;
+&lt;p&gt;百度因配合政府审查，以及在搜索结果中将付最高价广告费的公司置顶，被广为诟病。这就是为什么小任会说，“如果你想搜索‘民意’，你看到的前两页结果都是关于汽车的”— “民意”也是一款汽车的名字。&lt;/p&gt;
+&lt;p&gt;不过对于政府的干涉，百度还是默默地做了一些非正式的抵抗。比如百度搜集的用户个人信息就比谷歌少，一定程度上也是因为它的综合服务相对较少，但是它清除搜索历史的次数要比西方企业频繁很多。内部人士透露，在和政府的会议上，百度常会积极争取更多的网络言论自由。&lt;/p&gt;
+&lt;p&gt;这也导致了百度在政府并不受到广泛欢迎。“党宣部最近邀请了周小平（一个年轻的博客写手、极端民族主义者）演讲”，小任说，“大部分内容都是针对百度的，说他们是‘右派人士’（亲美、持民权、倡导自由市场）。你知道吗，他说，如果你去百度‘警察暴力’，搜到的结果是都是关于中国的。凭什么？怎么不显示美国啊？他问。他的演讲中掌声不断。”&lt;/p&gt;
+&lt;p&gt;不管企业用什么方法，国家的干预是无法抵制的。今年大概要新出一版更严格的国家安全法，里面会明文规定国家有权索取任何数据 – 事实上早就这样了 – 而且所有在中国工作的外国企业都必须将他们在中国的数据保留在中国。政府还打算扩展监控摄像头网络，并且大规模的使用人脸识别软件。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;公众的隐私何日受保护&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;石勇介绍说，个人银行和信誉的信息已经 “被用来反腐，确定腐败官员的关系网”— 因为腐败官员通常会把财产存放在亲戚或朋友名下。石解释说，党内的调查人员现在可以依靠数据分析，牵出官员背后原本隐形的关系网。&lt;/p&gt;
+&lt;p&gt;然而，确定亲友，把他们作为目标，也是中国一直以来对待有异见人士和揭发者的手段。以前，意识形态的分歧会让某人全家都被牵连，甚至满门抄斩。即使是在今天，人们还会以子女停学和解雇配偶为威胁，来对付这些“挑事者”。与此同时，在新疆，政府运用网络分析技术不仅来识别恐怖分子，还用来针对温和的独立运动分子，或者类似伊力哈木这样在学术上持不同意见的人（他的学生被迫做不利于他的证明），和伊斯兰教的老师。&lt;/p&gt;
+&lt;p&gt;后来我问石勇对于西方甚嚣尘上的关于政府监控的讨论的看法，他说这在中国以后也会发生的。“我们现在还没到那个地步。现在我们只是在建立基础设施，以后，发达国家有的那些法律保护措施，我们也会有的。”&lt;/p&gt;
+&lt;p&gt;可能真的会有那天吧。不过，我在中国的这十多年来，就一直人告诉我中国马上就会实行法治的。但 “马上”到现在也没有成为现实，现在反倒是加了个央视摄像头在上面。&lt;br /&gt;&lt;br /&gt;&lt;em&gt;本文由泡泡翻译，原文发表于&lt;a href=&quot;http://aeon.co/magazine/technology/will-china-use-big-data-as-a-tool-of-the-state/&quot; rel=&quot;nofollow&quot;&gt;aeon&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+ </description>
+ <pubDate>Fri, 13 Mar 2015 11:03:21 +0000</pubDate>
+ <dc:creator>James Palmer</dc:creator>
+ <guid isPermaLink="false">389 at https://d1w0bzp1snsjyg.cloudfront.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/id.jpg?itok=Zl_p_ipg" length="23488" type="image/jpeg" />
+ <comments>https://divgearcmrfs2.cloudfront.net/article/389#comments</comments>
+</item>
+<item>
+ <title>编程救香港：求变的一代</title>
+ <link>https://d3t8jz6506hbdb.cloudfront.net/article/384</link>
+ <description> &lt;p&gt;一百年前，晚清衰败，列强侵华，不少有识之士建议科技救国。到了今天，这想法仍未过时。香港网络组织&lt;a href=&quot;http://www.code4.hk/&quot; rel=&quot;nofollow&quot;&gt;code4hk&lt;/a&gt;创办人Vincent便相信科技可以治疗&quot;生病&quot;的香港。他使用的不是火药炮弹等杀人武器，而是由键盘上的数字、英文字母及符号组成的“程式”。网站起首的一句口号——“用程式改变香港”，掷地有声。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;雨伞运动“资料库”&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;组织现有多少人？&quot;这很难说呢&quot;。你们到现在完成了多少项目？&quot;唔…其实很难定义何谓完成…项目还需要不断更新&quot;。记者惯性问到成员数目、成果等这些传统上对&quot;成功&quot;组织的定义，偏偏对非常年轻的code4hk通通不适用。的确，它仅成立于2014年6月。又的确，它核心成员只有五六人，完成的项目才三四个。但是，这组织去年搭建的&lt;a href=&quot;http://today.code4.hk/&quot; rel=&quot;nofollow&quot;&gt;&quot;雨伞运动&quot;资料库&lt;/a&gt;不只名燥一时，有数千&quot;分享&quot;，点击率达十万，更令&lt;a href=&quot;https://pp15.global.ssl.fastly.net/node/173&quot; rel=&quot;nofollow&quot;&gt;国家级技术的间谍软件也要借其团队名义发布&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img height=&quot;381&quot; width=&quot;640&quot; class=&quot;adaptive-image&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/adaptive_image/adaptive-image/public/14121802110717_0.jpg?itok=tkFXE7GE&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;div class=&quot;field field-name-field-image-source field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://today.code4.hk/&quot;&gt;雨伞运动资料库截图&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;这个雨伞运动的资料库动员了二十多人，把台湾类似的网站修改少许便可，难度不大。反而需要人手帮忙更新和核对内容，又要通过社交网站广传。Vincent分享，&quot;很多内容来自成员的创意，如物资站统计表，网站地图&quot;。他又直言，code4hk正是彷傚&lt;a href=&quot;https://d3t8jz6506hbdb.cloudfront.net/node/209&quot; rel=&quot;nofollow&quot;&gt;台湾&quot;g0v零时政府&quot;&lt;/a&gt;的非传统组织模式，致力开发社群，搭建平台，让有心人自行发挥，策展工作，推动公民社会发展。&lt;br /&gt; &lt;/div&gt;
+&lt;h2&gt;&lt;strong&gt;用程序“开放政府”&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;本身是程式撰写员的Vincent忆述，筹组Code4hk，最先的目标是在不同场合认识的IT（资讯科技界）朋友，然后靠社交网络推广，透过开发的应用程式壮大组织。如&lt;strong&gt;一年前，团队便撰写一个&quot;财政预算案计算机&quot;，香港市民便能轻易知道新的预算案带来的税务影响&lt;/strong&gt;。今年这项目更得到南华早报青睐，在新一季财政预算桉的报导中同步发表。&lt;br /&gt;&lt;br /&gt;现时，Code4hk大概每两个月有一次活动，又举办IT分享会、写博客，和跨界别机构合作，如GoodLab合办数据图像化工作坊，又在前主场新闻，香港独立媒体网开设帐户撰写文章。核心成员有5至6人，出席黑客松（Hackathon）的有20多人，其他活动有30至40人，参加者以八九十后为主。26岁的Vincent，不是以高高在上的姿态&quot;指点&quot;成员，&quot;大家都可以提出各样意见构想，有些东西可以玩&quot;。他只是想带动好的气氛，&quot;谂计仔&quot;（想办法）让成员投入，在百忙中能持续参与。活动期间，参加者可以大谈他们的构思，或高手过招互相切磋，达至双赢。&quot;我不想流于空谈，希望有影响力&quot;，有制成品出现。除雨伞运动的资料库，其他项目包括新界东北发展地图、替香港独立媒体网撰写手机版。&lt;br /&gt;&lt;br /&gt;Vincent认为，&quot;项目本身的价值高于是否吸引眼球和点击率&quot;，&quot;每个应用程式就好像一个非牟利政府机构&quot;。他想做一个类似外国的FAQ政府网站，协助公众使用和了解政府服务。以香港为例，要加入IT届功能区别选民很复杂，但如果能搭建一个简易平台，协助用户简易使用政府服务，甚至有程式自动帮用户制作PDF、传真去相关部门。不过，野心虽大，但工余时间有限。碍于人力物力，看来这项目还要多等一会儿。&lt;br /&gt;&lt;br /&gt;主动出击，在网络寻找志同道合的朋友，亦是壮大组织的方法。刚大学毕业的Ken，便是这样被Vincent&quot;捉入来&quot;。去年，&lt;a href=&quot;https://d1w0bzp1snsjyg.cloudfront.net/node/40&quot; rel=&quot;nofollow&quot;&gt;明报前总编辑刘进图被斩六刀的事&lt;/a&gt;轰动香港，才二十出头的Ken为此搭建了一个资讯新闻网站。虽然Ken自称不是&quot;核心成员&quot;，但他同样肩负重任，不时到各大学宣传和推广，分享理念，物色新力军。我们强调&quot;参与式民主，每个公民可以如何参与&quot;，&quot;要自己先行动，继而影响他人加入&quot;。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;网民共建政府官员收支数据&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Ken引述台湾一个令人鼓舞的例子。本来，要查阅当地政治人物的政治献金纪录，必须前往监察院查阅，并只能影印携出。上年，&lt;a href=&quot;https://d24f0fbbs0l72b.cloudfront.net/node/209&quot; rel=&quot;nofollow&quot;&gt;g0v零时政府&lt;/a&gt;的黑客松活动，有软件设计师提出&quot;开放政治献金&quot;的项目，他把政治献金影印资料数码化切割成小图，号召网民上网帮忙阅读（情况就如平日打验证码，输入图画中的数字）。结果，近万名网民在24小时内一同完成31万笔政治献金资料的比对，建成资料库。只要更多民众投入参与，台湾的政治献金文化将掀开新一页，真真正正置于阳光下让公众监察。&lt;br /&gt;&lt;br /&gt;相信内地民众，同样渴望把官员的收入和支出制成数据库。不过，Ken坦言，&lt;strong&gt;类似组织若想在中国生存，并不容易，&quot;大家都明内地政治情况&quot;。然而，另一方面，他又指出内地发展数据库的潜力比香港更大，&quot;内地有太多数据需要收集及整理&quot;，如空气污染、食物中毒&lt;/strong&gt;。事实上，据Ken所知，中国政府有委任民间企业建设数据库，当然普通民众能否取阅资料又是别话。&lt;br /&gt;&lt;br /&gt;话说回来，code4hk参加者也有内地来港读大学的年青人。虽然成长背景或导致政见上，如对雨伞运动的看法不尽相同（香港人也持相异态度），但&quot;大家都认为内地应该可以玩Facebook&quot;，Ken和Vincent笑道，&quot;他们对研究（香港）立法会选举的数据很有兴趣&quot;。无他，内地没有嘛。&lt;br /&gt;&lt;br /&gt;未必人人懂得写程式改变社会，但求变的心，早就散落于八九十后心深处。&lt;/p&gt;
+ </description>
+ <pubDate>Thu, 12 Mar 2015 08:43:59 +0000</pubDate>
+ <dc:creator>闲民</dc:creator>
+ <guid isPermaLink="false">384 at https://pp17.global.ssl.fastly.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/code4hk.jpg?itok=OxpPtC7A" length="38772" type="image/jpeg" />
+ <comments>https://divgearcmrfs2.cloudfront.net/article/384#comments</comments>
+</item>
+<item>
+ <title>“苹果手表”的政治问题</title>
+ <link>https://pp17.global.ssl.fastly.net/article/387</link>
+ <description> &lt;p&gt;苹果日前发布了“苹果手表”，被苹果称为“最亲密的装置”。但这个“亲密装置”背后的科技也关联着种族、隐私、阶级等政治问题。以下是小编目前看到的，对苹果手表最尖锐的评论：、&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;苹果手表是否种族歧视？&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;记者&lt;a href=&quot;http://fusion.net/story/60771/will-the-apple-watchs-coolest-feature-work-for-people-of-color/&quot; rel=&quot;nofollow&quot;&gt;Alexis Madrigal指出&lt;/a&gt;，苹果手表最赞的功能是能够测量心率。苹果手表使用“光学传感器”来测量心率，手表背部射出一道强光，穿透皮肤，并从脉搏中反射给感应器；感应器分析光线在脉搏中的分布，以测量血液中氧气的含量，借此来计算心率。问题在于，肤色越深，光线从血液中反射回来的难度就越大，因此测量的准确性得到质疑。Madrigal指出，苹果总是使用苹果高层作为测试新产品的小白鼠（重点在于“白”），苹果的全白人高层，可能无法测试出深色肤色人士在佩戴苹果手表时经历的问题。同时，肤色越深，苹果手表所需发射的光线应越强，才能确保反射给感应器，因此深色皮肤的人士佩戴苹果手表将更耗电。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;苹果手表是隐私？&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;苹果手表是否可以锁屏？一台直接与iPhone相连的智能手表中，包含了许多私人信息。如果不能锁屏，脱下的苹果手表很可能泄露你的私人信息。&lt;/p&gt;
+&lt;p&gt;苹果手表的佩戴者可以相互分享心率。Tim Cook说苹果不会查看用户的健康资料。隐私权信息交流中心（Privacy Rights Clearinghouse）的负责人Pam Dixon&lt;a href=&quot;http://fusion.net/listicle/61049/apple-watch-privacy-security/?utm_source=newsletter&amp;amp;utm_medium=email&amp;amp;utm_campaign=realfuture&quot; rel=&quot;nofollow&quot;&gt;告诉Fusion&lt;/a&gt;，此前苹果向她展示了苹果手表：“苹果对后台使用协议禁止app开发商拷贝苹果手表用户的资料、或出售用户资料。”但协议是一回事，app开放商是否遵守协议，又另当别论了。2014年美国联邦贸易委员会就查出一个健康app开发商，将用户的饮食与运动资料出售给18家公司。如果你的心率信息被保险公司获取，很可能就造成保险歧视。（&lt;a href=&quot;https://pp16.global.ssl.fastly.net/node/347&quot; rel=&quot;nofollow&quot;&gt;图解：可穿戴设备可能泄露我们什么隐私？&lt;/a&gt;）&lt;/p&gt;
+&lt;p&gt;话说回来，带着苹果手表会不会像带着一个测谎仪呢？记者Kevin Roose在推特上描述了一个讽刺性的现象：&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;女友：你在蹦迪？&lt;/p&gt;
+&lt;p&gt;我：没，在睡觉&lt;/p&gt;
+&lt;p&gt;女友：那为何你的手表显示你心跳这么快？&lt;/p&gt;
+&lt;p&gt;我：手表被黑了！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;&lt;strong&gt;苹果手表将突显用户阶级本色？&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;科技产品消费者，已经出现了阶级上的分化（至少在心理上是如此）。不管是量贩式购买iphone的土豪们，还是卖肾买机的吊丝，只要跨越了iPhone的价格栅栏，你就进入了苹果的VIP房，制造了一种“iphone式社会平等”的假象。贫富之间的iPhone配置可能不同、月流量也许不一，但这些分别并非外人肉眼轻易可见的。&lt;/p&gt;
+&lt;p&gt;记者&lt;a href=&quot;http://fusion.net/story/60698/class-anxiety-brought-to-you-by-apple/?utm_source=newsletter&amp;amp;utm_medium=email&amp;amp;utm_campaign=realfuture&quot; rel=&quot;nofollow&quot;&gt;Kavin Roose认为&lt;/a&gt;，苹果产品的目标受众此前一直是年轻的城市中产阶级，而苹果手表（从349美元到10000美元的价格分化）的宣布则意味着，苹果开始区分自己的用户，其出售的产品甚至连最铁的果粉都负担不起了。“一万美元一台的限量版苹果手表将成为土豪的专属······成为苹果产品中身份地位的标志······那些原本觉得自己还算（与其他人）平等的人们，突然觉得屌丝了。”这样的市场转向，是否会令原本成就苹果的粉丝们开始远离这个品牌呢？&lt;/p&gt;
+ </description>
+ <pubDate>Wed, 11 Mar 2015 10:50:59 +0000</pubDate>
+ <dc:creator>泡泡</dc:creator>
+ <guid isPermaLink="false">387 at https://pp17.global.ssl.fastly.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/b_zihgnu8aajsvs.jpg?itok=ZHOc-lS5" length="22377" type="image/jpeg" />
+ <comments>https://pp15.global.ssl.fastly.net/article/387#comments</comments>
+</item>
+<item>
+ <title>观点：国民厌弃，“两会”在社交媒体上遇冷</title>
+ <link>https://d1w0bzp1snsjyg.cloudfront.net/article/386</link>
+ <description> &lt;p&gt;&lt;strong&gt;（泡泡特约） &lt;/strong&gt;大陆的两会是每年的“例牌菜”，也比当作是政治生活的重要组成部分。但是在今年的大小气候下，“两会”的报道萎靡不振，尤其在社交媒体上遇冷，却是往年少见的现象。一个被拔高为国家政治运作象征的高级别会议，在它所代表的人民那里却不受待见。&lt;br /&gt;&lt;br /&gt;按照往年的表现，两会是作为一个回应上年新闻报道的场合。记者会就上年和当前的舆论热点问讯代表委员，各个省区的代表团也希望在全国两会的平台上推销自个省份的良好形象。两会的参与者也乐意在镜头前表现个性，有的委员代表甚至都敢于讲真话。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;两会不再“自嗨”&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;但在近年来，全国两会自嗨的程度有了很大程度的回落。尤其是&lt;strong&gt;在去年，执政党进行了一场持续至今的反腐运动，将军多代表的军界、商人所代表的工商业界、演员所代表的文艺界，都卷入其中，许多“大老虎”落马，而由这些阶层精英所构成的委员代表群体，就此深陷名誉的危机&lt;/strong&gt;。&lt;br /&gt;&lt;br /&gt;在中国人的看法中，全国两会的代表委员非富即贵，他们中的世界级富豪比例最高，加之执政党内部的家族之争纷乱不断，两会本身成为一个受到国民审视、乃至于裨益的“花架子”。代表委员们也深知国民是如何评价他们的，他们愈是在两会上积极表现，愈是验证国民的负面评价。&lt;br /&gt;&lt;br /&gt;代表委员也深谙&lt;strong&gt;去年以来意识形态化的反复“耕耘”，政治气氛诡异，“说什么不说什么”，变成了“说还是不说”&lt;/strong&gt;。精明的民意代表们其实并不清楚界线，所以就干脆不讲。全国两会之前，媒体报道东莞两会上的富豪委员谁都不想发言，被记者逼急了，就歌颂共产党好，共产党英明伟大。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;社交媒体冷处理两会&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;来自委员代表们的声音变得稀少，媒体报道缺乏硬材料，大众传播空间中两会的报道数量下降——随之而来的是，对大众传播空间中的信息进行二次传播的社交媒体，其信息更是少之又少。微博不活跃，微信朋友圈不转载，&lt;strong&gt;全国两会与社交媒体用户像是处在两个不同的平行世界里&lt;/strong&gt;。&lt;br /&gt;&lt;br /&gt;中国的微博已经变成了高度政治化的宣传空间，即使是那些对两会抱着批评态度的公共知识分子们，也因为被压制活跃度，人数骤减，所以两会话题在它的批评者那里已经不能激起影响。既没有新闻报道，又没有社交空间的热议，两会的降温就是必然。&lt;br /&gt;&lt;br /&gt;特别是，在微信朋友圈中，大家对&lt;a href=&quot;https://d24f0fbbs0l72b.cloudfront.net/node/380&quot; rel=&quot;nofollow&quot;&gt;柴静的雾霾纪录片&lt;/a&gt;更感兴趣，当它被当局删了之后，就更感兴趣了。香港爱港青年发动的反水客活动，也因为涉及到陆港矛盾，也容易在朋友圈获得讨论机会。微信相对少的媒体属性，更让它疏远本就萎靡的两会议题。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;无声抗议&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;在这种消极对待全国两会的背后，是国民对当局政治话语日益贫瘠的无声抗议&lt;/strong&gt;。在清华大学教授孙立平看来，两会为代表的政治语言正在变得“假空简僵”：假话让语言失真，空话缺少信息量，简化让语言贫瘠，僵化则让语言可憎。对于这样的政治话语，不遇冷才不正常。&lt;br /&gt;&lt;br /&gt;在这样的局面下，两会不只是让听众观众、社交媒体用户感到老生常谈、面目可憎，同时也让委员代表们感到悻悻然。从前作为社会荣誉的代表或委员身份，越来越不受国民尊重，日益变成只在权贵阶层流通、自我欣赏与解嘲的玩物。没有人会对“皇帝的新装”有持久的兴趣。&lt;br /&gt;&lt;br /&gt;&lt;em&gt;本文中观点不代表本网立场&lt;/em&gt;&lt;/p&gt;
+ </description>
+ <pubDate>Wed, 11 Mar 2015 09:38:34 +0000</pubDate>
+ <dc:creator>袁小山</dc:creator>
+ <guid isPermaLink="false">386 at https://pp17.global.ssl.fastly.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/anp-31778118.jpg?itok=Sk863WVR" length="53938" type="image/jpeg" />
+ <comments>https://pp17.global.ssl.fastly.net/article/386#comments</comments>
+</item>
+<item>
+ <title>网络维稳之“群聊管控”</title>
+ <link>https://d3t8jz6506hbdb.cloudfront.net/article/385</link>
+ <description> &lt;p&gt;网络言论管制又被称为“网络维稳”，虚拟空间社交平台上的群聊功能被当局视作与线下的“群聚”同等敏感，比如线下群体事件中将参与者事先形成群聊，便于行动中的沟通呼应，平日里群聊也是传播时讯的好途径，群成员足够多或不同群中群友有重合的情况下对突发事件的扩散能起到很大程度上的助益。据媒体报道，中国当局曾经在敏感时段加强社交网络群聊管控，一次性关闭大量墙内应用上的群聊。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;微信较大型群聊强制实名&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;微信做为新生热门社交应用在群聊管控方面明显预设了自我审查。近日，有微信用户透露，微信群聊如达到100人上限继续加入者必须绑定银行卡以完成身份验证，否则无法加入。经本网测试属实：邀请一位完全没经过任何实名验证的账号加入一个已有一百八十余人的群聊，对方收到邀请提示后会跳出对话框：“你需要实名验证后才可以接受邀请”。&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;404&quot; width=&quot;480&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/1_14.jpg?itok=ZTBSzl_O&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;随即再将同一账号拉入一个只有二十多人的群聊中，很顺利完成，且不需要通过“邀请”手续。在早前，开通百人群只需要群主一人做身份验证，对群员没有验证要求。&lt;br /&gt;&lt;br /&gt;微信6.1.1版本“帮助与反馈”中显示：微信群最多为500人，100人以上的微信群主要针对已通过实名验证的微信用户：超过40人，你的邀请需要对方同意；超过100人，对方需要通过实名验证才能接受邀请，可通过绑定银行卡进行验证。&lt;/p&gt;
+&lt;div class=&quot;half-right&quot;&gt;&lt;img height=&quot;480&quot; width=&quot;374&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/2_9.jpg?itok=zvk7yepY&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;据一位推特网友透露，有朋友邀请他加入一个已经有百人以上的群聊，微信通知要求其必须先绑定手机号才可以加入。该网友表示，他的手机语言、地区、时间都是设置成台湾的。看来和设置地区有关，总之都是实名，对大陆用户来说就必须绑定银行卡了。&lt;br /&gt;&lt;br /&gt;2013年6月，&lt;a href=&quot;http://www.rfa.org/mandarin/yataibaodao/renquanfazhi/ql2-06052013110040.html&quot; rel=&quot;nofollow&quot;&gt;自由亚洲&lt;/a&gt;报道，六四敏感时段当局对QQ聊天群采取严厉的手段，如在群内发布被认为是敏感信息的，整个聊天群都会被关闭。一位QQ网民对自由亚洲表示：“腾讯在6月2日到3日、4日几天关群，关了太多了，我听说关了两万多个，我估计远远不止”。&lt;br /&gt;&lt;br /&gt;微信出现后，QQ的使用率相对下降很多，一部分原先的QQ群搬到微信来了。对QQ群人数的限定相对微信宽松很多，200人的群所有QQ用户均可创建5个，对于QQ会员来说还有更多优势，可以将上限提高至1000甚至2000人。想必和QQ群聊曾经出现敏感内容而被关闭较多有关，微信对群聊的控制明显加强。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;只能选择微信的用户如何绕避实名实现大型群聊&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;实名制的全面贯彻更便于当局监控定位，从红包功能的“诱惑式实名”到群聊限制的强制实名，依然有用户不希望被实名。如果放弃红包提现且没有绑定自己的手机卡的用户希望加入百人以上的群聊，目前看起来似乎无法直接操作，利用以下几种方法暂时能形成基本等效的沟通：&lt;br /&gt;&lt;br /&gt;1、按计划拉人。群主预先询问以下，将那些没有绑定身份验证的朋友先拉成群，超过百人时再拉入已绑定的用户。这个方法有一点局限，就是一个群只能拉入最多一百位未做实名认证的用户。&lt;br /&gt;&lt;br /&gt;2、建立系列群。可以一定程度上弥补上述方法的缺憾。比如，一个群体事件有五百人参与，如果全都是没有经过实名认证的用户，可以建立至少六个群（越少越便捷），通过编号来区别，固定几位负责沟通的群友分布在所有群中，联通各个群之间的通讯。事后迅速解散，如果群中有“敏感人士”，不通过实名认证加上不使用个人身份证购买的网卡，被定位的可能性也比较小。&lt;br /&gt;&lt;br /&gt;3、先绑后解。这种方法看起来比较简单，先绑定一个不是自己名字的空的银行卡，实现实名，拉入群中后解绑。但需要该银行卡对应的手机号接收验证。如果只能使用自己名字的银行卡，目前还无法证实解绑是否就代表彻底解除实名，如果有后台自动保存绑定记录的话，就是一次绑定“终身”实名。&lt;br /&gt;&lt;br /&gt;当然，以上都是基于目前状况的观察分析得出的应对措施，随着管制加剧还需要适时调整甚至废弃。此外需要注意的是，群聊拉人前尽可能事先了解对方身份，尤其是有可能出现较多敏感话题的群聊，如果随意拉入陌生人，容易危及到群的整体安全。仅表面上看，群聊在设置部分有一个“举报”按钮，如果有群成员举报，该群聊便有被封查的可能。&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;438&quot; width=&quot;480&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/tu_2_29.jpg?itok=ouuEjpV8&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://d3t8jz6506hbdb.cloudfront.net/article/357&quot; rel=&quot;nofollow&quot;&gt;本网曾有报道&lt;/a&gt;，去年4月2号，中国民主党浙江委员会数位成员被杭州市公安局国保传唤。警方的询问中包含谭凯先生设立的名为“民主大同思想研讨”的微信群中的聊天内容。如假设，没有群成员走漏消息，那么群聊的私密性就是不存在的；如假设当局及微信后台没有能力将所有微信群全盘监控，那么监控定位重点则很可能是针对“高等级敏感人士”的存在，比如上述消息中的浙江民主党人士。还有可能“定点”是通过群名称关键字搜索实现的，假设为真，那么组群的时候需要回避有可能被敏感定位的关键字，使用“脱敏”的群名，只要群成员能识别即可。当然，上述分析都存在一个前提：假设当局目前还没有能力全盘监控（或以传统的过滤关键字形式进行审查），否则有必要彻底放弃墙内应用。&lt;br /&gt;&lt;br /&gt;然早前就有反馈显示，一些比较长的文字内容里若含有系统禁止的敏感词，在微信群发布时会被拦截，而发布者并不知情（仅自己可见）。甚至在一些敏感时段，这种审查可能引起微信群直接被关闭。据技术人士推测，前者触发了微信基于关键词的审查机制，而后者甚至有可能是人工审查的结果，这个结果或许会被上报到相关部门，以决定是否需要进一步的处理。还有一些敏感程度相对较高的内容，比如关于一些历史、现实、行动、群体性事件的内容，尽管能够完成发布，但就以往的经验，这些内容将被直接上报到有关部门，已导致不止一个发布者因此遭遇麻烦的案例。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;基于安全考虑更推荐使用&lt;/strong&gt;&lt;strong&gt;Telegram&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;对比使用量数据，微信可以说是目前为止最热门的一种墙内即时通讯工具了，如基于信息安全考虑，使用微信就远不如使用暂时还比较小众的Telegram，具有强加密、自删除，注重隐私等特点。使用端到端加密——密钥只存在于自己和对方的设备上，除非攻破手机否则信息不会被窃取。安全聊天的内容和日志均不在云端保存。选择Telegram的私密群聊，人数上限200。虽然不是很多，但整体安全保障远比微信等墙内应用要高，所有訊息包括文字及图片等都会经过高度加密（256位元AES及RSA 2048等技术），防止黑客窃听。解决群成员人数上限问题，可以参照上述方法2，设立多个群聊，固定几位群成员负责在各个群之间沟通重要消息及探讨得出的方案等。&lt;br /&gt;&lt;br /&gt;Telegram可以实现跨平台，iOS、Android、WP、Web、Win、Mac、Linux 均可使用，另有 Chrome 插件和Linux 命令行版本。但使用国行机是不安全的，这与Telegram本身的安全性没有关系。如果直接修改系统framework层的textview控件（APP要显示文字必须使用的控件），就可以轻松拿到内容，甚至还可以修改密码输入框，想想都可怕，所以拒绝国行机很有必要。&lt;br /&gt;&lt;br /&gt;此外，Telegram用戶可以在不同设备上登入同一账号，阅读及整理讯息收发都会比较轻松，但这里有一个问题：Telegram是需要手机短信验证的，对于敏感人士来说被当局全面监控的可能性较大，手机短信验证登录有潜在的风险，也就是说很容易在其他设备上登录某“监控对象”的账号。不过这样一来本主可以从自己账号绑定的手机上看到其他号码，但如果当时使用的是电脑登录则不容易看出。建议使用前，先在“设置--隐私和安全--安全菜单”中选择“注销所有其它设备上的会话”。如果基于这点疏漏考虑，选择非绑定手机号认证的加密通信软件如 &lt;a href=&quot;https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im&amp;amp;hl=zh_CN&quot; rel=&quot;nofollow&quot;&gt;chatsecure&lt;/a&gt; 等则更为安全。&lt;br /&gt;&lt;br /&gt;去年10月，在知名通信软件Viber被墙时就有网友推测称“whatsapp和telegram或许也撑不了多久了”。当然，被墙意味着大陆当局的监察管制对其没有办法，可以认为更安全，对翻墙技术的要求是一贯强调的，尽可能对大陆网友普及使用墙外社交平台的重要性。比如Hangouts，它的环聊人数上限相对较低，只有15人，另外推特私信也已开通了群聊功能，人数上限20人，虽然目前只能在电脑上使用，但安全性被认为是可靠的，它们都适合小范围的敏感议题专用。&lt;br /&gt;&lt;br /&gt;尽管telegram、Gmail等已经采取了各种措施提升安全性，但是由于监控的全面和深化，尤其是针对用户设备的监控，比如国产/国行机隐蔽预装的间谍软件等，都有可能造成泄密或者安全漏洞，甚至直接的安全问题，和应用软件自身安全性无关。这是用户需要明确的。&lt;/p&gt;
+ </description>
+ <pubDate>Tue, 10 Mar 2015 07:41:22 +0000</pubDate>
+ <dc:creator>Sylar</dc:creator>
+ <guid isPermaLink="false">385 at https://d3t8jz6506hbdb.cloudfront.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/wen_tou_tu__13.jpg?itok=Y_DjooA4" length="24601" type="image/jpeg" />
+ <comments>https://pp17.global.ssl.fastly.net/article/385#comments</comments>
+</item>
+<item>
+ <title>向海外媒体“喂料”的反讽</title>
+ <link>https://pp15.global.ssl.fastly.net/article/383</link>
+ <description> &lt;p&gt;“两会”期间，全国政协社会和法制委员会副主任、中央政策研究室原副主任施芝鸿的一段受访言论在无意间泄露了一个广为人知的“秘密”。根据财新网的&lt;a href=&quot;http://topics.caixin.com/2015-03-05/100788504.html&quot; rel=&quot;nofollow&quot;&gt;报道&lt;/a&gt;，他在谈及海外媒体对中国反腐的报道时说：&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;“特别是有的海外媒体在手上明明无料可爆，又未获得大陆主管部门喂料的情况下，硬要抢先爆料，只能寄希望于瞎掰编造。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;“喂料”这个含义明确又颇为“接地气”的词，堪称首次由一位体制内高层公开证实中共的确在向海外媒体提供关于腐败案件的线索。此前，人们根据许多案例总结出经验：虽然海外媒体对中国政治的报道鱼龙混杂，但却常有惊人准确的“谣言”——或曰“遥遥领先的预言”。现在，施芝鸿明确证实了“喂料”的存在。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;“喂料”已成常见动作&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;施芝鸿在受访时给“喂料”加的主语是“大陆主管部门”，这在一定程度上提升了他这段发言的安全系数。毕竟，如果“喂料”仅仅是主管部门的事情，那么顶多算是披露了中共打击腐败时的一项策略，并未涉及更深层的黑暗和讽刺。&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;但事实上，“喂料”的主语恐怕远不止于“主管部门”&lt;/strong&gt;。否则，人们能够读到的将仅仅是那些铁定要落马之人的贪腐内幕，不会有关于温家宝、习近平家族的贪腐消息见诸报端。&lt;br /&gt;&lt;br /&gt;在中共高层的政治斗争中，任何一方都有渠道向海外媒体“喂料”，它几乎已成为斗争中的常规动作。&lt;br /&gt;&lt;br /&gt;作家何清涟&lt;a href=&quot;http://www.voachinese.com/content/heinglian-blog-zhongnanhai-20150306/2671183.html&quot; rel=&quot;nofollow&quot;&gt;说&lt;/a&gt;，“稍有常识的人都知道，《纽约时报》关于温家宝家族、戴相龙家族在平安保险的详细持股情况，彭博社对习近平姐姐家族财富的报道等，绝对是内部人‘喂料’给记者之后，才有了这些可遇不可求的深度调查报道。”&lt;br /&gt;&lt;br /&gt;《纽约时报》和彭博社从未承认他们接受了中共高层的“喂料”，只是强调了自身为调查付出的努力。但倘若没有人指引方向，他们的调查就好像要在大海里捞一根针，成功的可能性极低。&lt;br /&gt;&lt;br /&gt;当然，对于外媒来说，他们也有理由不关注“喂料”这件事本身：作为媒体，只对自己报道的事实负责就可以了，至于爆料者的动机，并不在专业主义的考虑范围之内。&lt;br /&gt;&lt;br /&gt;我们只能从另一些海外媒体，特别是海外华文媒体获知“喂料”的细节。明镜新闻网总编辑何频曾在《&lt;a href=&quot;https://books.google.nl/books?id=rZEkBQAAQBAJ&amp;amp;redir_esc=y&quot; rel=&quot;nofollow&quot;&gt;中国权贵的死亡游戏&lt;/a&gt;》一书中披露自己接受“喂料”的过程：&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;2012年2月2日，我正在台北出差。一大早，我约好朋友在台北君悦大饭店的前台大厅会面。这时，我的手机响了。“你是明镜新闻网的老板吗？”一个低沉、略显紧张的声音问。明镜新闻网是我在美国所办的中文网站。我回答是的，那声音悄声说道：“给我另外一个私人号码，我有很重要的事告诉你。”&lt;/p&gt;
+&lt;p&gt;这个情况我以前也遇到很多。那人声音像是个中年人，我把正巧在我身边的一个同事手机号码给了对方，他马上拨了过来。我们的通话很短，他没有自报姓名。他披露，重庆市公安局局长王立军刚刚被解职，并因腐败问题接受内部调查。我感觉难以置信。来电人觉察到了，激动中提高了声音：“相信我，这是百分之一万的准确了。”&lt;/p&gt;
+&lt;p&gt;……&lt;/p&gt;
+&lt;p&gt;根据无名氏电话中提供的线索，加上我自己的判断，我向我的网站编辑口述了王立军的消息。这位编辑在北京时间2日上午11点把这一消息放上了明镜新闻网。报道中，我提到了王立军有可能已经因腐败问题被调查。我万万没有想到，那条一百字左右的新闻稿，拉开了一部政治连续剧的序幕。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;“喂料”的做法并不只存在于高层斗争中，它也是中共应对外界挑战时的一项可选策略。2013年南方周末新年特刊事件中，广东省委宣传部部长庹震就曾向新加坡《联合早报》喂料。后者在1月6日刊发的《官方知情人士：南周献词非庹震删改》中称：官方知情人士透露，广东省委宣传部长庹震事发时根本不在广东，事件确实与他无关，也与广东宣传部没有关系。&lt;/p&gt;
+&lt;p&gt;这则消息本身漏洞百出——在这个全球化的年代里，庹震的“不在场证明”丝毫不能撇清他与事件的干系，更无从撇开整个广东省委宣传部的责任。但是，它从颇具影响力和公信力的《联合早报》发出，证明了中共对海外媒体的“喂料”能力。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;“喂料”的反讽&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;“喂料”可谓中共对国际舆论的创造性利用。从另一个角度看，这也是一种充满了反讽的策略。&lt;/p&gt;
+&lt;p&gt;首先，“喂料”盛行的前提是任何人都有料可喂——无论是已沦为阶下囚的周永康、薄熙来，还是正在台上的习近平及其他常委，还是已“安全”退休的温家宝等前领导人，都能被挖出不光彩的材料。近来中共很喜欢用“塌方式腐败”这个短语来形容某些省份，其实它也非常适合用来形容整个高层。&lt;/p&gt;
+&lt;p&gt;其次，“喂料”说明中共的政治斗争还停留在密室、无规则的地步。民主国家也存在政治斗争，有时候还非常激烈，但这样的斗争在很大程度上是公开、透明、摆在台面上、有章可循的。即便是《纸牌屋》这种刻意放大美国政治阴暗面的剧集，也从另一个角度介绍了美国政治游戏规则之烦琐和健全，要想打出一张意料之外的牌十分艰难。反观中国，“喂料”式的斗争依然有很深的草莽色彩。&lt;/p&gt;
+&lt;p&gt;第三，“喂料”的对象是海外媒体，而不是党控制下的国内媒体，这本身也是一件讽刺的事情。对国内舆论的潜质，导致国内媒体非常虚弱，无所作为，这就让海外媒体有了市场空间。中共许多领导人在台面上大谈西方“普世价值”之危害，大谈西方媒体对中国的“妖魔化”，私下里却将外媒视为可资利用的工具。&lt;/p&gt;
+&lt;p&gt;在海外媒体“喂料”大戏火热进行的同时，我们好像从来没有听说过美国两党之争中会有政客给新华社和CCTV“喂”一些政敌的负面材料——那就权且把它当作一个“中国梦”，时常做一做吧！&lt;/p&gt;
+ </description>
+ <pubDate>Mon, 09 Mar 2015 09:27:54 +0000</pubDate>
+ <dc:creator>鲍帆</dc:creator>
+ <guid isPermaLink="false">383 at https://pp17.global.ssl.fastly.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/congress.jpg?itok=CW0FOkYd" length="28353" type="image/jpeg" />
+ <comments>https://pp17.global.ssl.fastly.net/article/383#comments</comments>
+</item>
+<item>
+ <title>“棉条快跑”：电脑程式是女性主义的新战场？</title>
+ <link>https://pp17.global.ssl.fastly.net/article/382</link>
+ <description> &lt;p&gt;打开皮包不小心卫生棉条掉出来了、到超市买棉条卫生棉结帐时觉得彆扭…这样的经验虽然很难说是“普世”经验，但对占了地球人口一半以上的女性来说，应该一点也不陌生。既然月经是每个女人共有的经验，它的历史远比人类这种物种还要悠久，为什么大家对这么寻常的事还是这么大惊小怪？别忘了还不只是这些小彆扭而已，月经也充满了禁忌，比如说经期来潮的女性被视为不洁，不应该祭拜神明或祖先；也有人说女人的经血会带来衰运，甚至可以拿来当武器攻击牌桌上的对手了。&lt;br /&gt;&lt;br /&gt;为了对抗月经这个寻常生理现象上的众多荒谬禁忌，美国两个少女开发一个叫做&lt;a href=&quot;http://tamponrun.com/&quot; rel=&quot;nofollow&quot;&gt;“棉条快跑”（Tampon Run）&lt;/a&gt;的游戏，让女英雄们向禁忌抛掷棉条，消灭所有可笑的月经禁忌。（&lt;a href=&quot;https://itunes.apple.com/app/tampon-run/id948757853&quot; rel=&quot;nofollow&quot;&gt;IOS版本&lt;/a&gt;）&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;棉条快跑&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;开发“棉条快跑”的Andrea Gonzales （16岁）与Sophie Houser （17岁）结识于Girls Who Code（“编程女孩”）夏令营，事实上“棉条快跑”就是她们夏令营的结业作品。不同于早已对程式设计充满兴趣的Andrea，Sophie之前并没有任何程式设计的经验，也就是说她完全是到夏令营后才学会编写程式的。经过七周的密集训练后，她已经可以制作“棉条快跑”游戏软体了，让人不得不开始思考女性学习程式设计的无限可能。这个游戏问世之后，不仅是游戏一炮而红，Andrea与Sophie也瞬间成为新闻热门人物，连“时代”、CBS都对她们进行了专访。&lt;br /&gt;&lt;br /&gt;令人印象深刻的是，这两个小女孩之所以选择女性主义色彩浓厚的主题来制作游戏，并不是受到“编程女孩”夏令营的影响，毋宁说，是因为她们自身强烈的女性主义认同，在年轻女性否认女性主义蔚为主流的时代，这样的发言真是让人感动地热泪盈眶啊！&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img height=&quot;458&quot; width=&quot;640&quot; class=&quot;adaptive-image&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/adaptive_image/adaptive-image/public/3035331-inline-i-1-play-tampon-run-an-adventure.jpg?itok=aXsxlILJ&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;div class=&quot;field field-name-field-image-source field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://tamponrun.com/&quot;&gt;“棉条快跑”截图&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2&gt;&lt;strong&gt;女性主义的新战场&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;“我一直都说我想做个电脑游戏，可能带着某种女性主义的戏谑在里头，因为我一直觉得电脑游戏中过度性欲化女性是一个非常值得讨论的问题，”Andrea 说。当Sophie 开玩笑地说她们可以向人们丢棉条，“棉条快跑”的概念就此诞生。&lt;br /&gt;&lt;br /&gt;“棉条快跑”能不能扭转人们对月经禁忌的看法呢？它或许不能够终结月经禁忌，但至少这个游戏将一般人不愿谈论、不愿提起的课题，带进主流论述之中，并轻而易举地进入到最需要这种性别平权意识的青少年族群中，对生理现象的去禁忌化，远比古板过时的性教育课程有效的多。更有意思的是，当女性开始掌握编程的能力，她们的作品与男性工程师的创作通常有着非常不一样的关注点，“棉条快跑”本身就是一个很好的例子：一个男人大概如何也想不到、也不愿意使用这样的点子吧。而当她们的作品进入平常被男性作者/使用者垄断的软件市场，也会对整个生态产生极大的影响，比如说，它吸引了我这样从不玩游戏的女性，生平首度陷入玩游戏的小小沉迷，而向坏人丢棉条的动作，实在是一个令所有女权运动参与者、女性主义者爽快不已的动作啊！&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img height=&quot;505&quot; width=&quot;700&quot; class=&quot;adaptive-image&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/adaptive_image/adaptive-image/public/30639-1vjph4m.jpg?itok=hjb4viEp&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;div class=&quot;field field-name-field-image-source field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://tamponrun.com/&quot;&gt;“棉条快跑”截图&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2&gt;&lt;strong&gt;编程女孩&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;“棉条快跑”的故事中当然还有一个不可或缺的环节，也就是提供这两个女孩舞台、给予她们相遇与合作机会的&lt;a href=&quot;http://girlswhocode.com/&quot; rel=&quot;nofollow&quot;&gt;“编程女孩”夏令营&lt;/a&gt;。由程式工程师Reshma Saujani创立于2012年，至今这个夏令营已经遍及美国14州，计有近3000名参与者，其中绝大多数（94%）决定往后继续在电脑科技业发展，更有85%决定日后成为电脑工程师。Saujani在接受CBS电视台访问时表示，让她兴起创立“编程女孩”的理由，是因为：“打开电视，我看不到跟我一样的女孩在当程式写手、黑客或工程师，而女孩们都张大眼睛在看、张大耳朵在听，她们会说：好吧，那我也选择放弃好了。”而数据也证明，虽然中学时代有74％的女孩对理科有兴趣，只有0.3%的高中女毕业生会选择电脑科技为主修，而电脑科技无疑是未来最具前景的工作。目前全美科技学院的毕业生只有12％是女性，比起1984年的37%显示了令人忧心的趋势。&lt;br /&gt;&lt;br /&gt;为了对抗女性投入科技产业两大困难：自我怀疑与女性不擅长数理的文化刻板印象，“编程女孩”于焉诞生。这是一个免费的课程，参与者只需自行负担交通费，但家境困难的学生可以申请交通补助；除了程式教学（如电脑科学、机械学、网页设计、行动软件设计），它也鼓励女孩们思考如何用程式来改变社会，同时也训练她们团体合作、简报与企划书写作的能力。此外， 她们也会到Google、Facebook、Twitter等电脑科技业龙头的总部进行参访，让她们看见电脑科技的职场未来前景是多么光明。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;对抗越趋僵化的职业性别分工&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Saujani将编程当作女性赋权（empowerment）最好的工具，“你可以轻而易举将一整个世代从贫穷解救出来，并将这些年轻女孩放上百万年薪的轨道。”就像过往女权团体到第三世界国家的穷乡僻壤，教导女性读书识字、学习使用缝纫机做女工，以改变她们的生活困境，电脑科技被当作扭转性别与阶级差异的最佳利器，有望藉此改变男女薪资差距的问题。更有人相信这是女性生育子女后二度就业的最好契机。这听起来似乎颇有道理，毕竟程式语言没有肤色、也没有性别之分，它甚至不需要固定的场所与时间，打破传统受到时间与地点限制的工作场域形式，较能够免除通过工作场域显现的种种隐形歧视。&lt;br /&gt;&lt;br /&gt;传统的“女性产业”，无疑对男女薪资的不同等有推波助澜的工作，比如说服务生、店员、看护与幼保工作，被当做无门槛的低阶工作；而同样不需要太多训练的男性工作如建筑工，则享有极高的薪资。有了子女后的女性，偏爱弹性工时的自由工作（freelance），但受限于照顾子女的需求，往往无法自由外出，因此工作范围都限制在低给付的文书企划，反观男性则以高薪资的网页与程式设计为主。&lt;br /&gt;&lt;br /&gt;未来在电脑化与自动化的影响之下，产业必然要走向人事精简化，其中以女性为主的办公室文员工作尤其首当其冲。虽然随着人口老化，看护与照料工作的需求也会增加，却无助于改变女性弱势的经济处境。这当然不是说我们不必去检讨并对抗僵化荒谬的职业性别分工，以及对所谓女性低阶工作的不合理薪资剥削，只是当职场的未来趋势无可避免地向科技产业倾斜，我们更应该致力于打破职业性别刻板印象的藩篱，让女性也能够迎接未来的职场挑战。&lt;/p&gt;
+&lt;h2&gt;数位世界中的女人&lt;/h2&gt;
+&lt;p&gt;“一个提着笔记本电脑的女人，比一个拿着枪的男人更有力量。”女性赋权团体World Pulse的创办人Jensine Larsen如是说。无可否认的，电脑科技已经为全球各地的妇女权益带来了正面的影响。无数的女性藉此获得健康、教育、职业训练与参政的资讯，她们也能够通过网路更容易地串连、聚集、寻找资金，改变自身与其他女性的命运。今日生育子女后的女性，不必像以往一样，面临工作与母职难以兼顾的两难局面，就算她们选择家庭，也无须放弃自己的理想，埋首在家庭主妇的杂务中闷闷不乐，她们可以在由一群母亲创立的PowerToFly平台上寻找适合的工作，自行决定适合自己家庭的工作时间与型态。&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;然而在科技产业，女性的参与率还是一个严重的问题。&lt;/strong&gt;近年来十分火热的开放原始码运动，女性的参与率只有1.5%，虽然以这个运动的原始精神来说，与女性主义其实有许多相似之处。等等，那Facebook的女营运总监桑德伯格（Sheryl Sandberg）？是的，我们当然没有忘记这位打破玻璃天花板的铁娘子，还有她那本让很多女人头皮发麻的Lean In（《向前一步》），还有Yahoo的Marissa Mayer、Xerox的Ursula M. Burns、GM的Mary Barra...等，但事实是在美国五百大企业中，只有4.8%的CEO是女性，男女比例差距仍十分遥远。&lt;br /&gt;&lt;br /&gt;不过或许这些数据本身根本就不是问题的重点，一个女人能不能到男人的世界中一争高下，其实从来就不是女权运动的核心。我们关切的应该是怎样赋予女人自觉与自决的能力，而不是要她们为了自己野心不足而深感惭愧。电脑科技或许不能让每个女人都翻身致富、挤身名流，但就像16岁的Andrea已经很清楚意识到的，时代呼唤着女性跨出传统的产业性别分工，探索数理与科技的新领域，她说：“程式语言就是新的识字力（literacy），我深信每一个女人都应该学习怎么写程序。”&lt;/p&gt;
+ </description>
+ <pubDate>Sat, 07 Mar 2015 13:00:06 +0000</pubDate>
+ <dc:creator>Agnes Poe</dc:creator>
+ <guid isPermaLink="false">382 at https://d24f0fbbs0l72b.cloudfront.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/intro3.jpg?itok=AMr_ylYe" length="21970" type="image/jpeg" />
+ <comments>https://d24f0fbbs0l72b.cloudfront.net/article/382#comments</comments>
+</item>
+<item>
+ <title>我在CCTV的那些日子</title>
+ <link>https://d24f0fbbs0l72b.cloudfront.net/article/376</link>
+ <description> &lt;p&gt;&lt;em&gt;【编者按】Wiki是一位来自香港的新闻系学生，他利用假期在中央电视台进行了两个月的实习。受过多年新闻教育的他，如何感受大陆的媒体审查机制？他写下了自己的经历和感受，本文首发于&lt;a href=&quot;http://www.inmediahk.net/node/1031603&quot; rel=&quot;nofollow&quot;&gt;香港独立媒体&lt;/a&gt;。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;一直想分享在cctv的那段日子，让更多人知道这个机构的情况，虽然我只是在综艺频道工作，但多少折射到这个机器下的某些人事，太多细碎的事和话，未能尽录，但我永远不会忘记这个特别的经历。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;抵埗&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;刚抵埗北京，中央电视台的职员便告知我被安排到综艺频道实习，确实的栏目则未定。坦白说，当时我感到非常失望，因为我原本申请的是新闻频道，亦一心抱着观察内地新闻运作的目标来到北京，对于被分派到综艺频道这个安排，实在是始料不及。后来，我被分派到一个综艺栏目担任导演助理，主要跟随节目导演组工作。&lt;/p&gt;
+&lt;p&gt;由于我与另一位来自树仁新传的同学，对于分配频道的安排都非常失望，因此我们多番与人力资源部沟通，希望可以调换频道。起初中央电视台方并不允许调换申请，理由是我们不熟悉内地事务，以及新闻频道位处“新台”，怕我们长途跋涉会有危险等。后来，港澳办人员介入周旋，中央电视台终于答应将我们调派到〈中文国际频道〉。然而，人事部解释进入“新台”的手续严谨，必须要经领导审批才可取得入台证，需时甚久，着我们耐心等待。最后，我们等到实习完结的那天，都未获批该入台证，换言之我便在综艺频道完成了两个月的实习期。&lt;/p&gt;
+&lt;p&gt;这趟申请调配频道的风波，虽看似与实习经验无关，却侧面折射出内地媒体运作的作风：&lt;/p&gt;
+&lt;p&gt;第一，安全监察极其严密。任何人要进入电视台范围必须持有入台证，而入台证的申请手续非常繁複，需经多重审批，包括申报详细个人资料、撰写入台报告、领导逐一批核等。加以，电视台入口有个武警把守，逐一查证进出人士，没有入台证的人是绝对不可能进内的。&lt;/p&gt;
+&lt;p&gt;第二，不信任外地新闻实习生。申请过程中，人事部人员一直推搪说不能调动，理由是怕我地长途跋涉会有危险，故不希望将我们安排到位于新台的新闻频道。但事实上，新台与我所住的宿舍之间，只是半小时的地铁车程，而且中途无需转车即可直达，可见其“担心”是不合理的。我们推测，更重要的原因是因为我们来自香港，故不便进入新闻部工作。后来我跟一位同事谈到这个问题，他亦爽快地说：“算了吧，以你的身份是不可能进入新闻部的，中央电视台有太多秘密了。”&lt;/p&gt;
+&lt;p&gt;第三，行政系统僵化。我们多次向人事部职员提出调配部门的意愿，但对方却一直以各种理由推塘和拖延，并没诚意进行沟通。直至后来港澳办介入，事情才有转机。&lt;/p&gt;
+&lt;p&gt;这次可说是我第一次感受到内地媒体的严密与封闭，内地政府的确是极其小心地保护国内媒体，行外人是不可能接触到内部的资讯，甚至连踏足电视台范围亦不可能。至于对频道的安排，我虽然失望，但是后来慢慢想清楚，又觉得即使处于综艺频道，我仍然可以从另一个角度去观察这个媒体的生态和运作，于是我便慢慢开始投入和尝试享受我的工作。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;工作和观察&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;两个月的实习期里，我都是在同一个栏目组中渡过的。这个节目的主要性质是“向艺术家致敬”，其实即是邀请一些有名的歌手、演员上台到场表演，再搭配一些新晋艺人、表演者或“具启发性的普通人”（即是某励志故事的主人公），从而达到新人向旧人致敬，以及娱乐观众的目的。栏目组共有八位导演，包括一位总编辑，另外还有其他工作人员共十多名；节目每月录影一次，每次录製六至七集，每位导演负责一至两集，每月录影期为三至四日。&lt;/p&gt;
+&lt;p&gt;因此，除去那几天的录影期之外，其余时间我都是留在办公室，主要工作是跟随导演开会，商讨嘉宾选角和节目安排。总编辑安排一位年轻导演作为我的实习导师，由她为我安排工作。然而，由于我不太熟悉内地艺人和内地节目模式，因此起初的大部分时间裡，我都是处于一个被动的观察角色，希望能在最短的时间内了解节目的要求和团队运作。&lt;/p&gt;
+&lt;p&gt;我发现，导演们每星期只有两至三天会待在办公室，其馀时间便会留在家中构思节目内容和联络嘉宾，只有开会的日子才会回办公室，向总编辑报告他们的构思和进度。当导演们回来开会时，我便会坐在一边仔细观察，慢慢我发现他们请来节目的嘉宾来来去去都是那几位，而且都有一些共通点：所有嘉宾必须“政治正确”、超过一半以上的所谓艺术家都是共产党员、节目中唱的歌都是我们口中所说的“红歌”……因此，可以选择的人真的非常有限，难怪节目收视持续下降，因为根本没有新鲜感，节目模式又那麽单一，又如何能吸引观众呢？一位导演曾经抱怨道做节目真的很难，他说：“为什么一个国家电视台，那麽多人都不能用呢？”其实他和其他人一样，心底里都知道答桉，但还是忍不住抱怨。&lt;/p&gt;
+&lt;p&gt;后来，当我渐熟悉情况后，导演开始安排我上网找一些艺人的资料和构思访问内容，过程其实是颇吃力的，因为我要在极短时间内对一个完全陌生的人“起底”，然后再构思他／她有什么与众不同的呈现角度。在我上网搜索那些艺人的过程中，我更加深深感受到内容审查对于节目创作的影响有多大，因为任我在百度上反覆翻查，“合规格”的艺人实在少之又少，尤其内地那些“德高望重”的艺术家绝大部分都是有共产党背景的，作品中亦渗透了极多歌颂政权的内容。那时侯，其实我的心挣扎得很厉害，因为我不愿成为宣传政权的工具，但偏偏我的工作岗位又要求我这样做，那些我最不情愿看到的内容，正正是电视台最渴求的。后来，我仍是坚持了那条不可跨越的原则，同时做了一些折衷：一、我尽量推荐那些有名气、内地官方可接受，但与政权关系不那么密切的艺人。二、我推荐一些与政权关系密切的艺人，但是发掘他们非政治化的一面作为节目呈现角度，例如他们与家人的关系。&lt;/p&gt;
+&lt;p&gt;除了节目选材外，另外一个使我印象最深刻的观察，便是同事的工作气氛和态度。来中央电视台之前，我本以为那里的工作环境是极之严格和高压的，但是我观察到的情况恰好相反。我发现他们的工作态度颇为懒散随意，而且心态轻送，并不如想像中紧绷，可体现于以下几点：&lt;/p&gt;
+&lt;p&gt;一、录影完后的一个星期，导演们都不会回办公室。&lt;/p&gt;
+&lt;p&gt;二、导演组不在办公室的时侯，其他人几乎没什么工作可以做，因此他们会找活动来消磨时间，例如上网看娱乐新闻、看小说、玩“斗地主”等。&lt;/p&gt;
+&lt;p&gt;三、他们每个星期四下午，都会去附近的室内运动场打羽毛球，费用由单位支付。做完运动后会提早解散，各自回家。&lt;/p&gt;
+&lt;p&gt;四、节目的收视一直下滑，频道主管提出若情况持续，便会停播节目。但是，他们对此好像不甚在意，只是开了一次会商讨对策，但是仍然沿用旧有节目模式。&lt;/p&gt;
+&lt;p&gt;五、电视台对实习生没有一套完整的训练计划，只是很随心地安排工作内容。而且实习生人数似乎没有上限，在我实习的两个月内，便先后来了五个实习生，但都是投闲置散、没有工作。&lt;/p&gt;
+&lt;p&gt;我思索了好一阵子，认为造成以上情况的原因有三：第一，因为这是综艺频道，而且我所在的节目不是重点节目，因此工作压力较小。第二，由于一个月只录一次影，所以工作编排不算紧密，较为轻松。第三，工作地点的因素。这裡要补充一下，其实这个节目的办公室并不在中央电视台的范围内，而是位于台址旁边的“梅地亚中心”，进出无需出示入台证，保安相对宽松得多。&lt;/p&gt;
+&lt;p&gt;由此可见，中央电视台综艺频道的组织工作并不如想像中严谨，甚至可以说散漫和不思进取，但是大多抱着不求有功、但求无过的心态，只要完成自己岗位的工作就可以了，不求改善节目质素。对于实习生，正如上面提及，电视台根本没有一套训练机制，只是随心安排一些很琐碎的工作，例如上网找嘉宾照片、帮忙下载电影片段、冲咖啡等，说真的，能从中学习的空间很小。加上，实习生人数不设限，而且没有一套官方的收生机制，我与另外三个实习生聊天时，才发现他们都是依靠人际关系而得以进台工作的，而且没有签下任何合约之类的文件，人事部甚至不知道他们的存在。我对这种“潜规则”感到十分吃惊，虽早有听闻内地工作极倚重人际关係，但亲身见证时又是另一种滋味，两个月的暑期内，一个总共只有二十多人的栏目，竟然先后请了五个实习生，由他们对实习生投闲置散的作风可以看出，其实栏目根本不需要这些实习生。&lt;/p&gt;
+&lt;p&gt;当我意识到这个现实后，灰心了好一阵子，因为我预视到自己将被投闲置散的事实。然而，我不甘心这样浪费两个月的时间，于是我意识到自己必须极之主动地学习，甚至要厚面皮地争取工作机会。虽然总编辑安排了一位导演作为我的导师，但其实那位导演为我安排的工作少之又少，尤其是开头的几个星期裡，她都只是叫我观察导演们开会的情况，即使去到后来她叫我搜集嘉宾资料，但工作安排都不多。于是，后来我主动要求为导演构思专场的嘉宾人选，向她解释每个人物的可看点，并构想整集节目的流程。我又提出帮她剪辑现场录影的片子，她开始也很惊讶，因为实习生极少会接触到这些后期製作，但是最后也愿意给予我这个机会，耐心地向我解释影片的要求。最后，我也终于有属于自己的作品可以留作纪念，我很感激这位导演。&lt;/p&gt;
+&lt;p&gt;在剪辑节目片子的过程中，我再一次感受到内地严谨的节目审查。一位专责于影片剪辑的年轻同事告诉我：“这（剪片）没有你想像中那麽简单，尤其你是从香港来的，判断不到哪些东西要、哪些不能要。”听了他的话后，我怀着战战兢兢的心情开始投入剪片，幸好我剪的那期节目的内容比较轻松，嘉宾的背景也比较简单，因此剪辑过程尚算顺利。唯一教我印象深刻的，是导演看了我的初稿后，要求我将一段嘉宾提及辛亥革命的说辞剪掉，可能任何有推翻政权意识的东西对内地而言都太过敏感，连国父带领的“革命”亦不例外。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我与同事的对话数则&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我与北京同事的交流，绝大部分停留于闲聊的层次，例如他们经常问我香港有什么必去的景点、必吃的地道小食等。然而，有几次的对话令我记忆深刻，虽然都十分简短，但足以反映他们的一些价值观。&lt;/p&gt;
+&lt;p&gt;第一次，是我与栏目总编辑的极简短谈话，那天是我工作的第一天，对话如下：&lt;/p&gt;
+&lt;p&gt;总编辑：“你是读什么的？”&lt;/p&gt;
+&lt;p&gt;我：“我是读新闻的。”&lt;/p&gt;
+&lt;p&gt;总编辑：“那你为什么会来综艺频道呢？”&lt;/p&gt;
+&lt;p&gt;我：“这是中央电视台安排的，我原来申请的是新闻频道。”&lt;/p&gt;
+&lt;p&gt;总编辑：“在内地做新闻跟香港很不一样啊，内地太多东西不能说了。”&lt;/p&gt;
+&lt;p&gt;他说最后一句话时，语气很理所当然，但脸上带有几分无奈。后来我从另外一名实习生口中得知，原来他也是大学读新闻出身的，后来辗转来到综艺频道，但并不喜欢中央电视台的工作方式，最近萌生去意。实习朋友说：“我感觉到老师（总编）也曾经是个有理想的人，但是在内地做新闻太难了，他也没办法，只好一直待在综艺频道。”&lt;/p&gt;
+&lt;p&gt;第二次，是我与一位女同事的对话。由于她的丈夫是台湾人，因此她的思想比较开明，政治触觉亦比较灵敏。有一天，她突然问我有关占领中环的事：&lt;/p&gt;
+&lt;p&gt;女同事：“香港人是要搞占领中环吗？为什么呢？”&lt;/p&gt;
+&lt;p&gt;我：“对啊，因为我们要争取普选，而且中央政府在回归时就答应了香港人要‘民主回归’嘛。”&lt;/p&gt;
+&lt;p&gt;女同事：“但你觉得有可能成功吗？”&lt;/p&gt;
+&lt;p&gt;我：“成功的机会很渺小，但也要试试。现在回想，‘一国两制’根本就是个圈套。”&lt;/p&gt;
+&lt;p&gt;女同事：“本来就是圈套嘛，怎麽你们现在才知道呢？香港很快就会变成内地那样的。”&lt;/p&gt;
+&lt;p&gt;她说最后一句话事的语气是带点可惜的，彷彿在感叹港人的天真，竟然中了中国政府的骗局。我不知如何回应，原来内地人对一国两制的“阳谋”，看得比大部分港人还要通透。&lt;/p&gt;
+&lt;p&gt;第三次，是与一位在美国留学的中国实习生的对话。对话发生在节目录影现场，那天刚巧请了两位新彊的小朋友演出，一位土生土长的北京同事突然说：“我最讨厌新彊人！”在场的人大概都猜想到是由于新彊的连串骚动所致，没有人作声回应。&lt;/p&gt;
+&lt;p&gt;然后，我跟那位实习同学开始聊起新彊，然后再谈到台湾和香港。因为她在美国留学了六年，所以思想比较开明，亦颇清楚港台发生的事。当我提到香港近年的情况时，她的回应与那位女同事一样：“一国两制根本就是个骗局。”然后她提到占中：“那是没有可能成功的，对共产党来说香港只是个小地方，不管你怎么搞、怎么闹，它都不会理你的。你看，新彊和西藏闹成这样，不也是老样子吗？”她说内地人普遍的态度都是：“香港人要闹就闹吧，反正也闹不出什么来！”我不知道这是事实，抑或是一种民众的错觉，彷彿香港是一个不值得关心的课题。最后她反问：“你真的觉得占中会成功吗？”我一时语塞，只能回答：“就算不会成功，也至少有努力争取过，总会有一点点效果的。”&lt;/p&gt;
+&lt;p&gt;最后，是与一位内地新闻实习生的对话。她说，原本她的志愿是当记者，所以当初才会选择新闻系，但后来发现在内地做“新闻”有太多制肘，几乎是不可能的。我问她：“难道你当初不知道内地的新闻业是这样的吗？”她说：“我知道，可是我不相信啊！人就是犯贱，总要见识过才会死心。”我问她毕业后有什麽打算，她说她想做休闲杂志的记者。虽然很可惜，但是在这样的环境下成为新闻系学生，我又能怪她什么呢？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;反思&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一直以来，对于中央电视台的立场和报导手法早有听闻，当初我亦是抱着“观察者”的心态来到北京的，希望可以深入这个作为国家最大喉舌的机构，观察它的内部运作。虽然最后我未能如愿进入新闻部门，但是从综艺频道的经验裡，多少也折射到这个系统下的媒体的限制，因此这个经验仍然相当难忘。&lt;/p&gt;
+&lt;p&gt;我清楚记得，在实习第一天，刚好碰上综艺频道主管与该节目组开会的日子，开会的目的是要检讨日渐下滑的收视。会议中，剧组的导演和工作人员提出很多内容上的限制对节目收视的影响，例如很多当红的嘉宾都因为各种理由而不能採用，又或者节目的风格太过拘谨和形式化等。然而，领导并没有正面地回应剧组人员的意见，只是一直强调电视台对于节目製作有严格的规定，不能随意改动。最令我印象深刻的，是他在会议尾声中说的一席话，他说：“既然今天有香港的同胞（指我）在，那我就说直白点。你们要记住，我们是宣传共产党的，不是搞艺术的，所有对共产党不利的东西都不可能播出。”虽然一直都知道中央电视台的“守则”如何，但亲耳听到时，那种赤裸仍令我感得异常震撼。事实上，后来的工作和观察中也印证了这个“使命”，所有节目内容安排都非常“政治正确”。&lt;/p&gt;
+&lt;p&gt;回到香港后，很多人问我在是次北京实习中学到什么，我的回答都是：要视乎你怎样定义“学习”，说真的，其实在实际工作经验上，学到的真的不多；然而，在工作的观察中，我的确感受到很多。最重要的得着，是这次的经历令我更加珍惜香港的媒体自由（相对地），因为我真切地感受到一个资讯被封锁的国度是多麽恐怖，而当传媒成为政权的宣传工具，又是多麽令人心寒。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;后话：北京的上访者&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;虽然我不在中央电视台内工作，但是每天上班都会经过电视台东门的入口。实习的两个月裡，每天我都看见一些来自内地不同城市的上访者，在门外求见央视领导，希望中央能正视他们的冤情。其中一位妇人用花布蒙面，手拿着申诉的纸板，每天早上都站在东门入口，直至我离开那天，她仍旧在那。又有一个身穿小丑服的男人，同样写着写满冤情的纸板，任由路过的途人围观，但只出现了数天就没有再见到他了。甚至有位带着女儿的父亲，在央视门外搭起帐蓬，显示非要与央视领导人见面的决心，同样地，这对父女只出现了数天。还有很多不同的上访者，趁央视员工上班和下班的时侯，静坐在门外的行人路上，希望能得到传媒的注视、为他们申冤。&lt;/p&gt;
+&lt;p&gt;我曾经主动与一位来自天津上访者交谈，他告诉我他的父亲在天津被一辆车撞死，报桉时发现原来涉事司机是公安局干部的儿子，非但入罪失败，而且还恐吓他和家人噤声。他的母亲不服，来到中央电视台门外申冤，但是待了两个星期都没有人理会，后来更被天津政府捉去强制拘留，下落不明。于是，他决定接替母亲到央视报桉、求见记者，将事件曝光，还双亲公道。我问他打算留守多久，他说：“等到中央电视台的人来见我。”我听后很难过，因为我知道央视不会理会他，可能他的下场亦与母亲一样，被公安抓回天津，面对不敢想像的刑罚。&lt;/p&gt;
+&lt;p&gt;这时，两位同事刚好经过，二话不说将我拉走，其中一位女孩说：“你不要跟那些人聊天！他们都是疯子，从各地来到北京讨便宜，要是让他知道你在中央电视台工作，一定会纒着你不放，你的麻烦就大了！”我突然被拉走，还未来得及反应，她的这番话的确让我犹豫了，我追问：“那如果是真的呢？中央电视台都不会管吗？”她回答道：“不会理他们的，每天都那麽多人（上访），中央电视台管得了多少？管了一个，就会有更多人跑过来。”我没有回应，因为我明白我说什麽都不能改变她的想法，“正义”、“人权”、“法治”等词语在我们之间都只是空洞的沟通符号，她不会理解我对这些价值的坚持，因为她一直以来都被禁止拥有这些意识。我继续发问：“那中央电视台就一直让他们待在那儿？”她说：“如果他们不闹事的话，就不会管他们，就让他们待着。”我有点意外，一直以为央视会驱赶上访者，但原来对上访者视而不见，才是它一直以来的策略。&lt;/p&gt;
+&lt;p&gt;我们走着走着，发现那位上访者追了过来，他把几张写满冤情的单张塞到我手中，嘱咐我要把他的情况告诉更多人。我接过他的单张，除了说几声“好的好的”之外，也不知还能安慰他什麽，只是感到很心酸。电视台大楼永远守卫森严，大门前的民警没有表情，进出的人们也没有表情，没有人敢为这群上访者驻足半步。至于我，作为这个机器下的一个小小的实习生，除了将那位上访者的故事带回香港、告诉更多人，也不知能为他做些什麽，但愿他与他的母亲平安。&lt;/p&gt;
+ </description>
+ <pubDate>Fri, 06 Mar 2015 09:03:26 +0000</pubDate>
+ <dc:creator>Wiki</dc:creator>
+ <guid isPermaLink="false">376 at https://d24f0fbbs0l72b.cloudfront.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/ai_wei_wei_.jpg?itok=N2myAmKV" length="23979" type="image/jpeg" />
+ <comments>https://d2s8qxo7hs115t.cloudfront.net/article/376#comments</comments>
+</item>
+<item>
+ <title>Wi-Fi万能钥匙：说是破解，其实有危险</title>
+ <link>https://d3t8jz6506hbdb.cloudfront.net/article/379</link>
+ <description> &lt;p&gt;Wi-Fi万能钥匙，这个APP两年前我也曾经傻傻的装到手机上过，当时比较无知，抱着试一试的心态安装了，然后发现、果然是鸡肋，想想也是，WiFi的加密方式即使用高性能的电脑通过字典破解也得好几个小时，凭什么一部小小的手机就能够在两分钟内破解wpa2的加密方式？&lt;/p&gt;
+&lt;p&gt;两年后的现在，当年的小团队壮大了，获得了不小的投资，年终奖每人一辆特斯拉，各大城市的各种人流密集的场所画重金砸广告，根据文案上的说法，他们竟然达到了5亿的装机量！有人说这个数据其实是假的，是刷出来的，为的就是告诉天使：“尽管把钱投过来吧，我们很能赚钱！”给每个员工一辆特斯拉也是为了这个。&lt;/p&gt;
+&lt;p&gt;对于以上的言论，我想说的是，这关我什么事= =&lt;/p&gt;
+&lt;p&gt;他们团队是不是在欺骗天使投资人确实和我们没有半点儿关系，他们自己作死就随他们去呗~然而有的事情令我不得不在意，也不得不说出来让更多的人知道。&lt;/p&gt;
+&lt;p&gt;这个“钥匙”为什么能够破解 Wi-Fi？它真的是“破解” Wi-Fi 吗？两年前我就有这个疑问了，原谅我对一切未知事物充满了好奇。当时我就绞尽脑汁加上各种途径搜寻答案，终于明白了些皮毛。&lt;/p&gt;
+&lt;p&gt;这哪里是破解嘛，当我知其原理之后一种厌恶的情绪顿时涌上心头，怎么又这么流氓的软件啊？这简直跟当年的 3721 浏览器插件一样恶心啊！&lt;/p&gt;
+&lt;p&gt;Wi-Fi 万能钥匙的工作原理是怎样的？&lt;/p&gt;
+&lt;p&gt;下面我把了解到的跟大家扯一扯，其实它根本就没有破解的功能，有不少的冤大头抱着试一试的心态装了这个软件兴高采烈地去破解别人的 Wi-Fi，初期确实是不会成功破解的，然后他们就把那软件给无视了。后来自己家新装了无线 Lan，高高兴兴的连了上去，却忘记了手机中这个沉睡已久的“钥匙&quot;，它悄悄地把家里的 Wi-Fi 信息给上传到了一个数据库，而这个数据库是 Wi-Fi 万能钥匙团队早已准备好的，凑巧的是，隔壁老王正好也装了这个 APP，他收到一条推送说附近有可以破解的 Wi-Fi，于是这个“钥匙”就给隔壁老王打开了一扇“蹭网之门”，也促使隔壁老王走上了 An Li 的不归路。&lt;/p&gt;
+&lt;p&gt;并且全国到处都是这样的冤大头和隔壁老王，更有甚者去到朋友家却连了他们家的 Wi-Fi 却把别人的 Wi-Fi 给分享出去了。&lt;/p&gt;
+&lt;p&gt;是的，它的破解原理不是什么穷举法之类的东西，根本谈不上是破解，分明就是盗窃！有人提出 Wi-Fi 万能钥匙的分享功能默认是关闭的，那么请看配图。&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;480&quot; width=&quot;270&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/tu_1_39.jpg?itok=-BQl0m9m&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;显然不是。&lt;/p&gt;
+&lt;p&gt;而且即使它说没有分享，作为一个根本看不到源码的普通用户有如何确定它到底有没有分享呢？&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.zhihu.com/question/23865652&quot; rel=&quot;nofollow&quot;&gt;Wi-Fi 万能钥匙是怎么收集数据的？ - 互联网&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;知乎上有位用户也抱着同样的怀疑，于是把 Wi-Fi 万能钥匙的安装包反编译了，之前人们说没有证据就说人家盗窃、侵犯隐私是诽谤、是污蔑，然而源码是不会说谎的。知道为什么 Wi-Fi 万能钥匙需要 root 权限吗？因为我们安卓系统的手机无线账号数据是储存在一个文件里的，那就是 /data/misc/wifi/wpa_supplicant.conf ，这个是系统文件，权限不够高是无法访问的，而这个文件极其重要，得到了这个文件，或者能看到这个文件的内容，就意味着能得到这台手机登录过的所有 Wi-Fi 热点，以及它们的明文密码！Wi-Fi 万能钥匙就是需要这个文件里的内容。&lt;/p&gt;
+&lt;p&gt;这位知乎用户将 Wi-Fi 万能钥匙反编译后放出源码，在源码的第 1051 行是这么写的：&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;94&quot; width=&quot;480&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/tu_2_27.jpg?itok=BXoJ8ZpN&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;const-string v3, &quot;cat /data/misc/wifi/wpa_supplicant.conf&amp;gt;/data/data/com.snda.wifilocating/wifi.conf\n&quot;&lt;/p&gt;
+&lt;p&gt;可以看到它不仅访问了 wpa_supplicant.conf 文件，而且将其复制到了自己的缓存目录下。哦，有一个重要的点忘说了，这个是 1.0 版本，当时还没有热点备份功能的，然而源码上却做了这种小动作。&lt;/p&gt;
+&lt;p&gt;有的人可能对此不以为意，也许是觉得自己网够快，不在乎别人蹭网，然而蹭网事小，安全事大。家里的无线 Lan 信息被公开了，各种黑客可以毫无障碍地进出你的电脑，这不是明显的安全隐患么？&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;366&quot; width=&quot;480&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/tu_3_19.jpg?itok=VVLCfU8u&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;千万别抱着“我没有被黑的价值”的侥幸心理，别以为黑客们动不动就黑人家 BAT（百度阿里腾讯）公司，支付宝里三百块也是钱，也有被黑的价值，此外一台电脑可以成为跳板（解释起来略麻烦，想知道请搜索），成为肉鸡（被控制的电脑），到时别人通过你的电脑作为跳板干了一些应当被查水表的事，警察跨省来找的是你。&lt;/p&gt;
+&lt;p&gt;因此，要有基本的网络安全知识，千万别去贪小便宜，公共场合连接了公共场合的 Wi-Fi 千万别轻易网购。很多人根本没有意识到“Wi-Fi”分享出去后有着诸多的安全隐患。&lt;/p&gt;
+&lt;p&gt;国内类似 Wi-Fi 万能钥匙这样的流氓产品还有很多，各式各样的 Wi-Fi 分享软件就不必说了。&lt;/p&gt;
+&lt;p&gt;然后是一些建议：&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;1、保护好自己的 Wi-Fi，不要因为好心就随意分享给邻居之类的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;2、如果有朋友来家里做客想要用你家 Wi-Fi，请确保他手机里没有类似的破解软件。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;3、定期修改 Wi-Fi 密码。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;4、Mac 地址绑定以及各种路由安全设置不再重复。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;5、关闭自己家的路由器 ssid 广播（看图），我就是这么干的蛤蛤蛤蛤 hhhh~&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;92&quot; width=&quot;266&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/tu_4_17.jpg?itok=ChBYb5Ac&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;6、劝导别人卸载 Wi-Fi 万能钥匙。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;7、把这篇文章分享出去让更多的人知道。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;补充一个 @远铭 提到的&lt;/p&gt;
+&lt;p&gt;按我说，创建一个公开的 Guest SSID, 内网隔离，设置 QOS，专门给客人用。 这样才能确保自己的 SSID 不会被无意分享出去。 隐藏 SSID 什么的就是做给小白看的。&lt;/p&gt;
+&lt;p&gt;花了将近三个小时整理＋手打好累的= =万一扩散出去了，那么一切都不是徒劳。万万没想到，两年前就觉得无耻的软件两年后变得更加没下限了。在没有隐私的互联网世界中，我希望能够通过这种手段让更多的人认识到安全隐患是无处不在的。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;本文转载自&lt;a href=&quot;http://www.zhihu.com/question/28201903&quot; rel=&quot;nofollow&quot;&gt;知乎&lt;/a&gt;。&lt;/em&gt;&lt;/p&gt;
+ </description>
+ <pubDate>Thu, 05 Mar 2015 08:26:01 +0000</pubDate>
+ <dc:creator>CATT-L</dc:creator>
+ <guid isPermaLink="false">379 at https://d3t8jz6506hbdb.cloudfront.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/mo_neng_yao_chi_.jpg?itok=wEElI6DA" length="15411" type="image/jpeg" />
+ <comments>https://d24f0fbbs0l72b.cloudfront.net/article/379#comments</comments>
+</item>
+<item>
+ <title>“被遗忘权”请留在欧洲</title>
+ <link>https://pp15.global.ssl.fastly.net/article/377</link>
+ <description> &lt;p&gt;经过逾半年的咨询和讨论，Google咨询委员会建议这搜寻器巨擘，不应在欧洲以外的地域实施“&lt;a href=&quot;https://d2s8qxo7hs115t.cloudfront.net/article/91&quot; rel=&quot;nofollow&quot;&gt;被遗忘权&lt;/a&gt;”，即肯定Google过往立场。&lt;/p&gt;
+&lt;p&gt;欧盟法院在去年五月判决，只要当事人觉得资料“不完整、无关，或者不再有关／无需要的”，都应有权申请移除Google搜寻器结果的超链接。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;独立咨询委员会讨论如何执行被遗忘权&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;直至本月Google收到约21万宗移除申请，涉及超过78.5万个超链接，当中接纳约四成。公司同时成立一个独立咨询委员会，建议公司在处理申请时，平衡个人私隐权及公众知情权。&lt;/p&gt;
+&lt;p&gt;委员会有十位成员，来自不同界别，包括维基媒体基金会创办人Jimmy Wales、Google前行政总裁Eric Schmidt、现任法律总监David Drummond、以及法国世界报编辑总监Sylvie Kauffmann等。去年9至11月在欧洲七个城市举行咨询会，本月初发表报告。&lt;/p&gt;
+&lt;p&gt;报告的重点，是讨论被遗忘权应只在欧盟地区执行，还是应该全球执行？这牵起保障资料当事人和司法执行力的冲突。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;被遗忘权不应超越欧盟地域&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;至今，Google只在欧盟境内落实措施，例如google.fr或者google.de。一欧洲隐私保护组织倡议，措施应全球落实，即在.com网域，以完全保障当事人，而欧盟的法例不会有漏洞。香港个人资料私隐专员公署一直研究&lt;a href=&quot;https://divgearcmrfs2.cloudfront.net/article/290&quot; rel=&quot;nofollow&quot;&gt;可否引入被遗忘权&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;其中一位委员会成员，德国前司法部长Sabine认为，判决没有指明地域范围，而移除超链接的申请，应包含所有网域。“当互联网属于全球，保护用家权利的措施也应覆盖全球。”&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img height=&quot;320&quot; width=&quot;480&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/sabine_leutheusser-schnarrenberger.jpg?itok=3a6YIB4K&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;div class=&quot;field field-name-field-image-source field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://www.inmediahk.net/node/1031603&quot;&gt;德國前司法部長Sabine Leutheusser-Schnarrenberger&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;然而，她是Google咨询委员会的少数派，大部份成员不同意。Google表示，欧洲网民使用Google搜寻器时，95%也使用所在地版本。委员会认为移除欧盟网域的超链接，足以发挥判决效果，保护当事人。&lt;/p&gt;
+&lt;p&gt;而维基媒体基金会创办人Jimmy强烈反对被遗忘权。他强调当出版者没有合适程序上诉，商业机构不应成为表达意见和私隐的基本权利的判官。欧洲议会需要修法，加强保护人们有表达意见的自由。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img height=&quot;320&quot; width=&quot;480&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/jimmy_wales_.jpg?itok=K7wtwX8d&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;div class=&quot;field field-name-field-image-source field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://www.inmediahk.net/node/1031603&quot;&gt;维基媒体基金创办人Jimmy Wales&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;另一方面，如果在全球实施，其坏处不容忽视。技术上，搜寻器公司可以防止欧洲网民登入.com网域搜寻资料，但该委员会忧虑，先例一开，极权国家会挪用这政策，以保障私隐为名，实为筛选搜寻结果，又或者如成员Luciano Floridi所说，要靠朝鲜的搜寻器找寻Google不存在的搜寻结果。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;资料涉及越多公众利益，越难申请删除链接&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;除了上述讨论，委员会还界定四项首要条件，判别Google应否除去搜寻器超链接：当事人参与公众领域的程度，资料类别，资料来源及时间。总的来说，如果当事人现时或曾经是公众人物，而资料涉及公众利益或知识传承，成功删除Google搜寻器超链接的机会较低。&lt;/p&gt;
+&lt;p&gt;Google咨询委员会界定的四项首要条件：&lt;/p&gt;
+&lt;p&gt;1. 当事人参与公众领域的程度&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;如果当事人在公众生活有清晰的角色（例如政客、行政总裁、名人、宗教领袖、体育明星、艺人），除去超链接的机会较低，因为大众会有强烈意慾透过搜寻他们的名字，了解其资料。对于有限度参与公众生活的人，例如校董或某些公职人员，Google应根据的指向的内容判别可否移除超链接。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2. 资料类别：什么类别的资料属于隐私？&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;报告认为，个人亲密或性生活、财务资料、联络或身份证明资料、欧盟资料保护法定义的敏感资枓、未成年人士的个人资料、错误而令当事人处于危险的资料等，其超链接会有较大机会被移除。属于公众利益的资料，包括关于政治论述、公民参与、管治议题；关于宗教或哲学论述；关于公众卫生和保护消费者权益；、促进讨论社会感兴趣的资料；、真确而不会令人陷于危机的资料、有助理解历史人物和事件的资料；以及有助探究科学或表达艺术的资料（例如戏彷当事人的作品）。这些资料有较大机会获保留。至于犯罪资料，报告指出总体应属公众领域。超链接的存留，应先跟从欧盟资料保护法条例。如果没有依据，则应从处境判断，例如犯罪的严重程度、申请人在该罪的角色、资料是否近期以及来源等。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;3. 资料来源&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;如果超链接指向的资料，来自新闻媒体、政府刊物、众所周知的博客或有信誉的个人，公众应可从搜寻器的人名搜寻出来。超链接不应被移除。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;4. 时间&lt;/p&gt;
+&lt;p&gt;是否随着老旧的事件就可以提出移除其超链接呢？&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;不一定，因为要同时考虑当事人的公众参与程度，以及事件本身。罪行轻微而且年代久远，移除搜寻链接的机会较大。然而，有些资料公众应获知情，例如性罪犯的犯罪资料，因为其他人或会翻查背景，以确定他／她适合担任诸如教师的职位。另外，有人即使离开公务，但过往的公职经历需要留存。报告还表示，当事人的童年生活有较大机会获移除链接。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;不过，委员会没有着墨处理身份漂白的问题。本地经济评论员David Webb质疑，会否有人在成为政府官员或公众人物前，透过向Google要求移除不利他／她的资讯，移除链接“漂白”自己。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;出版商应有权事先知会并给予意见&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Google现时会通知资料刊载者，其搜寻结果超链接要删除。委员会支持并进一步建议，在复杂的个案，搜寻器可以在决定移除前先通知它们，听取刊载者的意见，务求决定减少争议。刊载者应该有途径向Google挑战不合理的移除。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Google&lt;/strong&gt;&lt;strong&gt;法律总监：妥协空间有限&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;报告总结，“在考虑判决的相称性及实际效果后，Google移除欧洲境内各国Google搜寻器结果的超链接，是最适合落实（被遗忘权）判决的做法”。&lt;/p&gt;
+&lt;p&gt;被遗忘权组织跟Google的角力，即隐私及资讯自由的角力持续不断。《金融时报》引述Drummond，指Google希望跟隐私机构商讨对判决的不同理解。但倘若Google接纳委员会全部建议，其实与欧洲隐私组织达成被遗忘权司法管辖权的共识有限。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;本文转载自&lt;a href=&quot;http://www.inmediahk.net/node/1031603&quot; rel=&quot;nofollow&quot;&gt;香港独立媒体&lt;/a&gt;，不代表本网立场&lt;/em&gt;&lt;/p&gt;
+ </description>
+ <pubDate>Wed, 04 Mar 2015 08:05:04 +0000</pubDate>
+ <dc:creator>易汶健</dc:creator>
+ <guid isPermaLink="false">377 at https://d24f0fbbs0l72b.cloudfront.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/bei_yi_wang_quan_.png?itok=qOT10ixq" length="129139" type="image/png" />
+ <comments>https://pp16.global.ssl.fastly.net/article/377#comments</comments>
+</item>
+<item>
+ <title>2015网络管制“新常态”的“四个全面”</title>
+ <link>https://d3t8jz6506hbdb.cloudfront.net/article/381</link>
+ <description> &lt;p&gt;        “新常态”是近期出现的被使用率最高的一个政治术语，借以描述变化的政治生态和经济短期前景。运动式净网自去年延续到今年后也进入了一个“新常态”，借用习近平提出的“四个全面”一词，表现在网络管制上就是：全面清洗、 全面封锁、全面调用和全面渗透，361度无死角。其实准确说应该是“更全面”，还“更彻底”。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;全面清洗：从内容到注册信息&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;        2014的运动式净网针对的是文字、图片和视频，不论是即时通讯工具、论坛、贴吧还是网站，已经全面扫荡了一遍。官方提供的数据显示，屏蔽和关闭了数千网站、关停各类帐号180万个、清理各类“违法有害信息”逾10亿条……总之都是针对内容的大清洗。而净网运动进入2015年后，首先是对注册信息下手了。&lt;/p&gt;
+&lt;p&gt;        2月4号，据官媒人民网报道，国家互联网信息办公室发布了《互联网用户账号名称管理规定》，对公众使用微博、微信等上网的账号名称（包括头像和简介）进行规范，明确提出网上昵称不准违反法律、危害国家安全、破坏民族团结、侮辱诽谤他人等“九不准”。全文共十条内容，规定全面实名制工程完工的“最后时限”和ID、头像管制条例启动时间，是3月1号。&lt;/p&gt;
+&lt;p&gt;        2月26号官媒&lt;a href=&quot;http://news.xinhuanet.com/politics/2015-02/26/c_1114447624.htm&quot; rel=&quot;nofollow&quot;&gt;新华网&lt;/a&gt;引述国家互联网信息办公室有关负责人的话报道了账号管制条例正式实施前期，墙内几大头牌网络公司争相“展示成效”：新浪微博处置违法违规账号５５００个，如假冒党政机关误导公众的“广东省委省政府”“安徽省省政府”，传播暴恐信息的“东伊运”等（中国官方曾指责&quot;东伊运&quot;策划暴恐袭击，但专家和人权组织纷纷怀疑，是否真的存在这样一个团体）；百度贴吧处置名称宣扬低俗文化、头像包含淫秽色情内容等账号２３４９５个；腾讯公司处置微信、微博客、ＱＱ、ＱＱ空间四大平台中违法违规账号２５８３６个，如假冒企事业单位发布虚假信息的公众账号“中国食品安全网”，简介传播聚赌、涉枪等信息的“澳门赌场网”“来现场试枪”“售套牌车”　“开上海发票”等；天涯论坛、凯迪社区注销登记违法违规账号４４７个，如假冒媒体名义发布虚假新闻的“新华社”“ＣＣＴＶ焦点访谈”“人民网”等。&lt;/p&gt;
+&lt;p&gt;        这些数字还是经各互联网公司自我审查得出的，待3月1号，上述管制条例正式启动后，网信办直接筛查，或可能会出现因“违反”此规定被处罚的案例。经验显示，带有“杀鸡儆猴”目的的手段一般会在这样的情况下使用。&lt;/p&gt;
+&lt;p&gt;        &lt;a href=&quot;https://d1w0bzp1snsjyg.cloudfront.net/article/361&quot; rel=&quot;nofollow&quot;&gt;本网曾有分析&lt;/a&gt;，一直以来，一些持明确政治立场或上网目的的用户在社交网站注册账号时，会通过ID名、头像以及自定义微博页面背景图等方式来体现个人主张。比如，部分崇尚普世价值观的大陆网民，在ID中会加入“MZ（民主）”的标志；营救盲人律师陈光诚期间，很多陈光诚的支持者会将自己的ID修改为“要有光要有诚”等相关名称，以示立场。头像也是体现上述立场和主张的途径之一。比如，香港占中时段，大陆挺学生、支持雨伞革命的网名会选择相关标志图做头像；周小平高度敏感时段，持驳斥当局标榜五毛立场的网友，会选择类似变态辣椒相关讽刺漫画做头像等。此外，微博或微信简介则更多被选择用来标示博主的主张或博文的主体思想。&lt;/p&gt;
+&lt;p&gt;        那些带有时效价值的ID和头像设置，基本不会被一次性清除，随着其他热点敏感事件出现，还会有网友更换头像、简介等信息以示立场，或许微博等社交平台会在后台用户账号设置部分添加文字和图像的过滤器——出现敏感内容将被转向提示“无法注册”，但使用谐音、符号等代替敏感词条有可能会绕开过滤器完成设置修改。也就是说，“一次性彻底清除”的可能性不大，该项清查或就此进入“新常态”。很可能同时以口袋罪加以恐吓，比如“寻衅滋事”等，&lt;a href=&quot;http://www.cac.gov.cn/2015-02/04/c_1114246561.htm&quot; rel=&quot;nofollow&quot;&gt;《互联网用户账号名称管理规定》&lt;/a&gt;中第九条显示为：“对违反本规定的行为，由有关部门依照相关法律规定处理”。这种含混的说话给罪罚的下定以很大的延伸空间。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;全面封锁：互联网时代的闭关锁国&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;        根据GreatFireChina在去年底的统计，全球排名前1000的网站，2013年在中国有62个被封锁，2014有169个被封锁，全球18家主要新闻网站目前有9家网站在中国被屏蔽。在持续批量封锁境外网站的同时，GFW升级持续，常用翻墙软件接连失效，自由上网的机会变得越来越奢侈，世界上最大的国家局域网渐次成型。&lt;/p&gt;
+&lt;p&gt;        中国当局于去年提出的“网络安全新规”中包含要求海外公司， 尤其是希望进军中国银行业的科技企业向中国有关部门递交产品，接受中国政府设定的安全测试、向中国政府提供敏感的源代码并使用中国自己的加密算法；此外，中国还可能进一步要求外国科技企业存储由中国境内公司生成的数据，并向中国政府公开加密办法。&lt;a href=&quot;http://www.rfa.org/mandarin/yataibaodao/meiti/cyl-02062015103428.html&quot; rel=&quot;nofollow&quot;&gt;此规定遭到欧美企业联合抗议&lt;/a&gt;，由美国商会牵头的17家贸易组织近日联合敦促美国政府对中国的网络安全新政策表示抗议， 因为中国网络安全新规将限制或伤害美国信息与通讯技术企业在中国的经营能力、知识产权和商业秘密。据悉，该“新规”或将从3月15日起开始生效。&lt;/p&gt;
+&lt;p&gt;        据&lt;a href=&quot;http://www.ftchinese.com/story/001060763&quot; rel=&quot;nofollow&quot;&gt;金融时报&lt;/a&gt;消息，十几家美国商界游说团体于2月向美国四位内阁部长致信，提出请求：要求奥巴马政府，针对这些新规定“立刻采取措施”。信中表示：“这些政策一旦全面实施，将威胁到美国企业参与中国IT市场的能力，该市场的规模高达4650亿美元。我们的企业为此蒙受的损失，反过来会导致在美国研发投入的降低，从而伤害美国的就业和创新。”&lt;/p&gt;
+&lt;p&gt;        美国纽约城市大学政治学教授夏明博士最&lt;a href=&quot;http://www.rfa.org/mandarin/yataibaodao/meiti/cyl-02062015103428.html&quot; rel=&quot;nofollow&quot;&gt;自由亚洲&lt;/a&gt;台表示：“根据目前习近平的走向和奉行的政策判断，中国有一种一意孤行和不撞南墙不回头的态势。这个南墙就是中国政府遭遇国际间的强大政治攻势。然而，考虑到目前中国国内的政治安全和他奉行的方针路线，习近平不会轻易妥协让步。 另一方面，西方国家， 尤其是西方企业在过去两年正在逐渐把其利益从中国转走，不再把这个视为一个利益的成长点。”夏教授强调，中国的网络安全新规其实是在自动闭关锁国，防范逐渐形成的中国公民社会对中国专制者的政治安全、政体安全和意识形态安全形成的挑战。&lt;/p&gt;
+&lt;p&gt;        去年底，在被干扰了将近7个月后，谷歌Gmail邮箱在中国遭遇全面屏蔽，包括IP地址和所有客户端通讯协议（IMAP、POP3、SMTP等）端口。评论指其为“GFW最大的里程碑”。邮箱依旧是很多人工作和私人沟通的重要联系方式之一，更有它还是各网站注册、密码找回的最重要手段，因此墙内墙外都大受影响。&lt;/p&gt;
+&lt;p&gt;        谷歌于2010年宣布退出中国市场后，谷歌的服务在中国大陆一直无法使用。尽管Android手机系统在中国大陆有数千万使用者，但这些手机并未搭载谷歌服务。据本月27号陆媒消息，谷歌产品负责人桑达尔·皮猜在日前接受采访时称，“谷歌今年将在支付、商务和企业应用等领域发力，而谷歌也将抓住机会重返中国市场”。&lt;/p&gt;
+&lt;p&gt;        该消息在大陆媒体和大陆网民中同时引发了不小的舆论反响。陆媒&lt;a href=&quot;http://www.lanjingtmt.com/news/detail/6639.shtml&quot; rel=&quot;nofollow&quot;&gt;蓝鲸TMT网&lt;/a&gt;在一篇名为《谷歌若重返中国，谁最害怕？》的报道中，引述谷歌公司高级副总裁的话时使用了“一厢情愿”四个字，全文主要分析了谷歌如果重回中国大陆市场，将对本土大牌网络公司形成什么样的竞争局面。文章提醒360、百度、阿里巴巴、科大讯飞等本土互联网公司“提前注意”，还使用了“未雨绸缪”一词。整体透露出基于保护本土产业而反对谷歌重回大陆市场的立场。审查框架下的国产应用自然无法和谷歌竞争，该报道至少还算有些自知之明。日前，推友@gokeeper 讲了个笑话：“想起月初在湾区的聚会上，某前百度，现 Facebook 工程师在被问到百度工程师遇到技术难题怎么办时忿忿的表示：当然是用 Google 搜答案了！我们那破玩意什么也搜不着！”&lt;/p&gt;
+&lt;p&gt;       而大陆网民的相关评论中则是基于安全考虑而几乎一致地反对谷歌重回，因为一旦重回大陆就必须接受大陆当局的各种“规定”，而形成一套过滤阉割后的“中国版”。推特网友@xiao99xiao 说：“我不欢迎国外互联网公司进入中国。这些公司进入中国碍于政策，只会搞个独立的阉割版，然后再在中国范围内主动屏蔽掉对原国际版的访问。Line就是典型的例子。现在还有人认为Line是被墙的，其实不是，Line是主动把中国用户定向到中国的一台坏的服务器上去了”。&lt;/p&gt;
+&lt;p&gt;       的确如此，对大陆网民来说不惜高成本去翻墙希望换取的是信息安全和言论自由，而并非仅仅为了享受国际名牌的产品和服务。市场利润固然重要，而对于国际性大公司来说，积攒多年的信誉形象是赚再多钱也无法弥补的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;全面调用：对&lt;/strong&gt;&lt;strong&gt;“&lt;/strong&gt;&lt;strong&gt;新意见阶层&lt;/strong&gt;&lt;strong&gt;”&lt;/strong&gt;&lt;strong&gt;的吸附和调用&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;        近日，微信朋友圈出现了一些“大陆爱国人士”煽动“抵制香港”的帖子（图1），该话题迅速蔓延到墙内外公开社交平台上，成为热点。&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;480&quot; width=&quot;360&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/jian_diao_tong_xing_zheng_.jpg?itok=GXT23alY&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;         而此前北京当局通过对信息的屏蔽和筛选，凸显和放大了少数港人的“港独”、“仇陆”言行，有改装舆论抹黑大多数港人诉求真民主的行动和加剧两岸对立情绪之嫌。此间，墙内新浪微博知名大V、曾经的“意见领袖”&lt;a href=&quot;http://weibo.com/1220291284/C6d0YisIf?type=comment#_rnd1425068443870&quot; rel=&quot;nofollow&quot;&gt;@作业本&lt;/a&gt; 在27号发布的对该话题的评论帖中透露出支持北京当局的立场，为“中港矛盾”加温。评论认为，@作业本 此举已超越“炒作”层面，疑似被收编，上述热点话题中的表现或为首次“调用”。&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;204&quot; width=&quot;302&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/zuo_ye_ben_.jpg?itok=Y6PQlLTw&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;        去年10月，人民网舆情监测室秘书长祝华新，在中国青年政治学院论坛上明确示意了对影响力大的微博大V的“收编统战”态度，“将对网上新型知识分子，加强政治引领和政治吸纳”。该篇讲话稿中甚至还不很礼貌的称“成为一个‘职业网友’，心态可能不会很健全”。祝华新建议给予这些“职业网友”经济上的出路、回归传统媒体——拉到人民日报上写文章等​​，让他们回归“主流政治”。&lt;/p&gt;
+&lt;p&gt;        祝华新在文中援引2008年《社会蓝皮书》指出：“中国目前已经出现了一个‘新意见阶层’，这就是主要依托于互联网产生的阶层”。其余通篇内容就是在讲述体制该如何应对这样一个“新意见阶层”的问题。文中引用了中央统战部的报告，指中国在“在市场经济发展起来后出现了‘新社会阶层’，即5000万在非公经济企业中投资和做高管的人群”。如果以这个数据为基础，再加上市场化的职业群体，如律师会计以及高级技术人员，估计在中国约有6000万人群，可被划为市场化的中产群体。大陆时评人莫之许曾分析指出，中国的中产群体，首先“被竖切一刀”，分为市场中产和体制中产两大部分。换言之，这1亿中产群体当中，大约包含4000万体制化中产，以及6000万市场化中产。市场化中产，“又被横切一刀，部分与体制关系紧密、利益上依附体制的市场中产也被吸附编织进了亲体制场域”。于是，按照粗略的对半估计，市场中产群体当中，有3000万被吸附进入亲体制的场域，而剩下的3000万，也就形成疏体制的市场中产群体。&lt;/p&gt;
+&lt;p&gt;        这部分体制外中产正是祝华新文中指出的“意见领袖”，他们亲市场化、民主化，有别于体制主流，被体制认为“存在风险”。而采取的措施就是一边打压，一面吸附：对于有可能吸附的对象，用祝华新的说法是要尽可能“给出路”；对于不可能接受收编者比如时政漫画作家@变态辣椒 就会被剥夺“出路”。&lt;/p&gt;
+&lt;p&gt;        观察显示，墙内微博上大V、中V们的立场，在文艺座谈会后发生了微妙的变化，或许与此前的集中式打压有一定关系。但种种迹象表明，当局对他们的拉拢已起到了一定的作用。时间顺序透露：先清场立威，后收编封口。&lt;/p&gt;
+&lt;p&gt;        评论人Catherine认为，收编民间舆论节点是当局战略的一部分。以一个伪装“草根”的身份，比官方直接发言，要自由得多，也有效得多。“当局对于微博舆论控制的加强，早在一年多以前就已经开始。对于薛蛮子、立二拆四等有影响力的“大V”、微博营销机构的打击，在今天看来，有明显的清场意味。而后，微博舆论进入了一个相对凋零的时期，很多“转世党”被迫加速转世，或者彻底退出微博（比如@萧翰），一些“大V”账号也被关闭或者易手（比如&lt;a href=&quot;http://ent.163.com/14/1029/18/A9OBMHEH00031H2L.html&quot; rel=&quot;nofollow&quot;&gt;@宁财神&lt;/a&gt;）。而现在依然活跃的账号，或者有了可以观察到的立场转变，或者此前就符合官方舆论的评价标准。这说明，摆在这些有影响力的舆论节点面前的只有两个选择：闭嘴，或者投降”。&lt;/p&gt;
+&lt;p&gt;        看来五毛和自干五已经不够用了，尽管管制封锁大清洗愈演愈烈，网络的存在对当局的统治稳定依旧呈现持续增进的威胁。Catherine指，当局对网络的占领和控制，从来没有像现在这样急切和明显。或许可以认为，当局在此前对网络舆论控制力的评价，已经到了必须采取行动的程度。这体现了几个问题：一是线下与线上的结合更加紧密和及时，当局已经失去了对传播时间差的掌控；二是微博还不能作为一个有效的自媒体平台，它的节点还来自于既往影响力的网络映射，因此很容易被控制；三是网络舆论节点还不能满足民间抗争的需要，更多还是亲当局的立场。她说：“未来的道路还很漫长，无法预期微博等平台会起到怎样的作用。就当前所见，它已经不再具备打通线上线下的可能性。”&lt;/p&gt;
+&lt;p&gt;       时评人项小凯曾在文章中指出：中国的言论空间，被压缩到极限，中国的媒体与网络，近乎完全地被体制化。思想的保守压抑，经济的渐行渐衰，环境的持续恶化，社会的降解溃败，伴随着这些现象，中国社会已进入一个异常压抑憋闷的阶段。而随着体制的进一步刚性化，不难预计，未来的风险系数也将进一步加大。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;全面渗透：加持的外宣和硬广的国行&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;        从官媒的全球布局到五毛军团大规模外网出击，从500所孔子学院全球覆盖到乌镇的世界互联网大会，近年来，不差钱的大外宣不论是力度还是广度都显得愈发卖力。如今又开始从娱乐领域切入了。&lt;/p&gt;
+&lt;p&gt;        &lt;a href=&quot;http://news.sina.com.cn/c/2015-02-13/110531517597.shtml&quot; rel=&quot;nofollow&quot;&gt;羊年春晚&lt;/a&gt;通过24家海外媒体机构以英语、印度语、阿拉伯语、葡萄牙语和德语等多种语言形式转播。中央电视台还制作了历年春晚合集《中国春晚》，该合集已推向海外市场，在YouTube、GooglePlus和Twitter等社交网站上直播。&lt;/p&gt;
+&lt;p&gt;        2013年9月由亚洲电台的节目中讨论了中共大外宣向世界的扩张的话题，指“大外宣是中共发动的与西方民主国家信守的人类普世价值决一胜负的战争”，“世界华文媒体的版图已呈红色与粉红色”。新闻类、访谈类节目毕竟没有娱乐节目受众面更广，关心娱乐的民众一直比关心政治的多，当局也认识到了这点，于是将意识形态融入娱乐节目后推向世界成为政治外宣的新形式。据悉，中国当局目前每年投入数百亿巨资做大外宣，在美国尤其是留美华人可以免费收看来自中国的电视节目和春晚，轻松接受洗脑。当然，有可能受到影响的还只限于华语受众，尤其对海外民运群体有可能形成污染而被弱化，美国本土民众基本没可能因此染红。&lt;/p&gt;
+&lt;p&gt;        软化外围、加固内部两手硬，全球性洗脑维护政权稳定可谓处心积虑。“国际公共”做形象，输出“软实力”，新闻、娱乐、传统媒体和新媒体无所不用其极，羊年春晚只是个更全面外宣的开始。&lt;/p&gt;
+&lt;p&gt;        去年8月，中国当局宣布将美国赛门铁克和俄罗斯卡巴斯基排除在政府采购名单之外，这两家都是国际知名电脑杀毒软件公司。在此之前，中国政府还曾宣布停止采购微软视窗操作系统。评论认为，此举是为维护中国本土企业的优势地位。&lt;/p&gt;
+&lt;p&gt;        德国《&lt;a href=&quot;http://www.dw.de/%E5%A4%96%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%B1%A1%E4%B8%8A%E5%8C%97%E4%BA%AC%E9%BB%91%E5%90%8D%E5%8D%95/a-17832940&quot; rel=&quot;nofollow&quot;&gt;法兰克福汇报&lt;/a&gt;》曾发表一篇题为&quot;北京将外国IT企业列入黑名单&quot;的文章，文中分析：&quot;幕后消息称，这一步并非仅仅出于日益严重的安全隐患考虑，同时也是有针对性地。毕竟，这一领域在中国被视为极具潜力的未来产业。在中国，电脑、软件、网络和其他配套服务一年的销售额大约7500亿美元。对于欧美IT企业来说，这是世界最大的单一国家市场。但这个市场现在对于许多外国供应商来说都会变得更为狭小。因为数月以来，有关当局都在勒紧他们的紧箍咒。&quot;&lt;/p&gt;
+&lt;p&gt;       &lt;a href=&quot;http://www.rfa.org/mandarin/yataibaodao/kejiaowen/xql-02262015095618.html&quot; rel=&quot;nofollow&quot;&gt; 近日消息&lt;/a&gt;指，中国方面再次将一些世界领先的科技品牌从中央政府采购清单中剔除，同时新批准了数千本土品牌。此次报剔除的包括美国网络设备制造商思科（Cisco）、手机电脑等科技产品制造商苹果（Apple）、因特尔旗下的安全软件公司McAfee 以及网络服务器软件公司Citrix Systems等。数据显示，这份采购清单上的品牌在两年内从2千多种增至5千种，增加的几乎全部是中国国产品牌，同时外国品牌的数量减少了三分之一，其中安全技术品牌更是多半遭到剔除。      &lt;/p&gt;
+&lt;p&gt;       排挤外国企业的同时普及国产操作系统和软件应该不止维护本土产业一个目的，更有便于监控的维稳需求。资料显示，中国政府单位自2014年开始就不再购买麦卡菲安全软件，转而使用的是中国国产的360防毒软件；思科公司是全球的主要交换机提供商，与其形成竞争的对手是中国电信设备制造企业华为；而思杰系统远端访问的软件，可以拿来做突破网络封锁的工具……网络加密使用率越来越高，强推国行操作系统和国产软件的相关舆论造势近年来颇为多见，其借口一致表述为“安全需求”，而实质则是为了便于掌控和管制，与民众的&lt;a href=&quot;http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/?u=/article/298&quot; rel=&quot;nofollow&quot;&gt;信息安全&lt;/a&gt;需求背道而驰。&lt;/p&gt;
+&lt;p&gt;      就如自由国度的民众不会接受极权意识形态洗脑，大外宣只能更彻底的暴露愚蠢；关注隐私安全和言论自由的大陆网民也不会选择使用国产软件、国产操作系统和国行机。而排挤外国企业，造就的是外企在中国愈见恶劣的营商环境，保护国企和民族工业形成不公平市场竞争，导致海外投资兴趣低落，外企撤离中国带来的失业潮和对经济的影响正在显现。&lt;/p&gt;
+ </description>
+ <pubDate>Tue, 03 Mar 2015 09:53:46 +0000</pubDate>
+ <dc:creator>Sylar</dc:creator>
+ <guid isPermaLink="false">381 at https://pp16.global.ssl.fastly.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/xin_chang_tai_1_0.jpg?itok=nsRmYzAi" length="19479" type="image/jpeg" />
+ <comments>https://divgearcmrfs2.cloudfront.net/article/381#comments</comments>
+</item>
+<item>
+ <title>观点：“穹顶之下”看舆论引导和管控 </title>
+ <link>https://pp17.global.ssl.fastly.net/article/380</link>
+ <description> &lt;p&gt;         前央视记者柴静拍摄的雾霾调查纪录片&quot;&lt;a href=&quot;http://tv.sohu.com/20150228/n409226914.shtml&quot; rel=&quot;nofollow&quot;&gt;穹顶之下&lt;/a&gt;&quot;近日在网上播出后立即受到中国各大媒体的关注和网民的围观评论，在各种舆论圈引起的效应基本可以用“炸 裂”来形容，以至于30个小时内，全网最大重头戏已不是雾霾，也不是柴静，而是惊人的舆论纷争，以及宣传热捧和管制禁令的无缝衔接。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;传播和舆论&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;        截至3月1日上午11时40分，该片在腾讯、优酷、乐视、搜狐、爱奇艺、凤凰、土豆这7家网站的播放次数已超过8000万次。该数字仅为对网站推荐的单个完整视频的统计，不包括其他用户上传及分段视频。&lt;/p&gt;
+&lt;p&gt;       与此恰成对比的是同期开播的热门美剧《纸牌屋》，因开播消息出自被大陆严密封锁的国际知名媒体《纽约时报》，而导致在墙内转载发布该消息的帖子迅速被删 除，而其在墙外平台上的传播又被紧跟而来的《穹顶之下》相关舆论吞没。《纸牌屋》一剧因曾经被中纪委书记王岐山推荐，在大陆有相比同类影视作品更为广泛的 知名度。&lt;/p&gt;
+&lt;p&gt;       《穹顶之下》一经推出就产生了惊人的热效，或源于官媒在第一时间的助推以及持续了一日多的炒作式跟进。数据观察显示，以用户为主体资源的社交平台在传播能 力上明显优于以内容为主体的视频网站，推动和互动为扩散速度起到了决定性助力。正因为首先推动传播的节点是官媒账号和粉丝量高的大V，结合平台优势的调 用，基本完美达成了议题设置的预期。此现象引发舆论一定程度上的推测：是否属于有计划行为？&lt;/p&gt;
+&lt;p&gt;       质疑源于官媒和公知群体的公信力持续下跌，民间舆论尤其是在墙外平台上的体现，基于大陆党管媒体的新闻环境，许多评论者表示无法相信一个由经官方力荐并炒作的议题中会没有官方意图。这方面的声音，整体上理据主要有如下几个方面：&lt;/p&gt;
+&lt;p&gt;       1、共识经验：未经官方批准的独立制片没可能登陆央视，甚至没可能顺利播放，更不用说被官媒联手推崇，与主题和尺度并无关系。仅以同类话题为例，知名异议 人士谭作人关注彭州石化污染威胁民生事件和豆腐渣工程，导致被判刑五年；著名艺术家艾未未拍摄汶川地震灾情，被关押黑监狱81天、罚款七百多万，至今没有 出境自由；公民赵连海关注三聚氰胺奶粉事件被关押两年半。&lt;/p&gt;
+&lt;p&gt;       2、纪录片中涉及了大量调查数据，而自去年开始一直被关押的维权律师浦志强被下定的罪名之一就是涉嫌“非法获取公民个人信息”，据悉浦志强是因协助记者调 阅周滨（中共前常委周永康长子）家族的企业注册资料而获此罪名的。然周永康已被抓，且宣传为“反腐巨大成功”，但浦志强案至今没有明显进展。&lt;/p&gt;
+&lt;p&gt;        3、媒体内部人士透露观察“窍门”：视频网站的视频，开始前有广告的就是普通视频；开始前没广告的就是“真理部生产的正能量”。从这个角度看，该片属于后者。&lt;/p&gt;
+&lt;p&gt;        4、两会即将开幕，环保是主要话题之一，此时引爆恰逢时机，而去年习近平的“APEC蓝”说也明确了对环保的态度。更有，就在上一周，做为创业板权重板块的环保股启动，当时只是基本面信息确认。而此片推出后柴静一炮走红，以环保为主题的&lt;a href=&quot;http://finance.sina.com.cn/stock/hyyj/20150228/232821615430.shtml&quot; rel=&quot;nofollow&quot;&gt;柴静概念股&lt;/a&gt;亦横空出世。&lt;/p&gt;
+&lt;p&gt;       与此同时出现的另一则消息恰体现了当下大陆严酷的媒体管制环境：据&lt;a href=&quot;http://08charterbbs.blogspot.com/2015/03/blog-post_17.html?spref=tw&quot; rel=&quot;nofollow&quot;&gt;明报&lt;/a&gt;报 道，全国人大本次会议的新闻中心，统一安排了内地获批报道两会的记者，尤其是第一年报道两会的记者，要在今天参加一个新增加的“培训课程”。报道指，按照 以往诸如“七不讲”等内部指示，由于涉及“敏感内容”，一般都禁止对外透露，更不准官媒报道。以此等经验判断，今日内地记者接受的所谓培训，相信多半是不 足为外人道的“鬼祟”指引居多。此外，或许由于云南昆明在去年两会召开前夕发生斩人导致数十人死伤的惨剧的影响，部分京城的酒店今年明确贴出北京市公安局 的指令：“会客须到前台办理登记，旅客不得私自留客住宿，严禁将危险品带入客房。”如此态势下，一部主题触及敏感的新闻纪录片不仅能顺利播放，还能被各大 官媒联手推崇，明显影响股市，个中神秘无法不引发联想……&lt;/p&gt;
+&lt;p&gt;        5、雾霾的成因已基本众所周知，于是当下的经济状况也引发了相关联想。有评论指：“2015，经济严冬才刚刚开始。支柱产业房地产已停滞，拖累的相关行业 不计其数，钢铁、煤炭就是其中之一。国际资本大举逃离中国，带走几个资金算不了什么，问题是带走了出口市场。支撑中国经济的三驾马车投资、出口、消费，内 需一直不旺，投资呢，四万亿时代的大量过剩投资还消化不了，就剩出口还行，问题是中国的出口三分之二是外资和合资创造的，现在外资跑了，自然也就带走了出 口市场，更严重的是相关的供应商和代工工厂都得跟着完蛋，据说直接间接影响的就业人口近亿……”，有知名时评人指：&lt;strong&gt;“‘&lt;/strong&gt;&lt;strong&gt;新常态’&lt;/strong&gt;&lt;strong&gt;下，为经济软着陆找梯子，折冲对合法性冲击，造成合法性的完整延续。&lt;/strong&gt;就我所见，这个分析其实是对的，因为它不只是逻辑上的，也是政府有意在做的，是要促成这个现实。至于它使用什么案例什么人来执行，不敢多说。”&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;360&quot; width=&quot;480&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/la_jiao_tu_.jpg?itok=WKBPfxdy&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;（图/变态辣椒）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;网络舆论管控&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;        伴随着热吵的热炒持续了才刚30多个小时，舆论管控禁令来了。据&lt;a href=&quot;http://t.co/ctUJ1pvVDN&quot; rel=&quot;nofollow&quot;&gt;数字时代&lt;/a&gt;3 月1号下午报道，宣传部指令“各媒体不得对《穹顶之下》 进行炒作，要做好网上舆论调控”。此后当日晚间，又一条将该片限时撤下双首页、客户端的指令出现在墙内平台（图1），由认证媒体人提供。&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;125&quot; width=&quot;310&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/tu_2_28.jpg?itok=itd6yFts&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;紧接着一则署名 “新华社新媒体干线”的撤稿令也在墙内流传（图2），但不久便双双被删除了。与此同时，官媒&lt;a href=&quot;http://news.boxun.com/news/gb/china/2015/03/201503012302.shtml#.VPM8NFOUc_8&quot; rel=&quot;nofollow&quot;&gt;新华网&lt;/a&gt;做了一篇貌似汇总“舆论纠纷”而实质是全面强化舆论引导的报道。&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;259&quot; width=&quot;428&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/xin_hua_she_.jpg?itok=eMkDpZOX&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;        从热捧到管制几乎没有过度，变化之快令人目不暇接。疑似是由舆论中两部分主体异议带来的：1、披露污染是政治问题；2、号召民众上街反抗。这自然是当局不 希望看到的效应，也是上述新华网报道中唯一没有涉及的部分。评论认为，对于无法把握导向的评论，管控相当于扬汤止沸。是不同的意见引起了对此前有可能是奉 旨推广的节点混乱的反击，舆论失去了起初的集中，而变得泡沫化和无法准确被导向。&lt;/p&gt;
+&lt;p&gt;        先推后阻的现象，此事不是首次，或透露当局仍没能找到全盘掌控的有效方法。分析人士认为，此事件在议题设置和传播动员方面取得了几乎是前所未有的成功。而 现在的局面，验证了自媒体事实上的不可全面掌控。尽管微博、微信的传播都处于严密的监控之下，当局依然不能取得想要的结果。这说明，网络节点可以取得一定 传播上的成功，但是不能取得舆论上的效果，它验证的是，自媒体不受节点控制，它的传播效果取决于信息的质量。&lt;/p&gt;
+&lt;p&gt;        “信息质量的评价，一定程度上反映了民间思潮和价值取向。在数量上，反对者处于劣势，但是反对者提供的信息的质量明显高于支持者。我认为这是舆论控制失败 的主要原因。也能说明，反对者在认知水平、判断能力、表达深度等方面，明显高于支持者”，观察人士Catherine表示，“考虑到当局强大的宣传机器和 零散弱小的民间反对之间悬殊的力量对比，形成当前的结果，基本可以认为目前当局在舆论控制上并没有完全取得成功”。&lt;/p&gt;
+&lt;p&gt;       Catherine分析指：当局设置这样一个议题，是存在一定风险的。即使局面尚未失控，当局采取迅速下禁令的手段，也表明了一种担忧：异议有可能比较一 致地指向当局。尤其是当人们意识到，当局对于雾霾负有根本性的责任时，无论是支持还是反对柴静的人，都有可能把目标指向当局。这个议题的风险还在于，柴静 假定了一个不可扭转的政治环境，因此一切的解决方案都在这个前提之下展开。当最初的情绪平静下来，人们会怀疑这个前提的必要性，尤其是反对者在起初就指出 了这一点。“久经考验的话题参与者，已经对各种污染具备相当的抵抗力。导向人身攻击、地图炮、辩证法的话语表达，很快就会被揭露，这个方法不好用了，当局 也需要升级”。&lt;/p&gt;
+&lt;p&gt;        纪录片《穹顶之下》在推出48小时内几乎完整展现了官方网络宣传和舆论管控的熟识手段，在持续了一年多的运动式净网强加管制后，该热点事件对网信办来说也 是一个很好的测试管控“成效”和舆论张力的机会。网民参与、观察并分析，有助于民间舆论在反管控技巧上的提升。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;该文章仅代表作者立场，不代表本网站立场&lt;/em&gt;。&lt;/p&gt;
+ </description>
+ <pubDate>Mon, 02 Mar 2015 11:12:39 +0000</pubDate>
+ <dc:creator>Sylar</dc:creator>
+ <guid isPermaLink="false">380 at https://d2s8qxo7hs115t.cloudfront.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/chai_jing_.jpg?itok=ntAR6wHB" length="16956" type="image/jpeg" />
+ <comments>https://d1w0bzp1snsjyg.cloudfront.net/article/380#comments</comments>
+</item>
+<item>
+ <title>VyprVPN: Astrill的替代者</title>
+ <link>https://divgearcmrfs2.cloudfront.net/article/375</link>
+ <description> &lt;p&gt;我们在上一篇文章&lt;a href=&quot;https://pp17.global.ssl.fastly.net/article/360&quot; rel=&quot;nofollow&quot;&gt;《写在Astrill VPN被屏蔽之后：没那么悲观》&lt;/a&gt;一文中提及了著名商业翻墙服务 Astrill VPN 被GFW屏蔽一事，原本Astrill以其稳定和强大的服务受到大陆网民的广泛亲睐，拥有诸多的使用群体以及良好的用户口碑，所谓木秀于林风必摧之，因此也理所当然的招致了GFW的关注和封锁，虽然在上文中分析过了此次屏蔽主要集中在 L2TP/IPSEC 协议加密的 VPN 协议以及IOS客户端，并且 Astirll 也在不断努力争取早日恢复服务，但被 GFW 老大哥盯上之后，毕竟今后命运多舛难以预测。&lt;/p&gt;
+&lt;p&gt;       因此许多网友也给泡泡来信询问，除了Astill以外，还有没有其它优秀的商业付费翻墙服务可以使用的，而同时也有不少网友推荐了一款不错的替代者—vyprvpn，下面我们就来对其做一个简单的测评。&lt;/p&gt;
+&lt;p&gt;       Vyprvpn 的官方网页点击&lt;a href=&quot;http://www.goldenfrog.com/vyprvpn/special/referral?offer_id=42&amp;amp;aff_id=1884&quot; rel=&quot;nofollow&quot;&gt;这里&lt;/a&gt;，由Goldenfrog（金蛙）团队开发，界面清爽简单，对于个人用户提供三种付费套餐供选择。&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;473&quot; width=&quot;480&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/1_20.png?itok=c3dsRmy6&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;       其中最受欢迎的“vyprvpn pro”套餐价格为每年8.33美元，这个价格要比Astrill每月5.83美元的价格高出不少，和 Astill一样几乎是全平台支持，允许两台设备同时接入，无流量限制，但付款方式上只支持Paypal和信用卡，这一点上支持支付宝付费的 Astrill 明显人性和方便许多。&lt;/p&gt;
+&lt;p&gt;       Vyprvpn支持三天免费试用，而“basic”套餐只支持 PPTP协议的链接，众所周知，PPTP协议由于安全性较弱，以及容易被封杀等因素，因此建议大家不要选择。&lt;/p&gt;
+&lt;p&gt;       下面我注册了了”Vyprvpn pro”套餐开始测评，因为他支持“PPTP”，“OpenVPN”，“L2TP/IPsec”以及“Chameleon”这四种连接协议方式。前三种方式我们在&lt;a href=&quot;https://d1w0bzp1snsjyg.cloudfront.net/article/286&quot; rel=&quot;nofollow&quot;&gt;《翻墙安全》&lt;/a&gt;一文中已经介绍了它们是VPN翻墙协议中的一种，而对于第四项“Chameleon”（变色龙）相对比较陌生，我们在下文中再重点介绍。&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;290&quot; width=&quot;480&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/2_5.png?itok=p0-9NVLz&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;       注册完毕之后我们首先下载PC客户端在Windows 平台上进行测试，整个安装过程毫无困难，和其它vpn翻墙软件一样，都会在Windows系统中增加一个名为“TAP-VyprVPN Adapter V9”的虚拟网卡。&lt;/p&gt;
+&lt;p&gt;       打开客户端，界面还是非常美观的，除了链接协议，IP地址等基本信息外，还可以看到图形化的流量监控，点击上方坐标形状的图标可以切换代理服务器，并且可以通过服务器ping值来判断链接速度，也可以直接默认选择速度最快的服务器进行连接。&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;480&quot; width=&quot;383&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/3_4.png?itok=UjDjFTmB&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;       一、PPTP&lt;/p&gt;
+&lt;p&gt;       我们首先点击右上方的齿轮图标进入“设置”页面，然后点击“协议”选项卡，可以看到上面提及的四项链接方式，我们首先测试一下“PPTP”链接方式。（测试环境是中国联通10M光纤）&lt;/p&gt;
+&lt;p&gt;       果不其然，不论我如何切换服务器，PPTP模式都是无法正常链接的，因此，如上述所言，如果你决定付费购买 Vyprvpn服务，强烈建议不要购买“basic”套餐。&lt;/p&gt;
+&lt;p&gt;       二、L2TP/IPsec&lt;/p&gt;
+&lt;p&gt;       接下来我们试一下”L2TP/IPsec”协议的翻墙效果，该协议也正是Astrill被封的主要使用协议，Vyprvpn能否替代Astrill使用也将直接考验它的使用效果。&lt;/p&gt;
+&lt;p&gt;       我们以位于”日本“的服务器作为测试对象，上Youtube上打开一段1080P的视频进行测试，非常流畅，毫无卡顿，在看客户端上的下行速度，基本上保持在10Mbps左右，数据相当华丽了。&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;480&quot; width=&quot;272&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/4_3.png?itok=bujBvejD&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;       但值得注意的是，我们在测试链接延迟更小的韩国和泰国服务器的时候，都发生了链接失败的报告。&lt;/p&gt;
+&lt;p&gt;       三、OpenVPN&lt;/p&gt;
+&lt;p&gt;       下面我再来测试一下“OpenVPN“协议的使用效果，很多网友都听说过不加混淆机制的OpenVPN两三年前就遭到GFW局部封杀，以前泡泡曾经介绍过的一款基于OpenVPN技术的 Pritunl 就已经无法使用了（关于Pritunl的介绍可以参见：&lt;a href=&quot;https://d1w0bzp1snsjyg.cloudfront.net/node/213&quot; rel=&quot;nofollow&quot;&gt;Pritunl：简易搭建个人VPN&lt;/a&gt;）&lt;/p&gt;
+&lt;p&gt;       我们以一个延迟为86ms的”泰国务器为例进行测试，切换协议后很快就链接成功，然后从Mega网盘上下载一段视频进行测试，速度表现的也很稳定。&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;297&quot; width=&quot;480&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/5.png?itok=OdBTPDpV&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;       注意我这里使用的是OpenVPN 256位加密方式链接，如果用户使用 OpenVPN 160位加密方式连接的情况下，理论上能获得更快的访问速度。&lt;/p&gt;
+&lt;p&gt;       四、Chameleon变色龙&lt;/p&gt;
+&lt;p&gt;       上面介绍的三种常规的VPN协议以外，Vyprvpn还有一个独门绝技 Chameleon 协议链接方式，能够有效的躲避 GFW的屏蔽和封杀，下面我们具体看看使用效果。&lt;/p&gt;
+&lt;p&gt;       Chameleon 技术是 Golden Frog团队在2014年年初推出的一项最新技术，从官方结束文档上来看，Chameleon实际上是一种混淆技术将普通的OpenVPN 协议加密使其无法被 GFW进行DPI(深度嗅探)，它采用不可写的256位协议进行底层加密，同时不影响数据传输安全，使得用户可以轻松的跨越任何阻拦，自由的访问互联网世界，下面我们看看实际使用效果：&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;177&quot; width=&quot;480&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/6.png?itok=ABRIruxs&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;      我们还是以刚才测试的”泰国“服务器进行测试，发现通过 Mega 下载的视频速度丝毫不必通过OpenVPN 方式的慢，也取得了不错的下载成绩。&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;298&quot; width=&quot;480&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/7.png?itok=DHlSn5nu&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;        五、总结        &lt;/p&gt;
+&lt;p&gt;        应该说 Vyprvpn 是一款不错的商业翻墙服务，Astrill 具备的功能它都能够胜任，而且比前者做的更好，也符合自己相对较高的售价，除了 PPTP 协议方式以外，其它各种协议方式都能较为轻松的完成翻墙并取得不错的访问体验，更何况还有其独家开发的 Chameleon 技术进一步保障了使用效果，可以作为 Astrill 被封之后不错的替代者供大家使用。­&lt;/p&gt;
+ </description>
+ <pubDate>Fri, 27 Feb 2015 08:03:57 +0000</pubDate>
+ <dc:creator>Vergil</dc:creator>
+ <guid isPermaLink="false">375 at https://d1w0bzp1snsjyg.cloudfront.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/vyprvpn-review.png?itok=FK4huzrN" length="310045" type="image/png" />
+ <comments>https://d1w0bzp1snsjyg.cloudfront.net/article/375#comments</comments>
+</item>
+<item>
+ <title>女权之声春晚“查毒”被网络噤声   </title>
+ <link>https://d3t8jz6506hbdb.cloudfront.net/article/378</link>
+ <description> &lt;p&gt;【背景】羊年春晚的多个节目因涉及多项歧视，引发舆论争议。国内倡导女性权益的民间组织自媒体&lt;a href=&quot;http://www.genderwatch.cn:801/&quot; rel=&quot;nofollow&quot;&gt;女权之声&lt;/a&gt;于2月20号年初二早上11时在微博上发布了一条号召万人联署反对春晚歧视弱势群体的倡议公开信，以“&lt;a href=&quot;https://fw0.global.ssl.fastly.net/weibo/3812384638979198&quot; rel=&quot;nofollow&quot;&gt;抵制毒春晚&lt;/a&gt;”为主题的公开信迅速在网络流传，信中点名批评了多个涉嫌歧视的节目，并征集万人&lt;a href=&quot;http://lvv2.com/t/img/id-235827/title-%E3%80%90%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89%E8%80%85%E7%AD%89%E8%81%94%E5%90%8D%E6%8A%B5%E5%88%B6%E6%98%A5%E6%99%9A%E3%80%91%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%BA%8C%EF%BC%8C%E4%B8%80%E5%B0%81%E4%BB%A5%E2%80%9C%E6%8A%B5%E5%88%B6%E6%AF%92%E6%98%A5%E6%99%9A%E2%80%9D%E4%B8%BA%E4%B8%BB%E9%A2%98%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1%E5%9C%A8%E7%BD%91%E4%B8%8A4%E5%B0%8F%E6%97%B6%E5%BE%81%E9%9B%86%E5%88%B01000%E5%A4%9A%E4%BA%BA%E8%81%94%E7%BD%B2%EF%BC%8C%E5%85%AC%E5%BC%80%E4%BF%A1%E6%8C%87%E8%B4%A3%E6%98%A5&quot; rel=&quot;nofollow&quot;&gt;联署&lt;/a&gt;，要求央视道歉并停播相关节目。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;反歧视女权发声反被噤声&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;       在微博发布后的4小时内，就征集到了1000多人的签名。截止当天下午6时许该倡议公开信有3600多条转发和4000多条评论，但该微博及其所有转发迅速被新浪屏蔽删除，微博之外的在线联署页面也被禁止访问。&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;224&quot; width=&quot;480&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/tu_1_38.jpg?itok=PnmK5k_P&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;       20日，深圳大学文学院教授王晓华在&lt;a href=&quot;http://news.sina.com.cn/c/2015-02-20/023931534600.shtml&quot; rel=&quot;nofollow&quot;&gt;新京报&lt;/a&gt;做了一篇立场折中且暗藏表扬春晚观点的评论，言“央视春晚中涉嫌歧视的节目不断递减。这是一种可喜的进步”，文中也有指出几处歧视性细节的存在，但整体观点引向了“有待继续改进”。&lt;/p&gt;
+&lt;p&gt;       女权之声负责人吕频在接受泡泡网访问中谈到该组织对春晚意识形态弊端部分的关注时表示：“对春晚的关注，可以说不是完全在我们‘组织’的框架下完成的。这个活动比较无中心，有很多来自各地身份不同的网友参与，活动发起人不是唯一，我也不知道他们的名字，以及来自什么地方，都是社交媒体，我们互不相识，因为一个共识形成联系。我们这个组织不是一个单一的策划者和组织者。女权主义者一直关注春晚中体现出来的性别歧视问题，此前曾多次指出，已经坚持多年提出，我自己也写过文章，可能还不止一篇。我们也曾经征求过大家对春晚的意见。（歧视）这个问题是由来已久的。”&lt;/p&gt;
+&lt;p&gt;       关于女权之声组织主张的“去中心化”，是近年来经常看到的思想，它是具有普遍意义的社会运动的经验和方法。吕频认为，“如果我们去领导、组织，那不是又回到电视台、央视模式了？它们不就是想领导和组织观众吗？草根的运动，和这个正好是相反的。”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对于相关话题中言论审查的认识和分析&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;        关于吐槽春晚的长微博被禁止转发，而“反歧视”话题被新浪官方账号“抢夺”一事，吕频则认为：“言论审查应该不是铁板一块，它是有很多裂缝的，而且媒体也在这里寻找自己的机会，想必它也需要报道的素材。新浪禁止女权之声的微博转发，但是在我们的微博不能转发的情况下，新浪网在自己的官方账号@头条新闻 里面采用了女权之声的消息，单独做了一个帖子来发，令这个话题形成了非常大范围的影响力。它们为什么要这样做，不让我们发却自己去发，我觉得这件事非常有意思”，吕频回忆说：“这个事情发生在初五吧。可能大家都需要寻找新闻素材，春节期间缺乏争议性的话题，它看到我们这个话题可能是感觉比较好，它就后台设置为不让我们发而它们自己去发，我想这可能是它和我们在搞新闻素材方面的竞争。这是一件好事，这说明一切都有可能，说明审查不是铁板一块。”&lt;/p&gt;
+&lt;p&gt;       这的确是个有意思的现象，且较为少见，但无法就此确认“审查内部还有空间”。它只能说明两方面问题：一、“反歧视”话题并不在当局定义的“敏感”范围内；二、“抢夺”该话题或许并非只有吕频认为的“新闻竞争”一个因素，另还有掌控舆论的目的在里面——虽然“反歧视”不在敏感框架内，但春晚整体引导的“意识形态一致性”和相关春晚的哪怕非敏感话题舆论尺度，都在被官方严格监控。“收缴”该帖，可便于筛查跟评，将舆论控制在“反歧视”主题内，防止春晚政治宣讲的性质顺势被披露和反驳。&lt;/p&gt;
+&lt;p&gt;        同时吕频也提到，在早前女权之声的帖子也曾被墙内平台屏蔽，但她表示：被删掉的帖子都是些什么内容没有明确的记忆，也没有专门收集过，她说：“我对此不是特别关注。”语话权是维权中重要的一部分，不管是女权、政治异议还是环境、土地、劳资维权等等，删帖屏蔽的行为直接剥夺语话权，本当施以正面反抗，不过女权之声组织并没有对当局的删帖行为有过多评价，也没有分析被删除的原因。吕频称：“对于删帖的原因我不了解，我们并不认为它是一个多敏感的事。关于央视晚会中存在歧视的元素这个问题，微博上已经有无数的讨论，这不是我们发明的，也不是我们率先提出的。而且它采用的不能转发这个技术还是挺巧妙的，它没有完全删除我们的微博。或许因为这个内容无法被认定为任何不合法吧。”&lt;/p&gt;
+&lt;p&gt;        关于联署页面被删除，推测认为与“联署”被定义的性质相关。当局标准中一般会认为联署是一种“有组织、有计划、有纲领”的行为，不管其中主题是否存在政治敏感，一概是“不可逾越的禁忌”。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;为何没有呼吁&lt;/strong&gt;&lt;strong&gt;“&lt;/strong&gt;&lt;strong&gt;罢看春晚&lt;/strong&gt;&lt;strong&gt;”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;        历届春晚中都充斥着大量政治色彩的节目，近年来尤甚，意识形态宣讲意味浓郁。2000年后的春晚不只有要求政治正确、宣扬主旋律，而且还要主动宣讲、传播、附和当时的政治主题，体现“党和国家高大上形象”。严苛的审查消解了综艺节目的娱乐性，蜕变得愈加乏味。据传，今年春晚开播前，政府通过内部通知要求“媒体加大宣传力度、督促党员干部自觉收看，把它当作一场全民政治教育”。这本身就是个笑点。&lt;/p&gt;
+&lt;p&gt;       女权之声发帖抵制春晚主要针对的是节目中出现的“歧视性”细节，而对春晚整体的存在及其本质没有过多评论。对此，负责人吕频表示：不会呼吁罢看，不会把观众、普通人当作改变的对象。发帖的目的是问责，责任在广电总局、在央视。吕频认为，如果春晚的垄断事实无法改变，就解决不了存在歧视的问题。&lt;/p&gt;
+&lt;p&gt;        吕频说：“我们当然要提出停播，这是人心所向。这种给大家洗脑、思想控制性的节目本来就应该停。同时我们要看到这个过程，让人们思考春晚的机制，思考春晚对大家、对社会的影响，这个过程本身很重要。最终结果未必是可以实现的，但是在这个过程中，我们产生了很多其他的收获，这是非常重要的。呼吁罢看就是把问题指向普通人，让普通人承担责任，这是对观众不友好的事。我们的抵制，是要开放这个荧屏，我们要有选择的自由，而不是只有看和不看的问题，那不是真正的选择。我们要看电视，但是电视上要有很多不同的东西，要有自由的东西，这是我们的诉求。”&lt;/p&gt;
+&lt;p&gt;         关于反歧视相关活动中的针对性方法，吕频还表示：“对于一般性的歧视，比如市场产品或者带有市场色彩的歧视，我们女权之声不会以要求停播这类的活动来抵制，市场性的东西要用自由辩论的方法来解决。但是春晚不是这样的产品，它是由广电总局来保驾的，不许别人搞，一家独大的内容，如果我们反对它涉及的歧视问题，我们就要用这样的方法来要求它停播。但是比如一个网站上含有（歧视内容）的帖子，我们不会要求它删除。我们是反对歧视而不是反对言论自由，我们的活动恰恰是为了促进言论自由。”&lt;/p&gt;
+&lt;p&gt;        党管文艺，艺术家没有创作自由，艺术没有民主，作品被要求必须以官方意识形态来强化，其结果只能诞生出类似春晚这等畸形产物。即便打破央视一家独大的垄断，只要政治审查还在对文艺施加压力，就没可能“百花齐放”，只会“遍地怪胎”。不论是公共意识的诉求、对弱势群体的关注，还是女权主义的提倡，都是反洗脑抗争行动。女权之声组织发起抵制春晚的联署，带动参与、激发民意，对抗击官方舆论钳制具有较高的价值。&lt;/p&gt;
+ </description>
+ <pubDate>Thu, 26 Feb 2015 09:19:27 +0000</pubDate>
+ <dc:creator>曲江汜</dc:creator>
+ <guid isPermaLink="false">378 at https://pp16.global.ssl.fastly.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/chun_wan_qi_shi_re_dian_tu_.jpg?itok=jzxHhLLf" length="51126" type="image/jpeg" />
+ <comments>https://pp15.global.ssl.fastly.net/article/378#comments</comments>
+</item>
+<item>
+ <title>网络审查拖了经济后腿：网络管制的原生和次生危害 （三）</title>
+ <link>https://d3t8jz6506hbdb.cloudfront.net/article/374</link>
+ <description> &lt;p&gt;【序】愈见野蛮的中国式网络管制已不限于阻断信息流通、加大传输和沟通成本等表面危害，随其加剧推演，还会诱发某种程度上更为深远的次生危害。本系列文章三篇，将从六个方面分析这些危害。&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;对经济&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;        去年10 月份发布的《&lt;a href=&quot;http://www.cssn.cn/zx/zx_gx/news/201410/t20141012_1359376.shtml&quot; rel=&quot;nofollow&quot;&gt;中国外商投资发展报告(2014)&lt;/a&gt;》指出，“影响国际直接投资进入中国市场的因素在发生重要变化，中国经济增长下行压力增大，改革开放的红利在进一步释放的过程中目前还没有出现特别鲜明的变化，中国的经济结构变迁会使外商投资的结构发生变化，存量的外资存在区位转移。”对外经济贸易大学国际经济贸易学院教授桑百川在接受媒体采访时指出，中国的外商直接投资在保持相对稳定的状态下将经历结构调整期。&lt;/p&gt;
+&lt;p&gt;        各方面管制加剧、生态环境恶化、人工和企业经营成本加大（比美国还高）……外企还有什么理由继续留在中国呢？一直主导全球低端生产线的中国大陆正在国际竞争中逐渐失去“世界工厂”的地位，尤其近年来急速强悍的网络管制力度，令驻华外企人士愈加难以和自己的祖国通讯、国际知名媒体和网站无法登陆严重影响了技术学术研究，让更多海外人士心生厌恶。&lt;/p&gt;
+&lt;p&gt;        据本月12号&lt;a href=&quot;http://cn.wsj.com/gb/20150212/ren181344.asp&quot; rel=&quot;nofollow&quot;&gt;华尔街日报中文网&lt;/a&gt;报道，欧洲商会(European Chamber of Commerce)于1月28日至2月6日进行的调查发现，86%的受访企业曾有过网站被封或在线工具被封导致业务受到负面影响的经历，而去年6月份调查中有过这类经历的企业比例仅为15%。这份调查没有详细说明有哪些负面影响，但总的来说与中国的互联网限制导致一些常用服务（例如谷歌(Google Inc.)提供的一些服务）速度缓慢或无法访问，有一定关系。再一次表明北京对互联网的控制措施不仅妨碍言论自由，也带来了其他负面影响。共有106家在华外企参与了调查。但中国国家互联网信息办公室没有立即回应记者的置评请求。欧洲商会表示，调查显示，13%的受访企业在今年早些时候新的互联网限制措施出台后推迟了研发投资，或不愿在中国开展研发业务。&lt;/p&gt;
+&lt;p&gt;       网络管制和封锁屏蔽还导致大量的间接损失，如HSBC门户网站下线，使其无法为国内外客户从中国汇出、汇入资金；在苹果推出iphone6时屏蔽iTune的下载链接等等。从事终结中国防火墙工作的查理·史密斯在接受&lt;a href=&quot;http://www.voachinese.com/content/vpn-20150203/2628001.html&quot; rel=&quot;nofollow&quot;&gt;美国之音中文网采访&lt;/a&gt;中指出，“我们清楚看到屏蔽在中国既是网络自由问题也是商业问题。”&lt;/p&gt;
+&lt;p&gt;        跨国企业投资为中国经济的增长起到了很大的助益。在中国，GDP总量上表现出色的区域大多是外资进入最多的沿海地区。比如广东，在全国范围内的经济分量并不高，正是通过大量吸收外资让其成为中国经济第一大省的。此外上海、北京、苏州、东莞、深圳、大连等“明星城市”背后都有着跨国企业巨额投资的身影。&lt;/p&gt;
+&lt;p&gt;        实体经济的衰落急需留住外资，中国当局也意识到了这一点。去年11月，外汇局正式推出《&lt;a href=&quot;http://opinion.china.com.cn/opinion_79_59779.html&quot; rel=&quot;nofollow&quot;&gt;国家外汇管理局关于进一步改进和调整直接投资外汇管理政策的通知&lt;/a&gt;》，大幅取消或简化归并现有的管理环节，简化企业申请材料，以统一的标准化格式申请表取代现行业务申请书，简化流程，降低成本；取消部分直接投资项下管理环节；简化现有管理程序；放松直接投资项下资金运用的限制…… 整体目的明显，就是希望为外资进入营造便利条件。但外管局的职权范围内无法满足外企撤资的另一些关键理由，资料显示，进入2015年后，撤离中国的头牌外资企业开始增多。外资的撤离除了撤走巨额投资，还带走了庞大的海外市场。中国正面临着制造业倒闭潮和失业潮双面夹击的局面。&lt;/p&gt;
+&lt;p&gt;       中国欧盟商会主席伍德克在接受&lt;a href=&quot;http://www.letscorp.net/archives/84811&quot; rel=&quot;nofollow&quot;&gt;南华早报&lt;/a&gt;采访中表示，“对互联网的过度管控将压制商业发展，以及对技术和研发领域的投资，而这些领域对中国的发展至关重要”。若经济进一度低迷、失业潮席卷，将对维稳形成巨大挑战，相比普世价值观、异议言论和事实真相的传播对极权意识形态的冲击，孰重孰轻？看起来中国政府至今也能没掂量明白。&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;对国际影响&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;        去年在乌镇举办的“世界互联网大会”上，习近平在贺词中提到了一些中国单方面自创的奇怪概念，如“互联网主权”，还“迫切需要国际社会认真应对、谋求共治、实现共赢”，透露出欲促使中国式网络管制模式在国际上得到认可的意图。国际特赦组织认为，中国主办世界互联网大会令人“后背发冷”，因为此举意味着北京要向全世界输出“网络监控镇压概念”。大赦国际研究员威廉·尼呼吁应邀参加乌镇逢会的国际网络和商界领袖借此机会为网上自由疾呼，并挑战中国政府压制言论和思想自由的记录。&lt;/p&gt;
+&lt;p&gt;        &lt;a href=&quot;https://pp17.global.ssl.fastly.net/article/271&quot; rel=&quot;nofollow&quot;&gt;泡泡网曾有报道&lt;/a&gt;，自由微博的创办人之一查理·史密斯德国之声表示，很显然中国将试图在这方面扮演更加活跃的角色。&quot;幸好全球的网络管理机构还无法联合起来进行太多改变，因此我现在并不是太担心中国可以引起巨大改变。但是，中国确实有一些外国盟友，其中不少人也参加了这次会议。&quot;&lt;/p&gt;
+&lt;p&gt;       期望在国际上扭曲概念是可笑的，而当局在国内颠倒黑白的持续发力仍各种显见，以“安全”为由伪装扼杀自由侵犯人权的网络管制监控行为最常见。更有，&lt;a href=&quot;https://botanwang.com/articles/201502/%E5%90%AC%E5%90%AC%EF%BC%8C%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5%E5%91%98%E5%86%99%E7%9A%84%E9%A2%82%E6%AD%8C.html&quot; rel=&quot;nofollow&quot;&gt;据2月12日《华盛顿邮报》报道&lt;/a&gt;，一首题为《网信精神》的歌曲在北京举行的“2015羊年网络媒体春节大联欢”上表演，并经网上迅速传播开来，借以美化在世界上臭名昭著的网络审查制度。这种荒唐而滑稽的宣传只会起到丑化自身的效用。&lt;/p&gt;
+&lt;p&gt;        中国的网络管制在国际上饱受谴责。《纽约时报》曾发表社论说，中国要求外国科技公司提供源代码、关闭VPN、限制中国公民自由获取信息等做法是搬起石头砸自己的脚，“中国政府正以改善安全为借口对科技公司进行严格控制，并进一步限制公民获取未经共产党审查的信息。这些举措将损害中国经济，而且将在中国和世界之间造成巨大裂痕。”&lt;/p&gt;
+&lt;p&gt;        中国网民的言论自由和人权状况也得到了更多国际上的关注及支援。《华盛顿邮报》在本周一发表社论中说，尽管数字革命和互联网带给人们最快捷和最广泛的信息分享方式，但是暴政国家仍旧不遗余力地试图控制数字信息，而不是让这些信息跨国界和跨时区地自由流动。文章表示，美国尽了一些微薄之力，为中国的翻墙软件提供资金和宣传。       &lt;/p&gt;
+&lt;p&gt;        中国政府一面耗资巨大煞费苦心营造所谓“大国形象”，一面又封禁网络闭关锁国，自顾做中国梦。事实证明，国际形象靠欺骗式宣传是换不来的。据BBC中文网在2013年的报道，BBC国际台委托进行的一项全球民调显示，国际社会对中国的印象转差，降至八年来的最低点。这是BBC国际台自2005年开战该项民调以來对中国持负面看法比例最高的一次。推特网友@Victor 评论指，GFW的存在有个连带效应，它向人展示了政治权力如何塑造（网络）文化和生活方式，而不是相反。若干年后，墙被推倒，国际网络巨头或许要花不少时间来研究如何重新在华开辟市场，不是因为国情和国民偏好有多特殊，而是因为文化的自发性是敌不过国家强制力的。&lt;/p&gt;
+&lt;p&gt;（完）&lt;/p&gt;
+ </description>
+ <pubDate>Wed, 25 Feb 2015 07:48:45 +0000</pubDate>
+ <dc:creator>伊阙唐</dc:creator>
+ <guid isPermaLink="false">374 at https://d1w0bzp1snsjyg.cloudfront.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/guo_ji_xing_xiang_.jpg?itok=eeP8Izfv" length="20096" type="image/jpeg" />
+ <comments>https://pp15.global.ssl.fastly.net/article/374#comments</comments>
+</item>
+<item>
+ <title>新闻业，戴着网络审查的镣铐跳舞：网络管制的原生和次生危害 （二）</title>
+ <link>https://d1w0bzp1snsjyg.cloudfront.net/article/373</link>
+ <description> &lt;p&gt;【序】愈见野蛮的中国式网络管制已不限于阻断信息流通、加大传输和沟通成本等表面危害，随其加剧推演，还会诱发某种程度上更为深远的次生危害。本系列文章三篇，将从六个方面分析这些危害。&lt;/p&gt;
+&lt;p&gt;（接前）&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;对&lt;/strong&gt;&lt;strong&gt;新闻&lt;/strong&gt;&lt;strong&gt;媒体&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;        大陆媒体在长期党管治下早已失去“新闻机构”的能力，部分外媒中文网为了生存需要大陆市场而被迫妥协，趋向中立、选择脱敏，甚至主动靠拢中国政府的喜好，而那些有原则的敢言外媒被封锁屏蔽，连名字都成为敏感词，比如全球知名媒体“纽约时报”。&lt;/p&gt;
+&lt;p&gt;        据&lt;a href=&quot;http://cn.nytimes.com/technology/20150211/c11vpn/&quot; rel=&quot;nofollow&quot;&gt;Solidot&lt;/a&gt;本 月9号报道：新浪再次删除了纽约时报中文网的账号。2012年，《纽约时报》上线中文网的同时开始在中国社交平台设立相关账号，随后这些账号相继遭到封 杀。《纽约时报》为了在中国生存下来，特别设立了一个不谈政治的子网站《国际生活》，结果网站仍然被屏蔽，但纽约时报国际生活的微博账号没有被杀死，一直 幸存到今天为止。该账号（自由微博镜像）及其他纽约时报雇员的账号全部被新浪取缔，原因未知。分析认为，或许和最近刊登的文章《那些隐迹于纽约奢华公寓的全球富豪》有关，里面提到了几位中国富豪，但这些富豪应该没有如此大的力量命令新浪删除账号，那么很有可能是政府所为了。&lt;/p&gt;
+&lt;p&gt;       甚至连个人认证也遭受到同样“待遇”。纽时工作人员推特网友&lt;a href=&quot;https://twitter.com/justIDLE/status/564813580650823682/photo/1&quot; rel=&quot;nofollow&quot;&gt;@justIDLE&lt;/a&gt; 的微博账号被封锁，他表示：“ 我唯一的错误，就是和其他四五个同事一样，认证信息当中有‘纽约时报’四个字”。他近期收到新浪微博的通知，称：“经核实由于此微博出现发布敏感信息等违 规行为，…对账号进行了封停处理，且无法恢复。给您带来的不便请您谅解。”（图2）另，推特网友@洛之秋 称： “纽约时报”四个字已经成了豆瓣上的全站屏蔽词，哪怕只是一篇谈论纯文学的陈年日志，只要惹上纽约时报这四个字，就会被站方删除。&lt;/p&gt;
+&lt;p&gt;        对陆媒从业人员的管制就不止是屏蔽了，传播“越界”内容还会遭受到处罚。2月16号，网上传出一份“处分通报”，通报中称某报社员工“在其QQ上转 发不当言论，对社会造成了不良影响……处以严重警告处分”，并严令：“全体员工引以为戒……管好自己的微博、微信、QQ，不得随意发布负面新闻，不得发布 对党委、政府和本单位不满的言论”。&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;480&quot; width=&quot;366&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/tu_3_18.jpg?itok=dl8UZ5d6&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;       如此严密的封锁屏蔽长期下来，会令不翻墙的网民逐渐忘记那些揭示真相、传播普世价值的国际媒体的存在，忘记该从何处寻找去真相；令尚有良知的大陆媒体人不得不放弃职业。去年辞职的陆媒记者何先生在今年的求职过程中遭遇许多挫折，他表示：“在职时经常收到诸如‘小心点’的警告，甚至‘打断腿’、‘砍全家’的都有。给港媒、外电写过稿子也成为我求职的畔脚石。我一直告诉自己，每个人都 要为自己的沉默负责，尤其是媒体人。我后来也发誓，永远不再踏入中国内地媒体半步。”&lt;/p&gt;
+&lt;p&gt;       与部分外媒自我审查的程度渐高相关联的就是，大陆时政评论异议写手的发声渠道在迅速减少。异议人士在国内无法顺利表达而更多转向投靠外媒平台，但近来有迹象显示，一些尚未被大陆封锁的海外中文媒体，疑似因扛不住压力而拒绝了部分措辞犀利、思想具有一定深度的写手继续供稿。&lt;/p&gt;
+&lt;p&gt;       据悉，仅香港东网在去年底就一次性终止了数位长期合作的优秀时评写手继续供稿，透露出疑似有计划的自我审查。&lt;a href=&quot;https://d38yf3i0kj4hnb.cloudfront.net/article/341&quot; rel=&quot;nofollow&quot;&gt;泡泡网曾有报道&lt;/a&gt;，大陆知名时评人赵楚因在香港东网开设了专栏文章，导致有关部门对他在国内媒体和公共场合采取了彻底封杀。赵楚说：“收到东网总编的电邮，通知我自即日起， 我在东网的专栏也因‘编辑方针和评论方向的变化’停止了。想当初他们满世界通过朋友约我去开专栏，我嫌他们稿酬太低，犹豫再三。有意思。燃烧弹的威力真是无远弗届啊”。国家新闻出版广电总局在去年7月，要求新闻从业人员要遵守与所在新闻单位签订的职务行为信息保密协议。不得违反约定，向其他境内外媒体、网 站提供职务行为信息，或者担任境外媒体的“特约”、“特约通讯员”、“特约撰稿人”或专栏作者等。就此阻断了在大陆媒体从业的时政观察人士的投稿资源。随 即，大批陆媒从业人士宣布终止海外专栏，而知名媒体人宋志标因“触犯”此规定被南方都市报直接开除了。&lt;/p&gt;
+&lt;p&gt;       真正了解大陆、了解政府的莫过于身居大陆的政治研究人士，他们中具备独立思考能力和敏锐洞察力的这部分学者基本都早已被定性成“高级维稳对象”了，平日里出行自由都被阻碍，如今连投身外网发声的可能性也被削弱；大陆网友翻墙成功都难以找到他们颇具指导价值和时效价值的评论文章，与此同时，理中客（骑墙式半自我审查）和“外宾”（不甚了解中国的分析）大量充斥网络，长此以往，将次生潜移默化的洗脑，干扰维权行动中的策略抉择。&lt;/p&gt;
+&lt;p&gt;        网络时代，自媒体突增，官方打造的谎言越来越脆弱。2010年11月8日，中央政治局常委李长春在纪念大陆第十一个记者节时发表讲话，要求各级党委政府“要善待媒体，善用媒体，善管媒体”。已有这几年来的事实可证，“善待”是指对那些听话的媒体；“善管”是针对所有媒体，不论纸媒还是新媒体一律党管严管；而 “善用”则是充分利用各种媒体和具有媒体属性的公众平台，灌输式传播当局的意识形态。&lt;/p&gt;
+&lt;p&gt;       尤其对网络新媒体的管制和新兴舆论平台的占据，可谓无所不用其极。从迅速壮大的五毛水军，由墙内蔓延至墙外，到树立“五毛首领”周小平、花千芳，打压传播能力强的“大V”账号，伴随着以 “反恐”、“反间谍”为由的入罪化打击，对普通网友的公开乃至私下言论严加监控、强力惩治，越来越多的网民&lt;a href=&quot;https://iyouport.com/archives/20691&quot; rel=&quot;nofollow&quot;&gt;因发表观点和传播真相而获罪&lt;/a&gt;。“刀把子”、“&lt;a href=&quot;http://guancha.gmw.cn/2013-08/14/content_8604107.htm&quot; rel=&quot;nofollow&quot;&gt;牛鼻子&lt;/a&gt;”已在现实中成为庞大的枷锁。如评论人宋志标所言：“刀把子”等毛泽东时代才有的说法重新被党媒提起，借由专政淫威重来，对知识分子展开政治攻击，有意识地将阶级斗争的氛围专送至社交媒体上，“刀把子”逡巡，微博肃杀，製造紧张状态。&lt;/p&gt;
+&lt;p&gt;       更为可怕的是近期出现了多起大陆网友在外网发言被传唤的案例，甚至波及到发言者的网上朋友关系。&lt;a href=&quot;https://d2rdpw23tn7qg8.cloudfront.net/article/327&quot; rel=&quot;nofollow&quot;&gt;外宣&lt;/a&gt;尺 度更是史无前例，不仅要在Twitter和Youtube上播放央视春晚、发动大批五毛水军干扰推特等境外社交平台舆论、抹黑异议人士，还入驻了很多官媒 账号，且都一直活跃。推特网友找到了如下大陆官方宣传机构推号：@XHNews (新华社英文，认证)、@CCTV_America (央视美国，认证）、@cctvnews (央视英文，认证）、@PDChina （中国日报，认证）、@globaltimesnews (环球时报，未认证)。&lt;/p&gt;
+&lt;p&gt;       前期，接连不断的出现facebook欲进入中国的传闻，引来大批关注信息安全的大陆网友注 销自己的脸书账号。本月12号，网友@范强 在FB中发布了一条新闻，里面含有Tor,、VPN、网络匿名等字眼，结果显示被要求验证，说是“防止向读者发送垃圾信息”。@范强 怀疑FB出现敏感词屏蔽技术。当日，本网测试发现，发布纽约时报中文网一则关于网络审查的新闻链接，随附文中部分段落做按语，结果显示也同样被要求输入验 证码。尚无法确定是否属于敏感词过滤所致，但在此前&lt;a href=&quot;https://d38yf3i0kj4hnb.cloudfront.net/article/319&quot; rel=&quot;nofollow&quot;&gt;本网曾有报道&lt;/a&gt;： 西藏作家、人权关注者唯色在FB发布的一则西藏僧人自焚消息，被FB删除并给出了通知。随即，旅美作家廖亦武连续在脸书测试发布敏感图片，很快其账号被冻 结。此消息传开后，更多中文用户选择离开脸书。一位推特用户表示：“我们费力翻墙就是为了抵达自由之地，畅所欲言，如果境外平台都不能保证我们的言论自由 和私人信息安全，翻墙的意义何在？”&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;347&quot; width=&quot;444&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/tu_5_10.jpg?itok=W54r3zjK&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;       这的确是个问题。GFW造就高成本上网，浏览和传播都背负着越来越高的代价和危 险性，这种状态下，如果翻了墙看到的还是学习粉丝团、新华社、习大大和中国梦，依旧被五毛水军追击，传播和发表观点一样有被查水表的危险，那么翻墙还有什 么用？有网友献计：推特的五毛机器人是关键字触发而达到污染信息目的的，那么何不利用这点，夹带“关键字”“反向污染”。这看起来是个不错的方法，但基于 能翻墙的大陆网民数量在减少，不知实施后是否能对庞大的水军阵营形成足够强的阻力。&lt;/p&gt;
+&lt;p&gt;        不过五毛水军在外网的存在也有一个“好处”，能令用户轻易辨别在某一时段内哪些话题被官方定义为高度敏感。当局眼中的敏感等级往往和民众所认为的并不一致，而推特发帖时如果被大批水军跟随，则基本可以确认，该帖中涉及的话题敏感等级较高。&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;对价值观和认知&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;        教育方面，被称为“愚民教育”的洗脑工程从幼儿园时期就开始了，到小学阶段融入课本的极权意识形态浓度逐渐加大，直到大学达至顶峰。还远不止教育，几乎所有具备广播属性的媒介都被充分调用来灌输“社会主义核心价值观”了。影视作品、书籍文章、海报街景、甚至公交出租车上，随处可见。而随着网络的出现，真相浮出，迅速削弱了当局耗费数十年积累起来的“洗脑成效”，大批网民加入到“吐狼奶”行动中。于是，网络对洗脑的威胁很快被政府意识到，“洗脑阵地”也“与时俱进”起来。&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;480&quot; width=&quot;426&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/tu_4_16.jpg?itok=NItIsFn2&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;        历史，尤其是党史一直是当局意识形态的重要部分，历史在很大程度上已成为“政治工具”。当局声称“正确”的历史基本没有什么公信力，大批历史研究学者、以及在各种政治运动中受害的人士，一直批评中国依照意识形态写历史的方式，其中对近代史，尤其是1949年后的历史质疑最多。中央研究院院士、普林斯顿大学教授余英时曾表示：“中国大陆从1949年到现在没有历史，有的都是假历史，是为了政治宣传而造出来的伪历史。”&lt;/p&gt;
+&lt;p&gt;       在微信公共账号上，一些暴露中共过去所犯的错误的历史网站吸引了大量读者。据&lt;a href=&quot;http://news.ifeng.com/a/20150119/42968084_0.shtml&quot; rel=&quot;nofollow&quot;&gt;上月19号&lt;/a&gt;官媒报道，国家互联网信息办公室宣布关闭“这不是历史”（微信号：zhebushilishi）等133个微信公众号，给出的理由是“传播歪曲党史国史信息”。评论指：中共对中国民间的历史研究从来都保持高度警惕。前苏联和东欧共产主义政权倒台之后，中国社科院就做出“开放历史研究”是苏共亡党的原因之一得结论。自由亚洲发表了历史学者史东的分析，“象苏联和东欧共产党垮台，老百姓做的第一件事就是还原历史真相。中国现在讲核心价值，其实都是宣传鼓动那一套。中国垄断历史，不仅对历史真相研究有害，对老百姓的身心也有害。”&lt;/p&gt;
+&lt;p&gt;       翻墙越来越困难，大陆渠道的传播就愈发显得珍贵，无法翻墙、懒于翻墙甚至到现在还不知道墙的存在或者不明白翻墙意义的网民，依旧不在少数。虽然官方意识形态宣讲的公信力已近冰点，但随着那些曝光真相的“狼奶催吐剂”被迅速销毁，对反洗脑还是产生了一定的阻碍——不信政府编写的教科书和宣传材料该信什么，对部分民众来说还是个问题。&lt;/p&gt;
+&lt;p&gt;       &lt;a href=&quot;http://www.voachinese.com/content/china-wechat-20150216/2645666.html&quot; rel=&quot;nofollow&quot;&gt;美国之音中文网&lt;/a&gt;的报道指出，事实就是事实，伪装应该剥去，更不应以政治划线。中国互联网管部门对那些有利于党和国家形象的“正史”大讲特讲，对有损当局颜面的历史事实，则定性为“歪史”，并称“这些公号运营者，不仅违反移动互联传播的七条底线，违反社会主义核心价值观，也严重扰乱网络传播秩序”而予以封杀。用这样的态度对待历史网站，引发了网民的不满。推特网友@xiaoya845 的评论毫不夸张：“如今的中国学生： 台湾学生懂历史，更懂现在。香港学生懂现在，更懂未来。大陆学生既不懂历史，也不懂现在，更不懂未来。所以，台湾学生知道说不，香港学生知道说要，大陆学生习惯说‘好’。”&lt;/p&gt;
+&lt;p&gt;        对时事真相的屏蔽更快速地妨碍了认知。世界上最大的新闻自由组织“记者无国界”在本月初发布的&lt;a href=&quot;http://www.peacehall.com/news/gb/china/2015/02/201502122014.shtml#.VOJX6FOUc_9&quot; rel=&quot;nofollow&quot;&gt;最新全球新闻自由指数排名&lt;/a&gt;中，中国位列倒数第五，比上一年还要下降一位。党管媒体治下，陆媒不论是否“正牌官媒”，其公信力都已极度下跌，新闻不自由直接反应了民众获知讯息的不自由、独立思考能力被逐渐削弱，这种渗透于一生的“环境化洗脑”无处不在，潜移默化地影响着各个年龄段的人，对不翻墙的网民影响更为深远。长期下来会有改变认知的可能性，后果相当可怕。朝鲜就是最明显的例子。&lt;/p&gt;
+&lt;p&gt;（未完待续）&lt;/p&gt;
+ </description>
+ <pubDate>Mon, 23 Feb 2015 12:49:53 +0000</pubDate>
+ <dc:creator>伊阙唐</dc:creator>
+ <guid isPermaLink="false">373 at https://d1w0bzp1snsjyg.cloudfront.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/xin_wen_.jpg?itok=moN0NvI1" length="33204" type="image/jpeg" />
+ <comments>https://pp15.global.ssl.fastly.net/article/373#comments</comments>
+</item>
+<item>
+ <title>网络审查如何影响了人们的价值观：网络管制的原生和次生危害  （一）</title>
+ <link>https://divgearcmrfs2.cloudfront.net/article/372</link>
+ <description> &lt;p&gt;【序】愈见野蛮的中国式网络管制已不限于阻断信息流通、加大传输和沟通成本等表面危害，随其加剧推演，还会诱发某种程度上更为深远的次生危害。本系列文章三篇，将从六个方面分析这些危害。&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;对于个人和小群体&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;       审查监控令原本自然简单的传播和沟通代价徒增，与其相关联的一部分价值观正在发生变化，比如：墙内打不开的链接才有价值、文章被封杀账号被删除是为荣耀、需要费力（翻墙）才能达成的交流渠道更加安全，等等。其前因是认识到了审查的无处不在和彻底性。   &lt;/p&gt;
+&lt;p&gt;       媒体网站域名被封锁、文章和账号被封杀，源于存在逆极权意识形态的普世价值观，和能破解官方媒体洗脑式舆论引导的真相；国产即时通讯软件随时能被政府窥视到，国外热门即时通讯工具如skype在大陆下载就被强行定位到更便于政府监控的“中国版”，社交应用上的聊天记录将可以做为“呈堂证供”治以言论罪，越来越多的网民不敢将私人信息放在那些不用翻墙就可以注册登陆的应用平台上，因异议共识而群聚的网友们在这些平台上谈论有可能被敏感化的论题时更多趋向于选择谨慎。沟通阻塞令一些因政治观点立场一致而结合成的讨论组无法顺利凝聚，早期聚集的群组逐步绕避当初的共识，脱敏话题比例提升，整体价值渐次下降。已培养了一定人脉关系的原有社交平台逐渐荒凉，内容苍白，墙内言论空间迅速收窄，转换平台令屏蔽审查下已经低迷的传播效率进一步被削弱。&lt;/p&gt;
+&lt;p&gt;       更可怕的是，“自我审查”在部分群体中已逐渐成为习惯。政府的审查让太多的普通词汇变成了敏感词，网友们在交流中为了能顺利发布形成沟通，就不得不绕避它们，选择使用代号、分隔符、隐喻，或者干脆避而不谈。前期某网友因发送敏感讯息被传唤，警察询问其“TG（土共）”是什么意思？回曰：“贪官的缩写”，方得以解脱。很滑稽的应答，也足见，常用敏感词代号已无法确保沟通安全。表达受限，人们彼此之间的理解和认同指数降低，隔阂感让原有共识无法如常凝聚，安全意识的提升也带来了信任度下降，扼制了共识群体的发育，逐渐趋向小圈子化。&lt;/p&gt;
+&lt;p&gt;       在早期，墙内的言论监察阻隔了墙外信息的流入，墙内外同一时间的热点话题差异越来越大，长期言论管制造就的环境也令一部分不翻墙的用户的思维模式发生了变化，视点、视角、甚至概念和价值观与墙外的差异在加剧，墙内外逐步变成平行世界。随着翻墙软件被管制和GFW的进一步“升级”，翻墙的困难也带来积极性下降，有网友表示“在墙外看到的那些消息也只能看看罢了，无法在墙内传播，中国的事不能让更多中国人了解到，很令人沮丧，慢慢会失去兴趣”。海外网友如果将境外信息分享给不翻墙的大陆朋友，只能通过不翻墙就可以使用的社交工具，然这些社交工具上的私人信息在大陆政府眼中都是透明的，如此传播很可能会“连累”大陆网友被传唤甚至治罪。长久以往，中国大陆将迅速脱离世界。&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;对群体事件&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;        线下群体事件的线上曝光和传播是声援的重要力量之一，以“分散无中心”与“由下而上”群众整合机制为特色的社交平台是主要媒介，线上线下形成了互相交织互相推动的关系。&lt;/p&gt;
+&lt;p&gt;      &lt;a href=&quot;https://www.google.co.jp/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=10&amp;amp;cad=rja&amp;amp;uact=8&amp;amp;ved=0CFIQFjAJ&amp;amp;url=http%3A%2F%2Fblog.sciencenet.cn%2Fhome.php%3Fmod%3Dattachment%26id%3D28084&amp;amp;ei=7ifiVNvMEZC48gWk5oFQ&amp;amp;usg=AFQjCNHDZ4tdMglzCJAdl1M70iL4cOWFfA&amp;amp;sig2=O8D4tocnwh8ZYUvlhze5pA&quot; rel=&quot;nofollow&quot;&gt;华中师范大学政治学研究院&lt;/a&gt;在相关报道中将网络群体事件总结为三种类型：第一种类型主要是网民针对某一热点话题进行讨论，以语言来声援或讨伐，形成的虚拟群体性事件，不涉及现实群体；第二类是现实社会发生的社会问题，借助互联网开放平台，引起网民关注，最终由社会问题演变为群体性事件；第三类是现实与虚拟相结合，现实中已经发生的热点事件，经由互联网推波助澜，最终在网内网外都引起群体事件的发生。&lt;/p&gt;
+&lt;p&gt;        这三种类型中，网络沟通都起到了激发、促进和推动维护的关键作用，不管线上线下有无利益关系。部分网民也会从线上声援转为线下支援。现实与虚拟的群体性事件相互渗透影响，关注程度可以令一件原本能轻易被官方“维稳”的群聚变成不好“动手”。于是，网络对地方群体事件的曝光被官方严格控制、高度敏感，群体维权被政府视为政治性事件，百般打击压制，网络管制严重阻碍了线上和线下的互动，另更多维权行动在不为人知中被平息。&lt;/p&gt;
+&lt;p&gt;        随着觉醒民众越来越多，群体事件数量与日俱增。据网络自媒体博主@&lt;a href=&quot;https://drive.google.com/folderview?id=0B0uuBN7M-RpXZ1NndXBPNmRobEU&amp;amp;usp=sharing&quot; rel=&quot;nofollow&quot;&gt;非新闻&lt;/a&gt; 在2015年1月5日对去年全年各地发生的群体维权行动的不完全总结：2014年共记录到群体维权、冲突等事件21278起，平均每天58起，保存现场图片约22万张。本月初，@非新闻 在推特上表示，目前的群体事件记录数量明显增多，“每天能统计到大约500起”，“这还是保守的估测”。&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;267&quot; width=&quot;480&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/tu_1_37.jpg?itok=cd-9AJwd&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;       泡泡网曾有&lt;a href=&quot;https://d2s8qxo7hs115t.cloudfront.net/article/244&quot; rel=&quot;nofollow&quot;&gt;报道&lt;/a&gt;，墙内平台的审查力度在日趋强悍，具有一定声势的群体事件从萌芽状态就会被列入敏感，不只有屏蔽搜索和删帖，发布者和转发声援的用户甚至会被注销账号。这就给收集带来了很大程度上的困难。@非新闻 曾在接受采访中表示，他们基本上会主动通过搜索去发现信息，尽可能在被删除前，通过各种搜索去获得群体事件的尽可能多的现场文字描述和图片资料，并记录存档。“一般情况是事件规模越大，发布到网络的图文资料就越多，一些大的事件，可以搜索到几百条现场图文信息，现场感也很强。工作确实也比较繁重，平均下来每天都需要8小时左右的工作时间。”&lt;/p&gt;
+&lt;p&gt;       “非新闻”传播的主题是群体事件，都是处于被官方定义为敏感范围内的，这就给他们的工作带来了很大的风险，“非新闻”的网站在建立后很快就被屏蔽了，几乎从根本上阻碍了传播，还没来得及建立起牢靠的受众群体；@非新闻 在墙内社交平台上的账号经常被注销，于是自工作展开之初就自动加入了微博“转世党”阵营。频繁的被注销账号难以形成预期中的线上线下互通状态，而全部收集工作至少一半的效用是为了能让更多人了解知情以形成声援的舆论压力。审查屏蔽令颇具价值的维权支援工作越来越趋向于单纯记录。可有时连记录都无法完整。今年2月11日，非新闻在推特上表示：“搜索号被冻结，损失了很多条信息”。&lt;/p&gt;
+&lt;p&gt;       社交平台绕开官方媒体透露真实民意，消解了政府方面精心打造的舆论引导。似乎当局也注意到了这点，于是，大批五毛水军在热点事件出现的时候被调集出来，于评论跟帖中灌输官方意志，稀释真相，有些时候会令墙内关注者难以辨别。而知情人士发布的真实消息很可能被官方定性为“谣言”，“500转入罪”条款出台后甚至会牵连博主遭受处罚。而“&lt;a href=&quot;https://pp16.global.ssl.fastly.net/article/214&quot; rel=&quot;nofollow&quot;&gt;转发也危险&lt;/a&gt;”条款出台后，不只是粉丝多传播能力强的微博大V，连普通网友也可能会因畏惧治罪而自我审查，绕避那些有可能形成敏感的消息。&lt;/p&gt;
+&lt;p&gt;        原本已一潭死水样的墙内社交平台如今近乎冰冻三尺，有关注热情的网友正在逐渐移步墙外的过程中，“VPN管制条例”来了，加速阻隔了墙内外的互通。墙外中文用户关注的大多群体事件是发生在国内的，而墙外的声援传至墙内的可能性越来越虚弱，基本无法达成预期，为官方的维稳打压平息态势造就了很大程度上的便捷。缺乏关注支援令地方性中小规模维权行动受损最大，而随着网络进一步被封锁，将有越来越多的人们走上街头以实际行动维权。&lt;/p&gt;
+&lt;p&gt;       在不考虑官方水军污染的情况下，热点事件中的网络舆论代表的是真实的民意，也正是它被极权政府所恐惧的原因。不只是对大陆范围内群体事件的高度敏感，港台重大热点事件中大陆当局一样严格控制舆论，大肆抓捕那些与官方意识形态不一致的观点发布者。据&lt;a href=&quot;http://soundofhope.org/node/526390&quot; rel=&quot;nofollow&quot;&gt;希望之声&lt;/a&gt;在去年11月份的统计，香港雨伞运动中，中国大陆有超过百人因公开声援挺佔中运动而被抓捕，其中很多人因拒不认罪而被转为正式逮捕，面临刑罚。在去年台湾九合一选举中，大陆方面也在严格控制境内平台的舆论导向，以至于被部分外媒观察后认为“关注度低”。但据悉，期间有不少网友反应因发布“不合拍”的评论而被删帖甚至被注销/冻结账号。&lt;/p&gt;
+&lt;p&gt;（未完待续）&lt;/p&gt;
+ </description>
+ <pubDate>Mon, 23 Feb 2015 11:13:16 +0000</pubDate>
+ <dc:creator>伊阙唐</dc:creator>
+ <guid isPermaLink="false">372 at https://d24f0fbbs0l72b.cloudfront.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/shen_cha_jie_zhi_guan_.jpg?itok=Hy0m4Qi8" length="21859" type="image/jpeg" />
+ <comments>https://pp17.global.ssl.fastly.net/article/372#comments</comments>
+</item>
+<item>
+ <title>台湾：儿童使用3C产品的时间该不该受限制？</title>
+ <link>https://pp16.global.ssl.fastly.net/article/371</link>
+ <description> &lt;p&gt;&lt;em&gt;编者注：3C&lt;/em&gt;&lt;em&gt;是电子产品的统称，是由三个首字母为C&lt;/em&gt;&lt;em&gt;的英文单词所组成的简称：Computer&lt;/em&gt;&lt;em&gt;；Communication&lt;/em&gt;&lt;em&gt;；Consumer Electronics&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;台湾政府通过一条&lt;a href=&quot;http://news.qq.com/a/20150123/076929.htm&quot; rel=&quot;nofollow&quot;&gt;新法律&lt;/a&gt;，如果父母或照顾者放任儿童使用电子产品超过合理时间，将可被处以最高台币五万元以上的罚款。这条法桉一颁佈，让许多家长大喊荒唐，毕竟“合理时间”太过模糊，再者想象旁人随时可以为了这丁点大的事检举自己，实在让人浑身不舒服。当然，这是不是“丁点大的事”还有待商议，尤其是近年来已有不少关于儿童媒体成瘾的研究，指出过度使用电子媒体的确有害儿童身心。但&lt;strong&gt;用处罚代替宣导，又对两岁以上、十八岁以下的未成年人一视同仁地以“儿童”来看待，是不是暴露了老派冬烘的父权司法试图以铁腕对抗潮流的可笑荒谬呢？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;处罚代替宣导&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;以实务来看，这个法条的执行有许多实际的困难，除了“合理时间”的认定外，执法人员要如何发现与证实电子产品滥用行为也是一大问题。但就像时常难以察觉的肢体与心理虐待，这个法条将给教师、医生与关心的旁人一个通报的法律基础，让社工员得以即时介入，防止问题更加恶化。但问题是台湾政府似乎完全没有思考到，原本工作负担就已经十分沉重的社工人员如何去因应这多出来的工作内容，更遑论欠缺一个明确的定义与处理手则，这样的美意不仅不能得到任何效果，还可能造成扰民甚至加深家庭问题的后果。&lt;/p&gt;
+&lt;p&gt;台湾卫生福利部社会及家庭署科长吴慧君在接受中央社访问时承认条例的执行有难度，至于“合理时间”，她表示卫福部国民健康署的建议是，2岁以下应该避免使用电子产品，2岁以上每次使用不宜超过30分钟，一天不可超过一小时。这样的建议，明显地与现行的实际状况脱节。君不见公共场合裡，两岁以下的幼儿滑手机、玩平版电脑的游戏已经十分常见，几乎已经找不到一个未曾接触过电子产品的幼儿。如果真的要对这些父母开罚，那简直就是要对全民动手了。更遑论要12岁至18岁的青少年一天不要使用电子产品超过一小时，更是荒谬不已，完全忽略现代生活的现实。而1万至5万元的罚则，甚至与提供未成年人酒精与槟榔等严重危害儿童福利的行为等罪，让许多家长大呼不可思议。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;台湾儿童的电子产品使用&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;根据台湾儿童福利联盟文教基金会在2012年发表的儿童使用3C产品调查报告，学龄前（0-6岁）已有超过一成的儿童拥有自己的3C产品，6-12岁族群更高达三成。即便没有自己的3C产品，3C产品的普及率也高达九成八的家庭。有32.2%的孩子在两岁前开始接触3C产品，六岁以前接触者则高达近七成。最让人诟病的，其实是所谓的&lt;strong&gt;3C&lt;/strong&gt;&lt;strong&gt;保姆行为&lt;/strong&gt;，也就是以3C电子产品安抚哭闹的孩子，或是将3C使用时间当作良好行为的奖赏，最常见的就是在餐厅（35.1%）、大众交通工具（23.4%）上，&lt;strong&gt;为了让孩子能够长时间安静地坐着，有高达六成的家长表示非常依赖&lt;/strong&gt;&lt;strong&gt;3C&lt;/strong&gt;&lt;strong&gt;产品来安抚儿童&lt;/strong&gt;。这份报告也呈现儿童每日平均使用3C产品一小时（考量到这数据并未针对年龄层分开统计，6岁以上使用时间可能更高），家长非工作使用时间约两小时，但週间的亲子互动时间却多落在“30分钟至一小时”，暗示3C使用时间排挤了其他亲子活动。&lt;/p&gt;
+&lt;p&gt;2013年儿盟发佈另一份针对儿少手机及APP使用状况的调查（10-14岁），指出70%的台湾学童拥有自己的手机，其中近四成是智慧型手机，这些人中有近两成是会在平日使用3小时、週末超过5小时的重度使用者；而高达七成的家长不管是在APP的内容还是手机使用时间上完全没有管制。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;现代生活的困境&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从这两份报告来看，台湾儿童使用3C的情况的确十分“严重”，但实际的情况是不是真的如此呢？事实是在3C普遍化之前，台湾的亲子关系也不见得较为紧密。工时长、学业压力大，加班、各式各样的补习晚自习侵蚀了亲子相处的时间，不要说亲子互动对话时间，连一家人好好吃一顿都很难得。既然大家都分开吃，休閒时间又短，不少家庭就养成电视晚餐的习惯，要不然一个人坐在餐桌上不也挺孤零的嘛？现在3C普及后，就变成一手往嘴里塞饭，一手滑手机。要说是3C产品排挤了亲子时间，不如说它只是电视的摩登版。从电视到3C，真的算是一种堕落吗？&lt;/p&gt;
+&lt;p&gt;相较来说，3C产品其实比电视更具互动性，内容也更为多元。你可以用3C产品看电视、看电影、拍照、听音乐、玩游戏、阅读、上网找资料、交流聊天。3C之所以让人觉得占据我们绝大多数的时间，正是因为它整合了许多我们原本必须利用不同工具、不同媒介在不同环境下进行的活动。它的确改变了我们原本与世界互动的方式，也因此让许多对原有生活模式恋恋不舍的人感到恐惧、感到苍凉，好像电子产品正在取代珍贵无比的实际情感互动。但我们必须质问的是，沉迷3C是这股潮流的原因？还是它的果呢？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;科技恐惧症&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;当一个关于3C产品对儿童成长之影响的全面性本土研究资料仍付之阙如的状况下，台湾政府通过这个法案，其实是非常武断、非常不合理的，更遑论政府与支持者举出的他国研究结果，通常没有区别媒体内容（如暴力电玩）、年龄分层与使用时间的影响，光是一再强调过度使用的危机，却没有对游戏分级与年龄管制进一步讨论，更鲜少有任何协助父母为孩子建立一个安全适龄使用空间的努力，让人觉得这不过又是政府另一个政治正确的嘴砲罢了，完全显示出政府儿福单位与社会、与时代脱节的窘境。&lt;/p&gt;
+&lt;p&gt;当民众质疑将青少年等同儿童限制其电脑使用时间是否合理，官员立刻回答“为了做功课、做报告可以视为例外”，完全暴露了政府单位“只要读书就是好孩子”的八股思想，也显示出这套法令背后的真正理路，其实就是传统威权结构对新挑战的不安。当太阳花的一代可以轻而易举地用手机、ipad架起全球直播网站，当line与脸书成为讯息与意见交流的平台，这些孩子们已经证明了3C不只是暴力电玩、网路霸凌、色情影片等等家长/学校/政府眼中怪兽出没的地方、充满诱惑的万恶深渊。它可以创造对话与串连的新模式，它并不会让我们变得更孤单，事实上，它让我们可以摆脱“大多数”的幻觉、小众的无力感，有机会与相似的灵魂接触、一起发光。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;自由与保护&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我们应该都还记得，升学时期我们是如何被剥除各种自由，不管是阅读“闲书”、看电影、对任何课业以外的活动表现热诚，都会被无情地压制。就像现在的3C产品，以前的小说在师长眼中也有类似的魔力，认为花费在这上面的时间会排挤学习的时间。我相信很多人都会这麽觉得，回头看，在课本上学到的知识（尤其是大学以前），通常不值得一顾，多半也只是强记下的死讯息，但我们在文学在艺术在音乐中独自探索的美好，却永远留存在心中。今日，我们可以上网欣赏罗浮宫的典藏、在wikipedia上浏览各种资讯、来自世界各地的音乐都可以轻易在网路上找到，甚至可以与一部被世界影坛遗忘已久的电影不期而遇，从而改变你的一生。&lt;/p&gt;
+&lt;p&gt;我们在手机上听音乐，在平版电脑上读书，3C已经成为我们生活中的一部份。我无法相信如果有个家庭每天回家后各花两个小时阅读书籍，会有人胆敢批评他们因此亲情澹薄，为什麽换成电子书就不行呢？3C只是一个媒介，内容与使用方式才是重点，与其立法惩罚，为何政府不推动新的研究，为儿童找出接触3C的最好方式呢？为何不鼓励研发适龄适性激发儿童想像力的教育性APP？难道他们真的以为这是一个可以阻挡、可以回转的潮流吗？&lt;/p&gt;
+ </description>
+ <pubDate>Thu, 19 Feb 2015 14:56:34 +0000</pubDate>
+ <dc:creator>Agnes Poe</dc:creator>
+ <guid isPermaLink="false">371 at https://d24f0fbbs0l72b.cloudfront.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/reporters_18316426.jpg?itok=QMv4ZbmE" length="24847" type="image/jpeg" />
+ <comments>https://pp15.global.ssl.fastly.net/article/371#comments</comments>
+</item>
+<item>
+ <title>微信红包：让你欣然接受被实名</title>
+ <link>https://d1w0bzp1snsjyg.cloudfront.net/article/370</link>
+ <description> &lt;p&gt;        在愈演愈烈的网络管制之下，网民对墙内应用的兴趣逐渐下降中，一时没有全面弃用墙内应用的原因主要有两个：一方面是既有人际关系的情感牵扯，另方面就是墙内应用在技术方面的一些独特“吸引力”，比如：红包功能。&lt;/p&gt;
+&lt;p&gt;        逢年过节发红包是中国传统风俗之一，在没有网络的时代里，基本都是由长辈发给晚辈的，不会反过来，而同辈人之间也没有这样的规矩。收支双方大致框定在亲属关系内。网络时代来临，社交应用借其沟通便捷的优势笼络人脉范围庞大的能力，推出了电子红包收支的新功能，一时间颇具吸引力。电子红包打破了年龄段的限制，也取消了家族辈分的禁锢，甚至时段也不再仅限于年节，只要是互为好友的用户就随时可以使用其沟通感情。上网收红包已成为一大流行趋势。&lt;/p&gt;
+&lt;p&gt;       “电子红包”业务最早是由银行推出的，这种红包无须争得对方的同意，封顶数额5000元。但当时并没有过多宣传。随着电子商务的普及，第三方平台开启红包应用，以此吸纳会员和用户。2014年春节期间，“微信红包”一夜走红。据去年腾讯发布的数据，从除夕到初八，超过800万用户参与了微信红包活动，超过4000万个红包被领取，平均每人抢了4-5个红包。微信红包活动最高峰是在除夕夜，最高峰期间每分钟有2.5万个红包被领取，平均每个红包在10元内。数据显示，目前微信用户总数已超过6亿，其中海外用户超过1亿。近期推出的最新版微信还添加了“查看我发出和收到的红包数据”功能，随即“晒数据”就引起了一大热潮，发出的多、数额大成了“新概念荣耀”，更进一步刺激了红包功能的大量使用。&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;480&quot; width=&quot;269&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/tu_1_lai_zi_wei_xin_gong_zhong_hao__0.jpg?itok=-CIlx9RC&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;（图片来源：微信公号）&lt;/p&gt;
+&lt;p&gt;       据估测，如有30%的用户发100元红包，就能形成总共60亿的资金流动，延期支付的时间为一天，民间借贷目前月息2%，每天保守收益就420万元；若30%用户没选择领取现金，那么其账户可以产生18亿的现金沉淀，无利息。那些因为没有绑定银行卡而沉淀下来的资金，总量是个不小数字。到目前为止，腾讯方面和微信支付团队还没有公布这个具体数额。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;能让你&lt;/strong&gt;&lt;strong&gt;“&lt;/strong&gt;&lt;strong&gt;喜欢&lt;/strong&gt;&lt;strong&gt;”&lt;/strong&gt;&lt;strong&gt;的被实名方法&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;        但使用微信红包实现到账功能有一个重要前提：必须绑定银行卡。没有绑定的用户可以收取红包，数额会显示在“零钱包”中，但无法提现，也无法消费。唯一的用途就是做成红包发出去，其效用也只是为红包游戏增添活力。微信在自诞生之初就迅速改版为只能使用手机号注册了。但还是有一些用户为了维护隐私信息安全和言论相对自由而想办法绕避被实名，于是选择“回到旧版”，用QQ号注册使用。实名制最大的得利方就是网络监控部门，为能更方便地对网民施行言论管制，网信办在去年8月7号颁布的《&lt;a href=&quot;http://8.sh.fang.com/dongtai/news/12060512.htm&quot; rel=&quot;nofollow&quot;&gt;即时通信工具公众信息服务发展管理暂行规定&lt;/a&gt;》中提出微信正式实名的意见。据网信办2014年底对即时通信工具进行的复核结果显示，微信实名认证用户已达到80%。而其他即时通信工具，实名用户已达到90%以上。看起来，微信在完成实名制覆盖率任务上需要“更多努力”。&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;480&quot; width=&quot;412&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/tu_2_lai_zi_wang_luo_.jpg?itok=kdq5y91_&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;（图片来源：来自网络）&lt;/p&gt;
+&lt;p&gt;       据报道，今年新版微信的摇一摇功能配置了定时派红包，腾讯推出了65亿红包，其中微信红包有5亿现金（单个最大红包为4999元）和30亿卡券，QQ红包则有30亿。除夕夜10点半央视春晚送红包，微信摇一摇的使用次数达72亿次，峰值8.1亿次每分钟，送出微信红包1.2亿个。“&lt;a href=&quot;http://jingyan.baidu.com/article/495ba841f2122638b20ede65.html&quot; rel=&quot;nofollow&quot;&gt;抢红包时间表&lt;/a&gt;”或许是近日网上传播量最高的一篇文章了。连朋友关系稀少或收发红包数量小而暂时不考虑绑定银行卡的用户都有机会参与到“主动实名的行动”中来。据2月18号晚，蓝鲸财经媒体官方微博透露，仅仅2天时间内微信绑定个人银行卡达2亿张，这个数额支付宝大致需要8年才能完成。的确是个不小的“战绩”，腾讯又为网络管制立了一功。直接说“实名认证上网”，或许很多网民会有抵触，不利于网络应用公司维护和壮大用户群，而通过植入功能“悄悄”实现实名制，借用人们的参与意识、群体效应和基础物质诱惑带动使用，既完成了当局下达的任务，又能在一定程度上笼络客户群，可谓一箭双雕的“聪明”策略。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;信息安全&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;        银行卡、手机号是最广为人知的私密信息，也是多数网民排斥实名制的主要理由，而当局强推实名制的目的则是针对言论的管控。“&lt;a href=&quot;http://news.cntv.cn/special/jstxgjgd/&quot; rel=&quot;nofollow&quot;&gt;微信十条&lt;/a&gt;”管制措施的推出显示腾讯公司的主动自我审查并没有得到官方的信任，“有关部门”要亲自动手监察做为新生事物的微信中出现的“敏感”言论。因言获罪的案例中，微信用户的比例在升高。仅维权网的历史记录就足以证实，去年已有多名微信用户因朋友圈异议言论而被喝茶甚至被抓捕。&lt;/p&gt;
+&lt;p&gt;       今年情人节当日，昆明公安以“散播谣言，扰乱公共秩序”为名将网民&lt;a href=&quot;http://08charterbbs.blogspot.jp/2015/02/80.html?spref=tw&quot; rel=&quot;nofollow&quot;&gt;周敏&lt;/a&gt;行政拘留10日。周敏是80后女性，网名@美女美食家，原本是一个经营餐饮软件的个体户，因为出于生存环境的考量，成为2013年昆明px抗议事件的发起人之一，据悉，她经常在个人微信上发表一些对社会及社会热点事件的看法。据昆明维权人士透露，周敏此次被刑拘是因为“转发了几篇有关习近平的负面文章”。经验显示，周敏的被捕或许不仅是因那几篇文章的转发，她平日里的异议言论有可能早被当局注意到而实施了定位追踪，收录在案，此次获罪疑似“积累效果”。&lt;/p&gt;
+&lt;p&gt;       在大陆使用客户端应用，被定位也是比较容易的，如果选择非国行机、境外手机卡，并在设置中关闭定位功能，一定程度上可以令准确追踪比较难以实现。&lt;strong&gt;而实名制若全面推行，则很大程度上协助了当局的监控。社交需求、情感联络是网民选择使用社交平台的基础理由之一，微信红包功能正是利用这点骗取实名认证的。&lt;/strong&gt;关注时事、经常发表政治评论和转载敏感文章或消息的用户，如果不想绑定银行卡被实名，又能使用红包功能沟通友情，那就需要注册至少两个微信账号，一个绑定另一个不绑定，因为一台设备上只能使用一个微信号。虽然身边有两台或以上移动设备的网名不少，但肯定不是全部，这就降低了一部分实现可能性。而“一人多账号”措施本身就加大了微信客户端下载量，在腾讯角度上看，怎么都是赚了。&lt;/p&gt;
+&lt;p&gt;        此外，将政治立场和政治观点写入红包祝福语中，也是今年比较热的玩儿法，基于微信连图片都要审查的力度，这种表达方式不会持续安全，仅是目前为止在红包方面的监控还没有完全到位，基于管制的全面彻底性，可以预测，应该很快会覆盖到此。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;红包功能引发的其他安全隐患&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;       自从去年微信推出红包功能后，随即网上便出现了一些诸如抢红包神器、刷红包插件等具有“外挂”性质的第三方工具，不仅破坏用户体验，还有很大的安全隐患。据腾讯反病毒实验室透露，这些抢红包“外挂”通常被植入木马病毒程序，很容易造成个人信息泄露和财产损失。&lt;/p&gt;
+&lt;p&gt;       据&lt;a href=&quot;http://news.ccidnet.com/art/1032/20150216/5770467_1.html&quot; rel=&quot;nofollow&quot;&gt;相关报道&lt;/a&gt;，这些“外挂”主要由两部分组成，一个是安卓模拟器，可以在电脑上模拟运行微信：&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;356&quot; width=&quot;480&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/tu_3_17.jpg?itok=jzK852xs&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;       其中，一个是按键工具，可以模拟鼠标重复操作动作，实现在电脑上自动刷红包。&lt;/p&gt;
+&lt;p&gt;       &lt;img height=&quot;372&quot; width=&quot;480&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/tu_4_15.jpg?itok=V9i_Olc3&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;       如果有流氓软件、盗号木马、后门程序植入到外挂中，便可以窃取用户个人隐私、网银密码等等。&lt;/p&gt;
+&lt;p&gt;       陆媒 &lt;a href=&quot;http://tech.china.com.cn/meeting/20150213/170373.shtml&quot; rel=&quot;nofollow&quot;&gt;中国网科技报道&lt;/a&gt;，2015(第十四届)中国互联网大会将于今年7月21日-23日在北京国际会议中心举行。中国互联网协会副秘书长杨一心在新闻发布会上公布了这届大会的主题，称设置了六大板块：未来畅想、产业融合、众创空间、E路护航、我@生活和技术殿堂。其中“E路护航”版块的内容显示为：“邀请各界人士共同探讨网民权益保护、互联网安全、网络版权、网络法治建设等问题，为建设网络法治空间出谋划策”。当局概念中的“网络安全”就是审查监控便利和统治的安全，既能保证“稳定”和利益又能全面推行实名制，就是其中重要的一部分，不知届时微信红包功能的策划是否要被当做“优秀成功作品案例”推出？一笑。或许也只有这样能令更多使用者醒悟。&lt;/p&gt;
+ </description>
+ <pubDate>Thu, 19 Feb 2015 10:36:44 +0000</pubDate>
+ <dc:creator>伊阙唐</dc:creator>
+ <guid isPermaLink="false">370 at https://d1w0bzp1snsjyg.cloudfront.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/chun_jie_hong_bao_yong_hu_re_dian_tu__0.jpg?itok=02-X0g1q" length="26874" type="image/jpeg" />
+ <comments>https://d3t8jz6506hbdb.cloudfront.net/article/370#comments</comments>
+</item>
+<item>
+ <title>技术小白如何选择软件</title>
+ <link>https://d1w0bzp1snsjyg.cloudfront.net/article/367</link>
+ <description> &lt;p&gt;对于中国的个人电脑用户来说，电脑上安装的可能大多数是免费软件，如何安装和选择软件对于那些非IT技术类的“小白”来说还是比较困难的事情，今天就主要讲讲个人用户如何选择电脑软件的常识。&lt;br /&gt;&lt;br /&gt;我个人觉得，对大多数普通电脑用户，个人软件选择的大方向是：国外商业软件&amp;gt;国外开源软件&amp;gt;国产开源软件&amp;gt;国产商业软件。具体的原因我下面做一些解释。&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;国外商业软件和国外开源软件&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;很多专业用户可能会觉得，很多国外的商业软件未必会比开源软件强，并且很多个性化功能对于开源软件会更适合。不可否认，开源社区对于软件的贡献是非常巨大的，但较为专业性的定制功能对于普通个人用户来说门槛较高，而商业软件则面向大众，通常会有更好的易用性，商业软件公司的开发能力也相对更强，所以商业软件的Windows能在个人电脑领域领先于开源的Linux系统。&lt;br /&gt;&lt;br /&gt;然而，商业软件大多都是收费的，对于个人用户来说成本不小，而开源软件产品绝大部分都是以源代码的形式公开免费下载的，所以不需支付使用费用，所以很多人就推崇开源软件。不过，随着互联网免费模式的诞生，现在很多商业软件也开始免费，例如谷歌的系列软件，尽管这些软件可能会收集用户的一些个人隐私或其他资料，但对于中国用户来说并没有什么可担心的，美国政府对中国用户没有司法权，即使用户触犯了美国的法律（例如盗版等），美国人来“跨国”抓捕的可能性也微乎其微，但如果你使用国内的软件（例如QQ或百度），被“跨省”抓捕的案例可能层出不穷的。&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;国产软件和免费软件&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;对于国产软件来说，商业软件不一定就不会刷流氓，而国产开源软件的选择性非常小，国内因为生存压力问题，开源开发者大多是索取者多，奉献者少，成气候的开源软件非常少，而商业公司推出的各种免费软件往往会成为市场的主流。&lt;br /&gt;&lt;br /&gt;一个典型的案例就是360安全软件击败了瑞星，瑞星早先依靠出售杀毒软件曾经活的有滋有味，而自从360推出了完全免费的安全软件后，这个行业格局一下子就被打破了，而且还改变了用户的消费习惯和软件使用习惯，颠覆了整个行业。&lt;br /&gt;&lt;br /&gt;而免费的商业模式带来的市场效应就是大鱼吃小鱼，竞争残酷，大公司靠资金实力拼掉小公司，小软件不是倒闭就是被收购，导致大多数常用软件产品集中到了某几个行业巨头手中。&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;国产免费软件=流氓软件？&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;常用的国产软件大多都是免费的，这些软件的研发成本较高，只能通过广告，增值或者其他手段来赚钱，用户免费使用的代价其实并不低，这些免费软件既然不能通过销售赚钱，只能想一些其他办法，比如收集下用户的隐私信息、弹窗、广告等，有时候还会耍耍流氓，国内环境如此，对于大多数“小白”用户来说，也搞不清楚这些状况。&lt;br /&gt;&lt;br /&gt;大部分国内商业公司的软件都会收集并监控国内网民的各种行为，并美其名曰“数据挖掘”或“大数据”，用户的个人信息基本上属于“裸奔”状态，被“跨省”的成功率极高。而如果使用国外软件，并具有一定的安全常识，就很难会被“跨省”。&lt;br /&gt;&lt;br /&gt;因此，对于用户来说，尽量不要用国产商业公司的软件。但对于有些用户来说，对个人隐私的安全无所谓，也不会用国外的软件，那么对于国内的流氓软件里，应该如何选择呢？&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;如何选择流氓软件？&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;如果非要选择使用国内软件，可以基于这样一些原则：该软件并不是该公司的主流盈利项目，而是针对竞争对手推出的竞争项目，通常这类“行业第二”的软件产品，为了口碑的需要，不会有太多流氓行为，也不会有什么广告，但这类软件的开发人员可能会非常短缺，软件有可能长时间不更新。举个例子，腾讯的主要盈利项目是QQ，因此其推出的竞争产品“QQ旋风”和“QQ影音”的流氓行为就相对较少，虽然功能有限却更新缓慢，但也算是勉强可用的软件。&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;常用软件建议&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;总的来说，通过上面讲到的一些法则，我这里推荐一些常用软件的选择建议如下：&lt;br /&gt;&lt;br /&gt;浏览器：Chrome，Firefox；&lt;br /&gt;&lt;br /&gt;输入法：谷歌输入法、必应输入法或小狼毫输入法；&lt;br /&gt;&lt;br /&gt;电子邮件：Gmail或Hotmail，邮件客户端：Mozilla Thunderbird；&lt;br /&gt;&lt;br /&gt;密码管理：Lastpass、1Password或KeePass；&lt;br /&gt;&lt;br /&gt;云同步网盘：Dropbox或OneDrive；&lt;br /&gt;&lt;br /&gt;压缩工具：7-ZIP；&lt;br /&gt;&lt;br /&gt;图像处理：GIMP；&lt;br /&gt;&lt;br /&gt;图片浏览：Picasa；&lt;br /&gt;&lt;br /&gt;代码编辑：Notepad++；&lt;br /&gt;&lt;br /&gt;FTP：FileZilla；&lt;br /&gt;&lt;br /&gt;下载：eMule；&lt;br /&gt;&lt;br /&gt;杀毒软件：小红伞、AVG、Avast、Comodo；&lt;br /&gt;&lt;br /&gt;即时通讯软件：Google环聊或Skype，尽量不要用QQ，如果使用QQ的话，不可在上面讨论涉及隐私或敏感的话题。&lt;/p&gt;
+ </description>
+ <pubDate>Thu, 19 Feb 2015 08:08:25 +0000</pubDate>
+ <dc:creator>William Long</dc:creator>
+ <guid isPermaLink="false">367 at https://pp16.global.ssl.fastly.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/xiao_bai_xue_shang_wang_.jpg?itok=hqYPJXDC" length="25027" type="image/jpeg" />
+ <comments>https://d2s8qxo7hs115t.cloudfront.net/article/367#comments</comments>
+</item>
+<item>
+ <title>春晚“翻墙”：仍卖外宣的大力神丸</title>
+ <link>https://pp16.global.ssl.fastly.net/article/369</link>
+ <description> &lt;p&gt;此前有&lt;a href=&quot;http://news.sina.com.cn/c/2015-02-13/110531517597.shtml&quot; rel=&quot;nofollow&quot;&gt;消息&lt;/a&gt;说，今年的大陆春晚将通过24家海外媒体机构以英语、印度语、阿拉伯语、葡萄牙语和德语等多种语言形式转播。中央电视台还将制作历年春晚合集《中国春晚》，该合集将推向海外市场，在YouTube、GooglePlus和Twitter等社交网站上可以看到。&lt;/p&gt;
+&lt;p&gt;对于这个举动的评议，当然还是&lt;a href=&quot;http://chinadigitaltimes.net/chinese/2015/02/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A7%E8%A3%A4%E8%A1%A9%E8%A6%81%E7%BF%BB%E5%A2%99-%E4%B8%8D%E6%80%95%E8%B5%B0%E5%85%89%E5%90%97%EF%BC%9F/&quot; rel=&quot;nofollow&quot;&gt;嘲讽&lt;/a&gt;的多。&lt;strong&gt;一个将国外著名社交媒体网站排斥在外，禁止本国公民使用，却利用这些渠道，推销包括春晚在内的意识形态内容，这种看似矛盾的做法，执行两套标准，一切为我所用，令人对“荒谬”一词有了耳目一新的认识。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对春晚“翻墙”传播加以冷嘲热讽，并不能伤及其筋骨，甚至无法羞辱背后的政策制订者。在他们的眼里，这些嘲讽与他们推行的目标，不在一个层面上——春晚“翻墙”要争取的目标受众，与有能力嘲笑它的人群，不是同一类人，统战永远有着强大的自我麻痹能力。&lt;/p&gt;
+&lt;p&gt;很容易看出，将春晚作为一个内容来源，推销到世界上去，依旧是&lt;a href=&quot;https://divgearcmrfs2.cloudfront.net/article/327&quot; rel=&quot;nofollow&quot;&gt;大外宣战略&lt;/a&gt;的一个部分。这就像在新华社的广告出现在纽约时代广场上一样，外宣执行者将其作为政绩一样来宣示。这样说明，执政党的大外宣战略在经历了沉寂之后，正在变得活跃起来。&lt;/p&gt;
+&lt;p&gt;大外宣战略是李长春主抓意识形态后期提出的观点，它的依据是&lt;strong&gt;将舆论分为对内与对外两个场域，在不同的场域里执行不一样的标准，一切以实用为原则&lt;/strong&gt;。所以，&lt;strong&gt;大外宣执行手段与执政党对内的舆论控制可能完全相反，有人以为这是分裂，实质上是统战中的实用主义&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;大外宣战略在习近平上台前后一段时间，曾经被冷落过，但是随着这两年的政斗历程，可以观察到它正重新复活。去年下半年，本来承担者统战工作的海外华文报纸重新宣告了对习近平的效忠，同时，组建了一些新媒体联盟，一些本以公知面目示人的卸下伪装，走上前台。&lt;/p&gt;
+&lt;p&gt;本次春晚所借助的海外网络，除了YOUTUBE、TWITTER等国外社交媒体以外，就包括华文报纸及新组建的外宣网络。而且，这次借春晚试水，是主动将执政党许可的文宣内容定点投放，这也显示出，对海外华文媒体的控制力度及协调能力，比往年有了提高。&lt;/p&gt;
+&lt;p&gt;从推特的语言使用比例上可以看到，这几年中文的用户内容占比在急剧下降，中文推特圈中的异议人群保持不变，但活跃度也有所下降；&lt;strong&gt;在大外宣的资金支持下，党媒开始有意识地向境外社交媒体入侵，体现存在感，这佐证了大外宣的资金相当充沛&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;单就传播效果而言，春晚“翻墙”与否都不重要，就像新华社将广告做到时代广场并不能提高新华社的美誉度一样，春晚并不能因此扩大其影响力。但话又说回来，那些可以拿到相关经费的人则可以就此得到实际利益，因此，春晚“翻墙”更像是赤裸裸的金钱项目。&lt;/p&gt;
+&lt;p&gt;将执政党的文宣事业产业化，分得一杯羹，进而做成一个利益链条，分食之，这些年已经蔚然成风。宣传系统收取企业贿赂，出台禁令；网络主管部门及其负责人收取巨资，删除负面新闻，为商业公司的公关服务，再到瓜分大外宣的资金，早已不是新闻。&lt;/p&gt;
+&lt;p&gt;由是观之，春晚“翻墙”不过是大外宣资源化、利益化的最新伎俩而已。它说明了执政党的外宣已经复活的背景，也指明了外宣活跃之后的指向：无外乎是和尚念经，有得赚就念两声，没得赚就跑路。它当不起批评者严肃的对待，因为&lt;strong&gt;在本质上，它不过是披着意识形态外衣的生意而已&lt;/strong&gt;。&lt;/p&gt;
+ </description>
+ <pubDate>Wed, 18 Feb 2015 14:33:38 +0000</pubDate>
+ <dc:creator>吴春万</dc:creator>
+ <guid isPermaLink="false">369 at https://d2s8qxo7hs115t.cloudfront.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/da_ku_cha_.jpg?itok=AC3jDM6k" length="30937" type="image/jpeg" />
+ <comments>https://pp15.global.ssl.fastly.net/article/369#comments</comments>
+</item>
+<item>
+ <title>除夕特别制作：愿墙国人民在羊年里多一点自由</title>
+ <link>https://d2s8qxo7hs115t.cloudfront.net/article/368</link>
+ <description> &lt;p&gt;在即将过去的马年里，大家伴随着泡泡君一起揭露审查、抵制监控、翻越防火墙。旧历的新年即将到来，泡泡君特约著名时政漫画家变态辣椒为新年创作此画，愿墙国人民在羊年里多一点自由。&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;373&quot; width=&quot;480&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/xin_nian_.jpg?itok=HGiPRiGx&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+ </description>
+ <pubDate>Wed, 18 Feb 2015 09:46:27 +0000</pubDate>
+ <dc:creator>泡泡</dc:creator>
+ <guid isPermaLink="false">368 at https://d3t8jz6506hbdb.cloudfront.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/anp-31468422.jpg?itok=ty--Akk1" length="49863" type="image/jpeg" />
+ <comments>https://d3t8jz6506hbdb.cloudfront.net/article/368#comments</comments>
+</item>
+<item>
+ <title>静悄悄的审查</title>
+ <link>https://d1w0bzp1snsjyg.cloudfront.net/article/365</link>
+ <description> &lt;p&gt;经典抗争政治的学者，一直试图去解决威权统治下镇压与反抗的不稳定关系。镇压不足无法扑灭社会抗议，镇压过度又会反向激化抗议和不满。而一国对反抗者的收买能力，又会对反抗的形式和镇压的结果造成截然不同的影响。&lt;/p&gt;
+&lt;p&gt;所以，威权政体总在找寻一个最优的平衡点，使其容忍一部分抗议的同时，能保持核心的利益不受到挑战。更重要的是，通过故意释放一部分社会不满，威权国家用一种巧妙的方式解决了信息流通的困境。民主国家靠选举，媒体和公民社会等勾连国家与社会，威权政权在缺乏透明信息管道的情况下，则是通过低度的社会不满和抗议，收集民间的信息，以进行更直接高效的管控。&lt;/p&gt;
+&lt;p&gt;这个镇压与反抗的基本逻辑，在数字时代迅速延伸到了审查与反审查领域。低度的审查起不到阻断和威慑效果，而过度的审查则可能激发大规模的不满。比如完全不封杀谷歌，境外势力的影响就过大了，但是全面封杀，又会打击面过大，牺牲一部分政权支持者的利益。当政权和民众均将数字技术视为至关重要的沟通与动员工具时，对其控制权的争夺之战也就白热化了。这种激烈的互动反馈，从各国精细化的网络控制，多元化的网络反抗，就可以反映出来。&lt;/p&gt;
+&lt;p&gt;那么威权国家对数字技术的控制成效如何呢？在大规模抗议出现或即将出现的敏感时期，国家常常采取干扰通讯或屏蔽关键页面的方式，来阻止人们在线上互联。不幸的是除中国外，大部分国家的审查机制太过初级，无法做到选择性屏蔽，所以一些政权在情急之下，就会选择全面断网。然而已有的研究显示，断网作为最极端的信息阻断行为，其噤声效果常常适得其反。2011年初埃及抗议持续不断，穆巴拉克政权被迫断网断通讯，就让更多人走上了街头。&lt;/p&gt;
+&lt;p&gt;相比之下，中国可以采用的审查手段就高明了许多。正是因为审查技巧的高明，目前的研究往往局限在官方对信息内容的控制上，即检测什么样的网站、内容容易被屏蔽和封杀。两年前，哈佛大学加里·金老师领衔的团队通过实验发现，微博主要审查集体行动的动员，而非抽象的政治批评。这个重要的发现一定程度上带动了对信息内容的抓取和研究，却让更多人忽视了更宏观的信息环境问题。官方的策略当然重要，但人们如何回应这些策略，以及这些策略造成的长期现实影响，似乎极少人关注。&lt;/p&gt;
+&lt;p&gt;倒是民间的观察者们经常思考审查策略的可能影响，不过乐观派和悲观派的结论截然相反。乐观派认为，审查是一场作茧自缚的慢性自杀，关闭评论功能后，众人纷纷采用转发；封杀一条新闻，更多的搜索行为和谣言出现；关闭了一个字幕组，十个字幕组生长出来。悲观派则看到审查机制对普通大众的压制性影响，逼迫人们进行自我审查。自我审查一直是个相当有说服力的论点：威权国家最根本的解决之道，在于培养出一批在信息素养上具有“威权人格”的用户。在铁丝网拦截面前，网民们乖乖掉头，哪怕墙塌都不会向前迈出一步。&lt;/p&gt;
+&lt;p&gt;中国大到几乎所有的论断都能找到部分证据。其实对于非常明确的压制信息，人们的反应可以千差万别，一部分大众会妥协，也有一部分会采取激进化的信息模式加以反叛。乐观和悲观派所争论的核心，其实是面对审查采取妥协和反叛策略的比例。但双方同时忽略的一点是，并不是所有人在任何情况下都能认识到审查的存在。很多时候我们只是自然地浏览着网络，我们受制于网络空间的网速，代码和交流对象，而不是那盏时刻亮着的审查红灯。如果审查可以被看做一种数字镇压，其与反审查之间的互动关系，比实体空间的镇压与反抗还要复杂许多。镇压是一种明确的权力信号释放，审查却既可以大张旗鼓，又可以“润物无声”。&lt;/p&gt;
+&lt;p&gt;新任教于加州大学圣地亚哥分校的助理教授玛格瑞特·罗伯茨，选择了中国审查策略的有效性作为自己的博士论文课题，第一次考察了网络审查对信息流动的双重影响机制。为了更精确揭示审查与反审查的动力学，她将“人们是否感知到审查”这一点纳入了考量范围。&lt;/p&gt;
+&lt;p&gt;在官方的审查行为能被明确感知的情况下，在线数据与实验的结果更符合乐观派的预期。对于普通读者而言，明确的信息删除只会激发更多的好奇心，引发对同一个话题的进一步搜索，并形成更坚定的反审查态度。而对内容生产者而言，被删帖删文基本无法阻止他们继续创作。平均每一百个博客主，只有一个人会因为审查，而不再评论政治话题。所以，基于明确威慑色彩的审查，常常达不到其期待的效果。&lt;/p&gt;
+&lt;p&gt;但是除了直接噤声外，网络审查在信息操控上却颇为有效。相比直截了当的该页无法显示，各种更为隐蔽的审查行为，比如减慢网速，填塞垃圾信息，对信息的流通有着非常明显的抑制作用。事实上，官方从来没有封死所有的信息流通途径，而只是给不同的信息内容加设了不同的获取成本。罗伯茨也发现，只要对信息获取稍加门槛，传播速度和规模就会显著降低，而整个过程中，很多用户压根不会意识到网络审查的存在。这个发现和之前无数的消费者调查一致，通过调整不同信息的易接受性，用户的购买行为会随之改变。最近随着墙的加高，翻墙也愈发成为类似的行为经济学问题：你是否有足够的时间和资金，你是否付得起浏览自由信息的成本。也就是说，如今的审查从“完全不让看敏感内容”，演进到了“你更可能看到非敏感信息”。&lt;/p&gt;
+&lt;p&gt;现实可能比罗伯茨的研究更灰暗。纵使国家的审查威慑力无法阻止用户表达，也不表示威慑不会客观上阻碍信息流通。从用户对审查的短期反应，来推断信息流动可能受到的影响，可能的误差非常大。因为传播时机和传播网络往往是至关重要的，同样的内容被删除后又再次发出，同样的内容由不同的人发出，传播效果的差异究竟有多大，是罗伯茨的数据所无法揭示的问题。即使是前文提到的断网，是不是一定会对非民主政权存续造成直接的威胁呢？断网的时机，线下的动员网络同样是两个可以改变最终结果的核心因素。加之世界范围内的断网与审查案例还都太少，国家间差异又太大，往往一个新案例的引入，就会刷新我们之前的认识。比如最新对叙利亚的个案分析又显示，时不时的断网和信息干预，不仅未激化集体行动，还成了当权者对反对派大开杀戒的好时机。所以，不管我们如何自我安慰，断网与审查的绝对负面影响，一定大于其带来的意外正面效果。&lt;/p&gt;
+&lt;p&gt;我们并不知道从长远来看，一个压迫性的网络环境如何在各个方面入侵社会的肌理。这种侵蚀可能已经发生，只不过像潜伏的疾病般隐匿。至少在当下的国度，信息控制对社会的主要影响，并非通过审查让人们噤声，而在于通过提升信息获取的成本，潜移默化地操控用户的整个信息获取模式。即使用户的思维方式并未因国家的触手而发生改变，信息的流通也已经受到影响。某种程度上说，有效的审查都是静悄悄的，能被感知到的禁区，都不是真正的禁区。这个事实多少让人感到无奈：我们一边清醒地反抗，一边却清醒地被愚弄。&lt;/p&gt;
+&lt;p&gt;[参考文献]&lt;/p&gt;
+&lt;p&gt;Gohdes, A. R. (2015). Pulling the Plug: Network Disruptions and Violence in the Syrian Conflict. Journal of Peace Research, forthcoming.&lt;/p&gt;
+&lt;p&gt;Hassanpour, N. (2014). Media Disruption and Revolutionary Unrest: Evidence From Mubarak’s Quasi-Experiment. Political Communication, 31(1), 1-24.&lt;/p&gt;
+&lt;p&gt;Lorentzen, P. L. (2013). Regularizing rioting: permitting public protest in an authoritarian regime. International Quarterly Journal of Political Science, 8(2), 127-158.&lt;/p&gt;
+&lt;p&gt;Roberts, M. E. (2014). Fear or Friction? How Censorship Slows the Spread of Information in the Digital Age.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;经作者授权，本文转载自博客“&lt;a href=&quot;http://gravitysworm.com/post/109380191872&quot; rel=&quot;nofollow&quot;&gt;万有引力之虫&lt;/a&gt;”&lt;/em&gt;&lt;/p&gt;
+ </description>
+ <pubDate>Tue, 17 Feb 2015 08:33:23 +0000</pubDate>
+ <dc:creator>夕岸</dc:creator>
+ <guid isPermaLink="false">365 at https://pp17.global.ssl.fastly.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/man_hua_1.jpg?itok=a0A6ihao" length="38386" type="image/jpeg" />
+ <comments>https://pp16.global.ssl.fastly.net/article/365#comments</comments>
+</item>
+<item>
+ <title>大V这次为何没被打倒</title>
+ <link>https://pp15.global.ssl.fastly.net/article/366</link>
+ <description> &lt;p&gt;来势汹汹的&lt;a href=&quot;https://d3t8jz6506hbdb.cloudfront.net/article/343&quot; rel=&quot;nofollow&quot;&gt;高校意识形态教育&lt;/a&gt;，在近期陡然出现了一个分水岭：攻击的一方，包括主攻手宣传部门、侧翼协同的杂志博客主、打酱油的自干五等，像潮水一样退去，不再像开始那样猛攻贺卫方等人；而贺卫方等大V，这次没有被打倒，一场看似酝酿中的文宣战戛然而止。&lt;/p&gt;
+&lt;p&gt;对于本次攻击，可以从社交媒体上看到几个主要的立场宣示：一是教育系统与地方宣传部门的配合作业模式，试图掀起新一轮高校意识形态；二是贺卫方等人的启蒙立场与宪政思路；三是对贺卫方等人所坚持的改良思路的批评者，这部分主要是异见人士居多。&lt;/p&gt;
+&lt;p&gt;分析这场&lt;a href=&quot;https://d2s8qxo7hs115t.cloudfront.net/article/362&quot; rel=&quot;nofollow&quot;&gt;意识形态的“寻衅滋事”&lt;/a&gt;，其实很容易发现：所争议的方面毫无意义，在党国这边，个别颟顸、野蛮部门长期都这么干的，手法一点都不新鲜，甚至都懒得改进；二是被视作对手的大V们，争辩的依据更是不新奇，也没有什么认知上的增量。&lt;/p&gt;
+&lt;p&gt;可以看到，无论是怎么在新媒体条件下发动“反右”运动，归根结底都不是比谁更掌握道理，还是看谁更有权势。新媒体据说给大V赋权了，但这种赋权尽管不是幻觉，也有赖于其他条件才能存在。就此看来，高校大V在意识形态进攻前没倒下，不是没有原因的。&lt;/p&gt;
+&lt;p&gt;这个原因很可能并非来自于对大V的投鼠忌器。实际上，经过这两年的反复抹杀，微博大V已经整体上萎缩，靠他们是无法发动什么有力反击的。最大的可能还是在于，即使不以大V为标靶，高校意识形态也可以推行下去，与其擦枪走火，不如绕开行事。&lt;/p&gt;
+&lt;p&gt;外界很容易把针对贺卫方等人的攻击看作是精心筹划的，在一个高度敏感、高度政治化的社交媒体中，这样的解读既容易又需要谨慎。这是因为&lt;strong&gt;这种思考模式的触发，是恐惧感自动激活的结果&lt;/strong&gt;。社交用户杯弓蛇影，稍加挑拨，就会成倍地放大受迫害感。&lt;/p&gt;
+&lt;p&gt;在没有得到粉丝强烈支持的情况下，大V这次侥幸而退，没有发生更严重的“技术伤害”事件，只能说意识形态攻击战因为其在局部被模仿而产生了扩大化后果——而且这种后果已经受到了快速评估，宁波宣传部小将收声、甘肃高院某法官自干五删帖禁言，都是评估的后续动作。&lt;/p&gt;
+&lt;p&gt;与从前相比，每一次这种针对大V的讨伐，都会激起理性思辨，或者关于是非的澄清，贡献出某种程度上的思想传播。可是现在呢，从大V这次的遭遇战看，情势扭转，那种以为通过社交媒体的“动荡”来催生积极因素的想法，显得不合时宜了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;社交媒体先是失去社运“接生婆”的作用，而后丧失了其作为思想集散地的功效，现在甚至丧失了人们汇集在此长期停留的吸引力，而成了一块大&lt;/strong&gt;&lt;strong&gt;V&lt;/strong&gt;&lt;strong&gt;可有可无、文宣呼啸来去的“废地”&lt;/strong&gt;。大V们走过本次意识形态的骤雨，他们到底守住了什么？有没有守住？难免会让人有疑问。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;中国社交媒体的话语框架是为大&lt;/strong&gt;&lt;strong&gt;V&lt;/strong&gt;&lt;strong&gt;量身定制的，但随着它被政治相中，发展为意识形态管道，大&lt;/strong&gt;&lt;strong&gt;V&lt;/strong&gt;&lt;strong&gt;就持续地被拖垮，转而萎靡不振，没有号召力，哪怕是在讲述真理时，也特别有心无力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这才是大V们真正的黄昏时刻：他们没有断然死掉，他们只是枯萎了。&lt;/p&gt;
+ </description>
+ <pubDate>Mon, 16 Feb 2015 09:26:31 +0000</pubDate>
+ <dc:creator>叶伟</dc:creator>
+ <guid isPermaLink="false">366 at https://pp17.global.ssl.fastly.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/da_v_0.jpg?itok=swNLzD8D" length="53557" type="image/jpeg" />
+ <comments>https://d24f0fbbs0l72b.cloudfront.net/article/366#comments</comments>
+</item>
+<item>
+ <title>GFW的反转</title>
+ <link>https://pp17.global.ssl.fastly.net/article/364</link>
+ <description> &lt;p&gt;继&lt;a href=&quot;https://d2s8qxo7hs115t.cloudfront.net/node/357&quot; rel=&quot;nofollow&quot;&gt;本网在2月4号的报道&lt;/a&gt;后，近日，旅日时政漫画家变态辣椒在微信中针对图片审查的相关可能性模式及其应对可行性措施，做了另一些测试。&lt;br /&gt;&lt;br /&gt;变态辣椒尝试将达赖喇嘛在美国的新闻图片共四张，发布在微信朋友圈中，结果显示，他的大陆好友纷纷表示看不到。&lt;/p&gt;
+&lt;div&gt;&lt;div&gt;&lt;img height=&quot;480&quot; width=&quot;336&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/1_13.jpg?itok=Uallummu&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;div class=&quot;field field-name-field-image-source field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://pp15.global.ssl.fastly.net&quot;&gt;变态辣椒测试图片被微信“隐藏”&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;他又继续将这组图片经微信私聊传送给其他好友，该好友尝试如上形式发布，结果依旧无法显示。变态辣椒表示：“足见敏感图库是存在的。谷歌早就有以图搜图的功能，中国当局把这个技术用来屏蔽信息了”。测试中回复不可见的用户，是身居大陆的且当时处于没有翻墙的状态，翻墙用户和境外用户没有阻碍。&lt;br /&gt;&lt;br /&gt;变态辣椒希望找到可行性的应对措施，于是他继续尝试将上述无法显示的图片翻转180度呈倒立姿势发布，结果竟然显示出来了，大陆网友也可见。变态辣椒说：“好好笑，看来敏感图库还沒那么高智商。当然，他们应该会升級，到時候总有更高明的新姿勢破来解他们的封锁”。如果真的升级到具有可识别翻转图的能力，那么不管是90度还是180度的效果，大概都无法显示。此外或许还可以使用PS技术在不影响图意的前提下稍作处理，比如加颗小星、一朵小花等，结果如何只能待届时再通过相关尝试验证。&lt;/p&gt;
+&lt;div&gt;&lt;div&gt;&lt;img height=&quot;480&quot; width=&quot;358&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/2_8.jpg?itok=O7F6s4FB&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;div class=&quot;field field-name-field-image-source field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://pp16.global.ssl.fastly.net&quot;&gt;将图片倒转后在大陆微信可显示&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt; &lt;/div&gt;
+&lt;div&gt;上述测试透露两点：1、审查内外有别；2、图片审查的确存在，但技术能力暂时不高。&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;h2&gt;&lt;strong&gt;“GFW的反转”&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;扩张国际市场邀请海外用户使用大陆国产应用，树立所谓“中国制造新形象”，是国内热门网络公司近年来的重点攻势。其性质被评论认为是“GFW的反转”——将自由区域的用户拉到不自由区域内。但目前为止似乎“效果”并不理想。以百度为例，资料显示：2007年在国内市场占据主导地位的搜索引擎百度，宣布进军日本搜索引擎市场。但是2011年，百度却宣布该公司日本业务已经亏损超过1.08亿美元。&lt;br /&gt;&lt;br /&gt;做为新生代热门平台的微信从2011年发布以来增速惊人，但主要用户都是来自于大陆，以致国内市场迅速趋近饱和。随即微信将目标转向海外市场，却遇到了来自同类产品Line、WhatsApp等的竞争，而致2014年7-9月的三个月里，用户增幅达到“历史新低”。海外市场明显阻力不小，主要原因或并非产品本身的相关问题，“举世闻名”的中国式网络审查，导致大多使用者不敢将自己的隐私信息放在这些随时可以被政府部门窥视到的软件上。&lt;br /&gt;&lt;br /&gt;或许这就是微信对海外IP放宽审查管制的主要原因之一。除了上述测试中显示的：海外用户可见的内容，大陆用户不可见；还有微信的5.0版本中增加的公众号推送内容中的“举报该文章”按钮，有使用者发现，如果设置为英文版后台，就不会出现这个“举报”按钮。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;对海外用户来说墙内应用被选择和被启用的理由&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;观察显示，很大一部分移居海外的华人还在继续使用墙内应用平台。近日本网访问了来自日本、美国和香港的中文社交平台用户，他们大多表示正在逐步减少使用大陆应用。无法一时全面放弃的原因有几个，最主要的还是既有的社交关系牵扯，也就是说与国内用户积累的交往情感、以及国内好友可提供的传播能力和带来的影响力锁定了一大部分海外中文用户。其次还有使用体验方面的原因，一位来自美国的用户表示：“中国大陆社交平台的功能比较强大，比如微信，用起来感觉很顺手，而微博的功能很多人都认为比推特更完善”。&lt;br /&gt;&lt;br /&gt;综合起来显示，既有社交关系和用户体验是主要原因，但前者也大致只限于在海外的中文用户，而对非中文用户来说影响并不大。相对的，促使用户放弃它们的理由却越来越多。&lt;br /&gt;&lt;br /&gt;据&lt;a href=&quot;http://news.ifeng.com/a/20150204/43096918_0.shtml?_share=sina&amp;amp;tp=1422979200000&quot; rel=&quot;nofollow&quot;&gt;2月4号官媒报道&lt;/a&gt;，最高法院发布的《民诉法司法解释》规定，网上聊天记录、电子邮件、博客、微博、手机短信、电子签名、域名等形成或者存储在电子介质中的信息可以视为民事案件中的证据。存储在电子介质中的录音资料和影像资料，适用于电子数据的规定。该“司法解释”已于2月4日起正式实施。也就是说，国外用户与大陆用户之间的通讯内容中如果涉及敏感，或可能导致大陆方用户“因言获罪”。去年11月出台的《反间谍法》中第13条的规定直接干扰通讯自由：当局可查验有关组织和个人的电子通信工具、器材等设备、设施。如果不能翻墙的大陆用户，通过墙内社交平台，向海外用户传送未经媒体报道的大陆“负面消息”，再由海外用户在墙外社交网站上公开并被外媒采用，就很容易触犯此法，而境内外用户之间的私聊内容被大陆当局拦截后可能会变成“呈堂证供”。&lt;br /&gt;&lt;br /&gt;一套精心策划的组合拳进一步阻隔了中国大陆和世界的沟通。给境外用户开放特例、伪造的自由假象并不能起到更多作用，最基本的就如上述漫画家变态辣椒的测试，海外用户在微信朋友圈发布的内容他们的大陆好友却看不到，大大折损了影响力和互动预期，直接打消了使用积极性。&lt;br /&gt;&lt;br /&gt;时评人Miranda评论指，通信自由和通信秘密是基本的人权，也是写进中国“宪法”的“公民权利”。“网络等为代表的技术进步，扩大了通信的范围和方式，并未改变通信的性质。中国警方在毫无其他证据的支持下，长期窃取公民个体之间和亲友范围内的私密通信，并将其作为陷民于罪的“证据”，这种公然的、毫无顾忌的、普遍的、大规模的犯罪行为，是对人类良知和道德底线的挑战。”&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;海外用户倾向于怎样选择&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;对于在这样的环境下会选择如何处理？本网在访问中给出了四个选项：1）鼓励大陆好友翻墙，使用墙外应用沟通；2）妥协于审查，选择继续使用大陆应用。同时避免谈论有可能形成“敏感”的话题；3）与懒于翻墙或完全没有翻墙技术的大陆好友断绝来往；4）无所谓上述有可能形成的信息安全危害，因为它们不会给您个人造成麻烦，（身在海外不受中国的“相关法律法规”约束）。回复结果显示，受访的海外中文用户大多会选择1：“鼓励翻墙”，但在近期出台的VPN管制办法和GFW的进一步升级环境下，翻墙越来越困难是关键问题。对早前就懒于翻墙的网民来说阻力变得更大。于是也有受访者会选择3：不惜断绝来往。&lt;br /&gt;&lt;br /&gt;身居海外的华人很多在关心中国政治时局，发言内容中时政部分比例较高，但他们中也有很多人的亲属依然留在国内，因他们在外网上的言论造成中国当局对其家人进行骚扰的案例很多。对此一位身居美国的华人留学生表示：“也没有办法，如果避而不谈政治，对我而言基本是不可能的，毕竟是人生价值的很重要一部分吧。还好，父母没有从事公务员之类的工作，否则估计已经被下岗了”。另一为旅日政治学者认为，如果出现这样的情况，自己或许会选择“短期内低调”。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;大陆网民急需必要的自我保护&lt;/strong&gt;&lt;/h2&gt;
+&lt;div class=&quot;half-right&quot;&gt;&lt;img height=&quot;480&quot; width=&quot;360&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/tu_3_16.jpg?itok=v9BaausF&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;近期出现的因微信朋友圈言论而被传唤甚至拘留的案例较前期明显增加。据推特消息，广州网友郭建和被行政拘留五日，“理由”是其“在微信朋友圈转发侮辱国家领导人的言论”。大陆推特用户@zhangzhongshun 说：“上推特实在是情非得已——博客微博微信都划定在入罪的范围之内了，只有推特这么一块‘飞地’暂时在法网之外。推特最大的好处是不会给你封号、消声，所以尽管知道在这里说话没几个人听，还是以一种面对树洞倾诉的心态说个不停——希望能给未来的社会留下一份证据——我们曾经努力过。”&lt;br /&gt;&lt;br /&gt;墙内的舆论空间在可见的急速萎缩，近来又有在外网发言的大陆网友被问讯到相关内容。但外网平台一般不会被追查到注册信息，&lt;strong&gt;目前看来，身居大陆的网友选择切割墙内外身份是相对有效的自我保护方式&lt;/strong&gt;。比如用不同的邮箱注册墙内外社交网站、墙内外账号设置为不同的ID名和头像、使用不易被关联在一起的简介信息，以及在墙内外平台发布完全不同的内容。这样处理或许会也令原本熟人之间的社交联络不再便利，但如果希望在外网畅所欲言，还是有必要考虑一下的。此外，&lt;a href=&quot;https://pp17.global.ssl.fastly.net/node/298&quot; rel=&quot;nofollow&quot;&gt;尽可能选择非国产翻墙软件、弃用国行设备、尽可能放弃国产应用，&lt;/a&gt;都是海内外中文&lt;a href=&quot;https://d24f0fbbs0l72b.cloudfront.net/node/355&quot; rel=&quot;nofollow&quot;&gt;网友保护个人信息&lt;/a&gt;乃至人身安全的必需。&lt;/p&gt;
+ </description>
+ <pubDate>Fri, 13 Feb 2015 08:04:19 +0000</pubDate>
+ <dc:creator>卿子衿</dc:creator>
+ <guid isPermaLink="false">364 at https://pp17.global.ssl.fastly.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/12769823803_2e24f8aeca_z.jpg?itok=v4oRPzjg" length="48906" type="image/jpeg" />
+ <comments>https://divgearcmrfs2.cloudfront.net/article/364#comments</comments>
+</item>
+<item>
+ <title>一封没有向马云寄出的公开信：阿里巴巴如何抄袭香港启动的创意</title>
+ <link>https://d2s8qxo7hs115t.cloudfront.net/article/363</link>
+ <description> &lt;p&gt;&lt;em&gt;注：作者Keith Li是&lt;span&gt;&lt;span&gt;Startup公司Innopage创办人，&lt;/span&gt;&lt;span&gt;主力研发手机Apps&lt;/span&gt;&lt;/span&gt;，也是&lt;span&gt;&lt;span&gt;的《主场新闻》、《南华早报》博客。&lt;/span&gt;&lt;/span&gt;他指责阿里巴巴“来往”app中的“敲门”功能，抄袭了他团队研发的手机交友应用Worthy。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;马云在香港会议展览中心举行讲座，名为“马云与青年有约：从梦想到成功创业”，作为香港Startup的一份子，我当然亦应邀到场。&lt;/span&gt;&lt;span&gt;当晚重点除了有马云和大家分享创业心得，亦同时宣布成立“香港青年企业家基金”，出资10亿元支持香港年轻人“在阿里旗下平台上创业”，比起香港政府计划推出的青年创业基金&lt;/span&gt;&lt;span&gt;还要大手笔。&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;&lt;span&gt;朋友知道阿里巴巴曾经抄袭过我公司的产品，问我马云搞这个创业基金是好事还是坏事。&lt;/span&gt;&lt;span&gt;我认为有好有坏，好的是有人出钱鼓励年轻人创业，可以令社会更多元化，让年轻人有机会发展自己理想，而不是一窝蜂地争做金融才俊或地产大亨。&lt;/span&gt;&lt;span&gt;坏的是计划只限于“阿里巴巴旗下平台”，变相鼓励年轻人寻找大陆商机，削弱了本地刚刚萌牙，“剑指硅谷，走向世界”的创业风气，令本来开始国际化、多元化的香港&lt;/span&gt;&lt;span&gt;Startup圈倾向单一市场发展。&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;&lt;span&gt;我对马云这10亿创业基金有所保留，因为阿里巴巴曾经抄袭我们的产品。&lt;/span&gt;&lt;span&gt;事缘2013年10月，阿里巴巴一个10人团队来港访问本地Startup，经友人介绍，到我们公司参观。&lt;/span&gt;&lt;span&gt;当时我们开发的交友应用Worthy（见下图），被苹果挑选作为iOS 7的推荐产品，在iPhone 5s推出当日，安排于美国App Store的Lifestyle类别最主要的广告位置作重点推介。&lt;/span&gt;&lt;span&gt;有了这个助力，我们迅速吸纳了以十万计的用户，产品得到不少关注，所以阿里团队到临，也自然要求多作了解。&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;img height=&quot;290&quot; width=&quot;500&quot; class=&quot;adaptive-image&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/adaptive_image/adaptive-image/public/worthy.jpg?itok=ts3euhrV&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;div class=&quot;field field-name-field-image-source field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://www.grandline.hk/2015/02/%E4%B8%80%E5%B0%81%E6%B2%92%E6%9C%89%E5%90%91%E9%A6%AC%E9%9B%B2%E5%AF%84%E5%87%BA%E7%9A%84%E5%85%AC%E9%96%8B%E4%BF%A1%EF%BC%9A%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%A6%82%E4%BD%95%E6%8A%84%E8%A5%B2/&quot;&gt;Innopage研发的交友App「Worthy」的简介&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;span&gt;&lt;span&gt;马云是我敬重的创业家，是行业的先驱和互联网巨人。&lt;/span&gt;&lt;span&gt;对我们来说，阿里巴巴和Google、Facebook、Amazon、Apple等大企业，同样值得尊重。&lt;/span&gt;&lt;span&gt;正如若Google或Facebook说要来访参观，我们当然亦会热情招待。&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;&lt;span&gt;但令人错愕的是，阿里巴巴团队在会面过后，便和我们失去联络，而且还将Worthy的创意，包括概念、玩法、流程，甚至介面设计，几乎倒模一样照抄地山寨到阿里巴巴的交友&lt;/span&gt;&lt;span&gt;App“来往”里面，并成为重点功能，名为“敲门”（见官网截图）：&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt;&lt;img height=&quot;261&quot; width=&quot;500&quot; class=&quot;adaptive-image&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/adaptive_image/adaptive-image/public/1_12.jpg?itok=4WCFC5Sj&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;261&quot; width=&quot;500&quot; class=&quot;adaptive-image&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/adaptive_image/adaptive-image/public/2_7.jpg?itok=dR_W0K7e&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;261&quot; width=&quot;500&quot; class=&quot;adaptive-image&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/adaptive_image/adaptive-image/public/3_6.jpg?itok=yEXJmQ_s&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;（图：阿里巴巴的交友App“來往”中的“敲门”功能简介）&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;&lt;span&gt;Worthy被阿里巴巴抄袭后，我们的开发团队感到愤怒与失望，试过多次联络都没有回覆。&lt;/span&gt;&lt;span&gt;事件曝光后，传媒朋友以不同途径查询，亦没有结果。&lt;/span&gt;&lt;span&gt;当时我们已经草拟好向马云及阿里巴巴发公开信，但经过多次内部商议后，大家都觉得无补于事，最终决定搁置向阿里巴巴开火。&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;&lt;span&gt;事隔一年多，我在会展看到马云在台上讲梦想、谈创业，还一掷10亿成立“香港青年企业家基金”，不禁令我想起“被抄袭”的不快经历。&lt;/span&gt;&lt;span&gt;考虑多日，我决定公开这封没有寄出的公开信。&lt;/span&gt;&lt;span&gt;至于究竟马云是来拯救香港年轻人的阿里巴巴还是四十大盗，我暂且不就此表态，相信日后自有公论。&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;致马云先生和阿里巴巴：&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;Worthy（“匹配”）手机App于2013年9月推出并获得苹果于App Store重点推介后，阿里巴巴于同年10月派来十人团队参观香港Worthy的开发团队－Innopage&lt;/span&gt;&lt;span&gt;的办公室。&lt;/span&gt;&lt;span&gt;当日我们分享了Worthy的设计理念和发展方向，并获你们主动提出寻求合作空间。&lt;/span&gt;&lt;span&gt;对于Worthy得到阿里巴巴团队的关注和认同，我们深感荣幸。&lt;/span&gt;&lt;span&gt;然而在12月初，阿里巴巴的交友App“来往”发布的新功能“敲门”，无论在概念、玩法，甚至介面设计，都和Worthy有着难以分辨的相似度，这已经不止“名为交流，&lt;/span&gt;&lt;span&gt;实为抄袭”，而是欺骗了Startup对阿里巴巴的尊重与信任。&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;&lt;span&gt;我们明白科技的发展总有“参考”他人创作的情况，但怎会想到像阿里巴巴这个标榜“创意”的企业龙头亲临到访，居然是为了抄袭我们的创意，还够胆在新闻稿上声称“&lt;/span&gt;&lt;span&gt;敲门是来往发明的一种新方式”，但这个“新方式”，根本上是由Innopage团队发明，并获得苹果于美国App Store重点推介，首先成功推出市场。&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;&lt;span&gt;事情被媒体报导后，坊间有舆论说有在中国抄袭没什么大不了。&lt;/span&gt;&lt;span&gt;手机软件是一个创意工程，从创作出一个全新的点子，把概念整理、图像化地设计出来，再由程式员开发成一个能在手机上执行的软件，当中要渡过多少个无眠的夜晚&lt;/span&gt;&lt;span&gt;、牺生多少和家人爱侣相处的时间？&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;&lt;span&gt;作为同样从事创意工业的阿里巴巴，怎能不感同身受？&lt;/span&gt;&lt;span&gt;难道中国的出品就只能是山寨、抄袭？ &lt;/span&gt;&lt;span&gt;Innopage的团队虽然渺小，但是我们所拥有的创意和毅力，才是能做出一个又一获苹果App Store重点推的手机App。&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;&lt;span&gt;山寨别家的产品，极其量只能抄得到驱壳，却怎样也抄不到产品的灵魂。 &lt;/span&gt;&lt;span&gt;Worthy的生命力，来自团队的创意和热情，我们热爱不断发掘用家未知的需要，对产品的发展方向有无比深入的研究，并非山寨者能够轻易抄袭。&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;&lt;span&gt;未来我们将会继续努力为Worthy未来的更新和开发燃烧，期网Worthy和我们的用家，愈来愈匹配。&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;配得骄傲的Worthy（匹配）团队&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;本文经作者同意转载自&lt;a href=&quot;http://www.grandline.hk/2015/02/%E4%B8%80%E5%B0%81%E6%B2%92%E6%9C%89%E5%90%91%E9%A6%AC%E9%9B%B2%E5%AF%84%E5%87%BA%E7%9A%84%E5%85%AC%E9%96%8B%E4%BF%A1%EF%BC%9A%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%A6%82%E4%BD%95%E6%8A%84%E8%A5%B2/&quot; rel=&quot;nofollow&quot;&gt;“伟大航道” &lt;/a&gt;&lt;/em&gt;&lt;br /&gt;&lt;em&gt;文中观点不代表本网立场&lt;/em&gt;&lt;/p&gt;
+ </description>
+ <pubDate>Wed, 11 Feb 2015 08:00:15 +0000</pubDate>
+ <dc:creator>Keith Li</dc:creator>
+ <guid isPermaLink="false">363 at https://pp16.global.ssl.fastly.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/jackma1-1024x609.jpg?itok=6EFOYh2O" length="11025" type="image/jpeg" />
+ <comments>https://d2s8qxo7hs115t.cloudfront.net/article/363#comments</comments>
+</item>
+<item>
+ <title>永久被封的T恤网店：吴吞专访</title>
+ <link>https://pp15.global.ssl.fastly.net/article/361</link>
+ <description> &lt;p&gt;&lt;strong&gt;（泡泡专访）&lt;/strong&gt; 去年11月，当许许多多的淘宝商家和买主还在为“光棍节”当日&lt;a href=&quot;https://d2s8qxo7hs115t.cloudfront.net/node/264&quot; rel=&quot;nofollow&quot;&gt;淘宝网571亿元人民币的销售额欢呼兴奋&lt;/a&gt;的时候，28岁的&lt;a href=&quot;http://wu-tun.com/&quot; rel=&quot;nofollow&quot;&gt;艺术家吴吞&lt;/a&gt;出售T恤衫的网店被淘宝“永久性关闭了”。这间只经营了四天的网店，卖出了10件T恤，上面的图案是印在砖墙上的“爱 Can’t Be Here”字样（中文：爱无法到此）。&lt;br /&gt;&lt;br /&gt;“Ai Can&#039;t Be Here的最初发起人是&lt;a href=&quot;http://www.aicantbehere.org/&quot; rel=&quot;nofollow&quot;&gt;Zhao&lt;/a&gt;。 我从知道起就一直支持并投入”，吴吞说，“用这样的方式支持艾未未，我以为是一种很隐晦的表达，没想到还是被审查发现了。政治敏感让中国既不能有‘艾’，也不能有‘爱’”。&lt;/p&gt;
+&lt;div class=&quot;half-right&quot;&gt;&lt;div&gt;&lt;img height=&quot;480&quot; width=&quot;360&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/tu_1_36.jpg?itok=ffhtwlMg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;div class=&quot;field field-name-field-image-source field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://www.indiegogo.com/projects/wu-tun-ai-can-t-be-here-t-shirts-for-ai-weiwei&quot;&gt;吴吞在Indiegogo上的众筹专页&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt; &lt;/div&gt;
+&lt;div&gt;吴吞并没有因此放弃支持艾未未的活动计划，他决定凭个人努力，继续进行印字T血衫的制作和销售的工作，“为了艾未未。他的护照从2011年一直被扣留，无法出国旅行，希望这样做能让更多的人了解到他的状况。也为我自己，&lt;strong&gt;我的网店因为出售支持艾未未的衣服被永久性封掉，希望能重新将这件衣服做出来，并寻找到愿意出售它的商店。&lt;/strong&gt;”&lt;br /&gt; &lt;/div&gt;
+&lt;div&gt;吴吞将该活动的说明视频及文字做了一个&lt;a href=&quot;https://www.indiegogo.com/projects/wu-tun-s-ai-can-t-be-here-t-shirts-for-ai-weiwei&quot; rel=&quot;nofollow&quot;&gt;专页&lt;/a&gt;，放在了美国第二大众筹平台Indiegogo上。该网站没有被GFW封锁，他的专页链接可以在大陆打开。但网页中的视频是放在Youtube上的，于是，在墙内打开后，视频的位置是一片空白。&lt;br /&gt;&lt;br /&gt;吴吞希望他的宣传短片被更多的中国网友看到，因为其中提到了“关注和声援艾未未”以及痛斥大陆的网络审查。2月3号晚间，他将该视频上传到了墙内平台优酷网上，“晚上上传应该可以多留存一会儿吧，不管怎样，能多一个人看到，也是好的”，他说。但次日早晨他发现，该视频已被优酷删除了。&lt;/div&gt;
+&lt;div class=&quot;half-right&quot;&gt; &lt;/div&gt;
+&lt;div&gt;&lt;img height=&quot;215&quot; width=&quot;480&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/blockedonyouku.jpg?itok=e0gzWQiq&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;h2&gt;&lt;strong&gt;当推特变成一种奢侈&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;说到愈演愈烈的网络审查，吴吞表示非常愤怒：&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;“我算是85后一代人中比较早接触网络的。99年上初中的时候就开始在网上找东西看，那时候都是看一些青少年觉得好玩的，比如音乐、时尚、游戏这些东西。突然稀里糊涂的很多网站就都上不去了，后来才知道，是因为&lt;a href=&quot;https://divgearcmrfs2.cloudfront.net/node/314&quot; rel=&quot;nofollow&quot;&gt;方滨兴和他的GFW&lt;/a&gt;。你想，看个游戏视频也得费力翻墙，谁能不烦呢。上次淘宝店被封也是，很多人可以意识到，写了艾未未名字的东西在中国会行不通，可是我都把‘艾’改成‘爱’了，依旧被封了店铺。国外一些朋友问我怎么这也能被封，我都不知道怎么回答他们。更受不了的就是，互联网管制让我们长期接受墙外文化的人被孤立成了小群体，使得我们不仅跟我们的上一代甚至跟同龄人之间都有很大的文化间隔”。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;吴吞很早就开始使用翻墙软件，但&lt;a href=&quot;https://d2s8qxo7hs115t.cloudfront.net/node/333&quot; rel=&quot;nofollow&quot;&gt;由于近期GFW升级&lt;/a&gt;加上当局开启对VPN的管制，吴吞原有的几个翻墙软件都失效了，被迫寻找免翻推特端使用，“我需要推特，翻墙是大陆网民的基础需求”，吴吞说：“如今能在推特上发一张猫咪的照片都变得越来越奢侈，折腾很久后，手机终于挂上了一个VPN的时候就如同中了大奖一样兴奋”。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;网络账号的“危害”&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;2月4号，据官媒人民网报道，国家互联网信息办公室发布了&lt;a href=&quot;http://www.cac.gov.cn/2015-02/04/c_1114246561.htm&quot; rel=&quot;nofollow&quot;&gt;《互联网用户账号名称管理规定》&lt;/a&gt;，对公众使用微博、微信等上网的账号名称（包括头像和简介）进行规范，明确提出网上昵称不准违反法律、危害国家安全、破坏民族团结、侮辱诽谤他人等“九不准”。全文共十条内容，其中最为惹眼的重点有两个，一是全面实名制工程完工的“最后时限”：3月1号；另个就是，首次将ID名、头像和简介纳入了审查条例。&lt;br /&gt;&lt;br /&gt;一直以来，一些持明确政治立场或上网目的的用户在社交网站注册账号时，会通过ID名、头像以及自定义微博页面背景图等方式来体现个人主张。比如，部分崇尚普世价值观的大陆网名，在ID中会加入“MZ（民主）”的标志；营救盲人律师陈光诚期间，很多陈光诚的支持者会将自己的ID修改为“要有光要有诚”等相关名称，以示立场。头像也是体现上述立场和主张的途径之一。比如，香港占中时段，大陆挺学生、支持雨伞革命的网名会选择相关标志图做头像；周小平高度敏感时段，持驳斥当局标榜五毛立场的网友，会选择类似变态辣椒相关讽刺漫画做头像等。此外，微博或微信简介则更多被选择用来标示博主的主张或博文的主体思想。右图中，前两个和最后一个账号，明显是持反对网络封锁的立场、抨击方滨兴的博主……上述这些已被长期使用的传统设置方式在今后或许都会被惩治，甚至定罪——上述“规定”中第九条显示为：“对违反本规定的行为，由有关部门依照相关法律规定处理”。&lt;/p&gt;
+&lt;div class=&quot;half-right&quot;&gt;&lt;img height=&quot;283&quot; width=&quot;303&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/tu_6_5.jpg?itok=mMN9PW14&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;br /&gt; &lt;/div&gt;
+&lt;p&gt;比如，吴吞在支持艾未未的相关活动中，如将头像设置为那件T恤上的图案，或许会因涉及敏感而无法操作。该“规定”中罗列的“九条底线”基本都属于边界模糊的“大口袋”，比如（六）中的“散布谣言、扰乱社会秩序”，究竟是否真的“谣言”、一个微博头像或一句账号简介又如何能“扰乱社会秩序”？总之当局掌握“最终解释权”。近日，有大陆微信用户因在个人朋友圈中发布了一张PS过的习近平照片，而遭到传唤，被警方指其为“扰乱社会秩序”，该用户表示完全无法理解。吴吞说，这是个荒谬的国度。&lt;br /&gt;&lt;br /&gt;很多网友对上述“九条底线”中第二条“颠覆国家政权，破坏国家统一”表示不解，一个微博头像或ID又怎么会“破坏统一”？任何在图像中对当局进行批评的暗示，都可能在这样的语境下很可能会躺枪；另，代表香港独立运动的龙狮旗、代表西藏自治的雪山狮子旗等图案如用来做头像，则会被“破坏统一”击中。此外，上述抨击方滨兴的简介内容或可能被牵涉到“底线”第八条：“侮辱或者诽谤他人”。&lt;br /&gt;&lt;br /&gt;吴吞表示，他已经很少使用微博、微信了，“也就发一些猫咪的照片”，大局域网封闭成型已近在眼前，不止言论空间急速紧缩，厌恶感和对管制办法的恐惧感也会另很多人放弃表达。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;自由的快乐&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;在伦敦居住过两年多的吴吞，回忆起那段时光来依旧满眼的怀念，“很喜欢那边的环境，有很多可以一起工作的人，信息资源也很多，更重要的是自由带来的快乐”。“自由的快乐”也是他和艾未未一起工作时的主要感受，“他（艾未未）给我们很大的创作自由，很好的满足了我们想学东西的心态。他对办公室的年轻人也都很好，愿意给年轻人更多机会，这些机会让我得到了很多意想不到的经验”，吴吞说，“但&lt;a href=&quot;https://divgearcmrfs2.cloudfront.net/node/338&quot; rel=&quot;nofollow&quot;&gt;艾未未自己却没有自由&lt;/a&gt;，他的护照从2011年起就一直被中国当局扣留。作为世界上最受欢迎的艺术家之一，他每年在世界各地有展览，他非常希望能亲自去看自己的作品被展出”。&lt;/p&gt;
+&lt;div class=&quot;half-left&quot;&gt;&lt;div&gt;&lt;img height=&quot;480&quot; width=&quot;320&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/large/public/wen_zhong_tu__0.jpg?itok=nvnzT3XU&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;div class=&quot;field field-name-field-image-source field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://twitter.com/wu_tun&quot;&gt;吴吞身着支持艾未未的T恤 图/吴吞推特&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;吴吞表示，近期最大的希望就是能筹到钱，将做T恤支持艾未未争取自由的活动搞起来，同时让更多人了解到网络封锁言论管制的危害。“我会用自己的方式帮助他。一个只是说出了真话、表达了自己观点的人，不该承受侵犯人权的惩罚”，吴吞说。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;据2月5号&lt;a href=&quot;http://www.rfa.org/mandarin/yataibaodao/renquanfazhi/gr-02052015100438.html&quot; rel=&quot;nofollow&quot;&gt;自由亚洲&lt;/a&gt;报道，第六十五届柏林电影节开幕，艾未未将和德国著名导演克劳斯•克劳森合作拍摄一部关于他自己的自传式短片。电影节新闻发布会上，艾未未通过视频回答了人们关心的各类问题。他的儿子和母亲已于去年年中移居柏林，但是艾未未本人因政府拒绝发给他护照，而无法到柏林，只能通过网路视频和儿子交流。艾未未父子分离的故事，由于背景是在曾经经历了柏林墙分裂的柏林，因此就显得更具有戏剧性。&lt;br /&gt;&lt;br /&gt;吴吞在接受柏林电影节采访时表示，目前T恤仅售了20件左右，还入不敷出。“但这些T恤不是为了赚钱，我认为制作这些T恤是传播信息的一个好途径······这么做在中国不容易，但却很重要。”&lt;/p&gt;
+ </description>
+ <pubDate>Tue, 10 Feb 2015 08:11:43 +0000</pubDate>
+ <dc:creator>伊阙唐</dc:creator>
+ <guid isPermaLink="false">361 at https://divgearcmrfs2.cloudfront.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/wutun.jpg?itok=40hVkwEo" length="25983" type="image/jpeg" />
+ <comments>https://pp16.global.ssl.fastly.net/article/361#comments</comments>
+</item>
+<item>
+ <title>写在Astrill VPN被屏蔽之后：没那么悲观</title>
+ <link>https://d1w0bzp1snsjyg.cloudfront.net/article/360</link>
+ <description> &lt;p&gt;2014年11月4日，名为“枫叶香蕉”的翻墙软件作者许东，被北京西城区德胜门派出所警察以“寻衅滋事罪”羁押到北京市第一看守所。（详情参见：&lt;a href=&quot;https://d1w0bzp1snsjyg.cloudfront.net/node/292&quot; rel=&quot;nofollow&quot;&gt;《翻墙=犯法？从许东翻墙第一案说起》&lt;/a&gt;一文）&lt;br /&gt;&lt;br /&gt;2014年12月6日，Gmail 被全面屏蔽，POP3、IMAP 等服务器端口均被屏蔽，导致不仅无法访问在线版，并且连 Foxmail ，Outlook 等邮件客户端也无法正常使用。&lt;br /&gt;&lt;br /&gt;2015年1月15日，著名的Android端翻墙软件fqrouter作者正式宣布该项目关闭，不再进行更新和维护；（关于fqrouter的介绍参见：&lt;a href=&quot;https://pp17.global.ssl.fastly.net/node/58&quot; rel=&quot;nofollow&quot;&gt;《七种武器之孔雀翎：FQrouter》&lt;/a&gt;）&lt;br /&gt;&lt;br /&gt;前不久，一则新闻又给众多大陆网民浇上一盆冷水，著名VPN供应商 Astrill 通知用户，因为 GFW 升级，使用 IPSec、L2TP/IPSec协议的设备将无法进行正常访问，而《环球时报》英文网撰文称，&lt;strong&gt;中国工信部曾规定，在中国提供VPN服务的公司必须登记注册，否则将“不受中国法律的保护”&lt;/strong&gt;。&lt;br /&gt;&lt;br /&gt;此事在大陆互联网上掀起悍然大波，众多中国互联网民直呼中国互联网寒冬将近，&lt;a href=&quot;https://pp15.global.ssl.fastly.net/node/345&quot; rel=&quot;nofollow&quot;&gt;今后翻墙的行为无论在立法上还是技术上，都将受到极大的威胁和限制&lt;/a&gt;。&lt;br /&gt;&lt;br /&gt;GFW和行政监管力量双管齐下，对翻墙行为进行联合打击，甚至有网友传播2015年4月将全面落实白名单制度建成大中华局域网的言论，一时间风声鹤唳，草木皆兵，大有山雨欲来风满楼之势。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;那么事实上的情况真的就如此么？&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;个人认为事实情况没有那么悲观。&lt;/p&gt;
+&lt;p&gt;这一次 Astrill 在国内被屏蔽，之所以受到如此大关注的主要原因，不仅仅是因为 Astrill 是一款人气颇高口碑不错的 VPN 服务供应商。更重要的原因是，许多网民以为是整个 VPN 协议受到了 GFW 的干扰和破坏，至此以后未在官方注册的 VPN 服务就在大陆无法使用了。&lt;br /&gt;&lt;br /&gt;事实并非如此， VPN协议根据其加密的协议粗略分为PPTP，L2TP/IPSEC，OPENVPN，SSL VPN，Ikev2 VPN，Cisco VPN等，而这一次 Asrill 被屏蔽的是以 L2TP/IPSEC 协议加密的VPN服务。（关于VPN协议介绍内容可以参见：&lt;a href=&quot;https://pp17.global.ssl.fastly.net/node/286&quot; rel=&quot;nofollow&quot;&gt;《翻墙安全》&lt;/a&gt;一文）&lt;br /&gt;&lt;br /&gt;其实 VPN 服务被屏蔽由来已久，早在2010年期间，就有众多网友发现联通网络屏蔽了安全性能最弱的PPTP协议方式。&lt;br /&gt;&lt;br /&gt;2012年十八大期间，OpenVPN协议方式就遭到全面封杀，包括我们在此前介绍的一款采用 OpenVPN 协议翻墙的解决方案 Pritunl 就因此无法使用。（关于Pritunl的介绍可以参见：&lt;a href=&quot;https://pp15.global.ssl.fastly.net/node/213&quot; rel=&quot;nofollow&quot;&gt;Pritunl：简易搭建个人VPN&lt;/a&gt;）&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;而这一次安全性能较高的L2TP/IPSEC协议方式被屏蔽，应该说仅仅是GFW阶段升级的一个简单标志，并不能说其彻底摧毁了 VPN 协议的生存模式&lt;/strong&gt;。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;封锁成本增加&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;由于大陆和海外的通信越来越多的采用加密方式，GFW对各种加密方式的识别和嗅探的压力日益增大，GFW的维护以及自身对于资源的消耗与日俱增。&lt;br /&gt;&lt;br /&gt;同时GFW维护人员的各种疏忽大意和不当行为都会牵一发而动全身，对大陆整个互联网环境造成不可估量的破坏。&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://divgearcmrfs2.cloudfront.net/node/27&quot; rel=&quot;nofollow&quot;&gt;2014年初的那次导致接近八成以上中国网站域名无法解析的灾难&lt;/a&gt;，经过推测就是因为GFW维护人员操作错误导致的。&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;因此全面彻底封杀翻墙方式，从技术上来说虽说并非不可能，但其成本和压力将是巨大的&lt;/strong&gt;，而且这一次对于 L2TP/IPSec 协议的封杀主要集中在像 Astrill 这样名声在外的几个主要 VPN 服务商，而且只局限于IOS系统平台，有网友反映还是有不少漏网之鱼依旧可以继续提供服务。&lt;br /&gt;&lt;br /&gt;而且，对于上述几种 VPN 访问协议的屏蔽，并不能阻挡网友翻墙的热情，就像一个推友在 Twitter 上写到的：&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;看着一群中国人在 Twitter 上讨论 VPN 被屏蔽之后就无法翻墙的言论就觉得好笑。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这场道高一尺魔高一丈的争斗并未结束，Astrill VPN 事后宣称这场与中国封锁的斗争并未结束。&lt;br /&gt;&lt;br /&gt;退一步讲，&lt;strong&gt;即使 PPTP ，OpenVPN，L2TP/IPSec 协议都最终倒下无法恢复后，我们还有 SSL VPN ,Cisco VPN等协议可以选择，安全性能更高，更加隐蔽。&lt;/strong&gt;特别是依托于思科硬件服务器的 Cisco Anyconnect VPN 方式最近受到各大VPN服务商和用户的青睐。&lt;br /&gt;&lt;br /&gt;就在即将写完本文之时，有网友发来消息，Astrill 重新开始恢复工作了。&lt;br /&gt;&lt;br /&gt;借用一位网友的评论来结束此文：&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;他们以为关了餐厅，我们就要去吃屎。&lt;/p&gt;
+&lt;/blockquote&gt;
+ </description>
+ <pubDate>Mon, 09 Feb 2015 09:59:24 +0000</pubDate>
+ <dc:creator>Vergil</dc:creator>
+ <guid isPermaLink="false">360 at https://pp16.global.ssl.fastly.net</guid>
+ <enclosure url="http://paopao2.global.ssl.fastly.net/sites/pao-pao.net/files/styles/base_adaptive/public/4147241526_25355b6099_z.jpg?itok=fLv4Vo8c" length="68176" type="image/jpeg" />
+ <comments>https://pp15.global.ssl.fastly.net/article/360#comments</comments>
+</item>
+</channel>
+</rss>

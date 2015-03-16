@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dwsyn="http://partner.dw-world.de/syndication/dwsyn/">
+ <channel rdf:about="http://partner.dw.de/syndication/feeds/rss-chi-all.1127.rdf">
+  <description>Deutsche Welle: DW-WORLD.DE</description>
+  <link>http://www.dw.de/chinese/?maca=chi-rss-chi-all-1127-rdf</link>
+  <title>Deutsche Welle: DW-WORLD.DE</title>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFequency>4</sy:updateFequency>
+  <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
+  <dc:date>2015-03-16T08:38:27Z</dc:date>
+  <image rdf:resource="https://d2cvld8j44ztkj.cloudfront.net/images/DW-L-RGB_whitebg.png"/>
+  <items>
+   <rdf:Seq>
+    <rdf:li rdf:resource="http://www.dw.de/格林沃尔德获德国新闻记者奖/a-18317568?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/原军委副主席徐才厚因病身亡/a-18317576?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/美国改变态度寻求与阿萨德谈判/a-18317501?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/云南省副书记仇和落马/a-18317397?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/德国外交部：希望招聘更多移民背景的雇员/a-18317464?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/德国穆斯林女教师上课又可包头巾/a-18317351?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/缅甸官员：雷达记录证明，军机未进入中国/a-18317160?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/李克强：在稳增长和调结构间-谋大势/a-18317049?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/谁让港台渐行渐远？/a-18317000?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/中国开始在台海中线附近测试新航线/a-18317036?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/克里米亚-改嫁-一周年/a-18315660?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/当心你和芭比娃娃的对话-直上云霄/a-18314058?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/柏林夏季奥运-告别唯大是求/a-18306314?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/森林经营的品质证明/a-18309741?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/提克里特市解放在望？/a-18316700?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/走钢索的习近平/a-18316399?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/澳总理：尽快决定是否加入-亚投行/a-18316222?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/强烈气旋-帕姆-袭击瓦努阿图-破坏惨重/a-18316005?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/炸弹炸死中国平民-缅甸否认由政府军所为/a-18315916?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/办公室里的内鬼和家贼/a-18308777?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/那些走出去和走回来的德国人/a-18308779?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/缺钱缺时间-希腊总理再晤欧盟高层/a-18315445?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/莫迪出访-印度后院-提升地区影响力/a-18314738?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/莱比锡书展爆冷门/a-18314362?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/俄罗斯在猜测-普京怎么了？/a-18313876?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/哈姆巴赫宫成为欧洲文化遗产/a-18313739?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/核能在中国死灰复燃/a-18310658?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/2015年全球高校排行-北大升-港大降/a-18309716?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/接下来的几年对中国而言将十分危险/a-18308143?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/中国经济的-眼中钉-：国人去国外散金/a-18306385?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/习的马克思主义和称赞雾霾片的环保部长/a-18304502?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/古生物学新发现：非洲出土最古老人类化石/a-18299811?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/photoshop是如何-忽悠-我们的？/a-18289966?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/在moma开个展的-冰雪女王-比约克/a-18301908?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/咖啡喝的不止是味道还是-保健药/a-18294752?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/环境危机让北京的信誉-面临考验/a-18300924?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/对环境污染宣战-临沂关停多家钢铁厂/a-18300307?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/研究：德国人对移民越来越友善/a-18299487?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/欧洲歌唱大赛-德国送选歌手出炉/a-18299463?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/世界新闻摄影比赛一获奖作品被取消资格/a-18298879?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/德国人搭机出游次数上升-希腊最受青睐/a-18293319?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/指挥家拉特尔爵士的-回乡-之旅/a-18293380?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/纽约艺术馆里的德国电影周/a-18290625?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/中国电影市场增长强劲-月票房成世界第一/a-18290597?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/中国公安摄像监视系统遭黑客袭击/a-18288772?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/穹顶之下-爆红-引发评论浪潮/a-18287479?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/留学德国不得不知道的十件事情/a-18223897?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/《超级中国》的喜与忧/a-18282871?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/灾难发生前，我认为日本不会有核事故/a-18278886?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/医生无疆界-：新药对埃博拉早期患者有效/a-18277954?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/小酌有益健康？7个关于喝酒的迷思与真相/a-18265674?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/留德华-们讲述留学的点滴体会/a-18224749?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/美国顶尖大学：不光只招-官二代-富二代/a-18224859?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/可贵的留德机会！国际媒体研究硕士课程欢迎您！/a-18215229?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/德国大学实录：生多师少-辍学率高/a-18137319?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/金砖国家及新兴经济体大学排名：百强内中国大学最多/a-18110539?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/在美中国留学生人数创历史新高/a-18069364?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/在德留学-遇到困难怎么办？/a-18063615?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/香港人英语不如内地人？/a-18062800?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/出国镀金-哪国性价比最高？/a-17914260?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/德国教育-喜忧参半/a-17911186?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/夏令营让德国大学更加国际化/a-17853080?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/不止是摆弄砂浆和砖头：德国的泥瓦工/a-17858038?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/埃以边境发生10年来最严重恐怖袭击事件/a-16146518?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/多国总统拒访乌克兰/a-15917866?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/奥朗德赢得法总统选举首轮投票/a-15904135?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/越美举行海上联合演习/a-15904091?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/万庆良：中国领导应开短会/a-15734024?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/欧元区主席不再排除希腊破产的可能性/a-15719125?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/中国称叙利亚问题决议有待进一步商榷/a-15719124?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/维基解密嫌疑线人曼宁出庭受审/a-15719092?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/俄中否决安理会叙利亚决议/a-15719016?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/瑞典政府网站遭黑客攻击/a-15719000?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/伊朗宣称批量生产一种短程巡航导弹/a-15718999?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/格吕特斯反对撤回-启蒙的艺术-展/a-15028246?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/美国太平洋司令部司令访问北京/a-3059489?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/中国国内银行将允许参股现有保险公司/a-3059014?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/辛格呼吁加强印中两国核能与军事合作/a-3059077?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/德国议会要求中国取消劳改所制度/a-2510303?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/中国面临劳力紧缺/a-2510301?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/中国新建钢铁厂/a-2510295?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/中国目前多处面临缺水危险/a-2365004?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/切尼抨击中国/a-2362072?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/卡迪尔再度被提名诺奖候选人/a-2362078?maca=chi-rss-chi-all-1127-rdf"/>
+    <rdf:li rdf:resource="http://www.dw.de/奥地利-亚洲通-任欧盟驻华大使/a-2362073?maca=chi-rss-chi-all-1127-rdf"/>
+   </rdf:Seq>
+  </items>
+ </channel>
+ <image rdf:about="https://d1bdz086ztl2x6.cloudfront.net/images/DW-L-RGB_whitebg.png">
+  <url>https://d187uwkna1fqb9.cloudfront.net/images/DW-L-RGB_whitebg.png</url>
+  <link>http://www.dw.de/chinese/?maca=chi-rss-chi-all-1127-rdf</link>
+  <title>DW.DE</title>
+  <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
+ </image>
+ <item rdf:about="http://www.dw.de/格林沃尔德获德国新闻记者奖/a-18317568?maca=chi-rss-chi-all-1127-rdf">
+  <title>格林沃尔德获德国新闻记者奖</title>
+  <link>http://www.dw.de/格林沃尔德获德国新闻记者奖/a-18317568?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>发表斯诺登爆料的美国记者格林沃尔德（Glenn Greenwald）周日在德国荣获第13届新闻记者奖（Siebenpfeiffer）。他同时批评包括德国在内的欧洲国家，不肯为斯诺登提供政治避难。</description>
+  <dc:date>2015-03-15T16:44:00Z</dc:date>
+  <dc:subject>德国新闻</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18317568</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/原军委副主席徐才厚因病身亡/a-18317576?maca=chi-rss-chi-all-1127-rdf">
+  <title>原军委副主席徐才厚因病身亡</title>
+  <link>http://www.dw.de/原军委副主席徐才厚因病身亡/a-18317576?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>3月15日，去年因腐败落马的前中央军委副主席徐才厚因病去世。按中国刑法规定，军事检察院对病亡的徐作出不起诉决定。</description>
+  <dc:date>2015-03-15T16:44:00Z</dc:date>
+  <dc:subject>时政风云</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18317576</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/美国改变态度寻求与阿萨德谈判/a-18317501?maca=chi-rss-chi-all-1127-rdf">
+  <title>美国改变态度寻求与阿萨德谈判</title>
+  <link>http://www.dw.de/美国改变态度寻求与阿萨德谈判/a-18317501?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>为结束持续了整整四年的叙利亚流血冲突，美国改变要求阿萨德下台的态度，希望与这名叙利亚总统恢复谈判。这和其共同的敌人“伊斯兰国”不无关系。</description>
+  <dc:date>2015-03-15T15:45:00Z</dc:date>
+  <dc:subject>时政风云</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18317501</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/云南省副书记仇和落马/a-18317397?maca=chi-rss-chi-all-1127-rdf">
+  <title>云南省副书记仇和落马</title>
+  <link>http://www.dw.de/云南省副书记仇和落马/a-18317397?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>在中国两会的最后一天，中纪委发出通报，云南省委副书记仇和涉嫌严重违纪违法，目前正接受组织调查。</description>
+  <dc:date>2015-03-15T15:35:00Z</dc:date>
+  <dc:subject>时政风云</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18317397</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/德国外交部：希望招聘更多移民背景的雇员/a-18317464?maca=chi-rss-chi-all-1127-rdf">
+  <title>德国外交部：希望招聘更多移民背景的雇员</title>
+  <link>http://www.dw.de/德国外交部：希望招聘更多移民背景的雇员/a-18317464?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>德国外交部的职员中，很少人具有移民背景。外长施泰因迈尔希望改变这一状况。</description>
+  <dc:date>2015-03-15T15:19:00Z</dc:date>
+  <dc:subject>德国新闻</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18317464</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/德国穆斯林女教师上课又可包头巾/a-18317351?maca=chi-rss-chi-all-1127-rdf">
+  <title>德国穆斯林女教师上课又可包头巾</title>
+  <link>http://www.dw.de/德国穆斯林女教师上课又可包头巾/a-18317351?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>针对德国多年来争论不休的话题，德国联邦宪法法法院颁布了一项新规定：老师们可以在课上包头巾。由此推翻了2003年的头巾禁令。</description>
+  <dc:date>2015-03-15T14:13:00Z</dc:date>
+  <dc:subject>德国新闻</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18317351</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/缅甸官员：雷达记录证明，军机未进入中国/a-18317160?maca=chi-rss-chi-all-1127-rdf">
+  <title>缅甸官员：雷达记录证明，军机未进入中国</title>
+  <link>http://www.dw.de/缅甸官员：雷达记录证明，军机未进入中国/a-18317160?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>中国方面称缅甸军机在打击果敢作战人员时，进入中国境内并投弹导致四名农民生亡，一名缅甸高级官员周日否定了这种说法，称雷达和导航记录显示，缅甸的战斗机并未进入中国境内。</description>
+  <dc:date>2015-03-15T11:49:00Z</dc:date>
+  <dc:subject>时政风云</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18317160</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/李克强：在稳增长和调结构间-谋大势/a-18317049?maca=chi-rss-chi-all-1127-rdf">
+  <title>李克强：在稳增长和调结构间“谋大势”</title>
+  <link>http://www.dw.de/李克强：在稳增长和调结构间-谋大势/a-18317049?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>在3月15日中国人大会议闭幕后，总理李克强照例举行了中外记者会，进行答疑。在谈及中国经济“新常态”时，李克强表示，政府“工具箱里的工具还较多”。</description>
+  <dc:date>2015-03-15T10:51:00Z</dc:date>
+  <dc:subject>时政风云</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18317049</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/谁让港台渐行渐远？/a-18317000?maca=chi-rss-chi-all-1127-rdf">
+  <title>谁让港台渐行渐远？</title>
+  <link>http://www.dw.de/谁让港台渐行渐远？/a-18317000?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>九二共识与台湾的未来方向相反？亲中力量让香港人离心离德？“光复素人”在将来的抗争中扮演什么角色？</description>
+  <dc:date>2015-03-15T10:46:00Z</dc:date>
+  <dc:subject>评论分析</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18317000</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/中国开始在台海中线附近测试新航线/a-18317036?maca=chi-rss-chi-all-1127-rdf">
+  <title>中国开始在台海中线附近测试新航线</title>
+  <link>http://www.dw.de/中国开始在台海中线附近测试新航线/a-18317036?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>台湾方面表示，中国大陆周日开始测试台海中线附近的一条新航线，并称将保持密切关注。该航线曾遭遇台湾的强烈抗议，两岸迄今为止在这一问题上尚未达成共识。</description>
+  <dc:date>2015-03-15T10:35:00Z</dc:date>
+  <dc:subject>时政风云</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18317036</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/克里米亚-改嫁-一周年/a-18315660?maca=chi-rss-chi-all-1127-rdf">
+  <title>克里米亚“改嫁”一周年</title>
+  <link>http://www.dw.de/克里米亚-改嫁-一周年/a-18315660?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>2014年3月16日，俄罗斯兼并了克里米亚半岛。如今，整整一年过去了。现在，俄罗斯正把这个自古兵家必争之地进一步扩建为军事要塞。而在这场演变中，最大的输家，其实是克里米亚半岛上的鞑靼人。</description>
+  <dc:date>2015-03-15T09:49:00Z</dc:date>
+  <dc:subject>时政风云</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18315660</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/当心你和芭比娃娃的对话-直上云霄/a-18314058?maca=chi-rss-chi-all-1127-rdf">
+  <title>当心你和芭比娃娃的对话“直上云霄”</title>
+  <link>http://www.dw.de/当心你和芭比娃娃的对话-直上云霄/a-18314058?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>新的芭比娃娃“Hello Barbie”能和孩子们谈话，不过这娃娃也会借助数据云计算，把谈话内容、周围的声响等储存到云上。德国之声记者与该软件开发商就可能由此带来的隐患进行了访谈。</description>
+  <dc:date>2015-03-15T09:43:00Z</dc:date>
+  <dc:subject>科技环境</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18314058</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/柏林夏季奥运-告别唯大是求/a-18306314?maca=chi-rss-chi-all-1127-rdf">
+  <title>柏林夏季奥运—告别唯大是求</title>
+  <link>http://www.dw.de/柏林夏季奥运-告别唯大是求/a-18306314?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>柏林有意给予奥运会以新方向：更节俭、更经济、更亲民。这是一个在国际奥运会那里拿不到什么正分的建议。但是，柏林民众不会支持按例行套路举办的奥运。</description>
+  <dc:date>2015-03-15T09:38:00Z</dc:date>
+  <dc:subject>足坛体坛</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18306314</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/森林经营的品质证明/a-18309741?maca=chi-rss-chi-all-1127-rdf">
+  <title>森林经营的品质证明</title>
+  <link>http://www.dw.de/森林经营的品质证明/a-18309741?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>森林是地球的肺脏。森林生产氧气，储存二氧化碳，为无数物种提供生存空间，为人类提供生活必需品。有一种森林认证，就是为了保护森林、防止掠夺式砍伐、促进可持续利用森林而推出的。</description>
+  <dc:date>2015-03-15T09:29:00Z</dc:date>
+  <dc:subject>科技环境</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18309741</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/提克里特市解放在望？/a-18316700?maca=chi-rss-chi-all-1127-rdf">
+  <title>提克里特市解放在望？</title>
+  <link>http://www.dw.de/提克里特市解放在望？/a-18316700?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>伊拉克军队和民兵组织加紧对提克里特市的攻势， 该城一度久攻不下，被&quot;伊斯兰国&quot;势力控制，不过民兵发言人放话：&quot;72小时之内&quot;将全面击溃城内极端武装。</description>
+  <dc:date>2015-03-14T18:56:00Z</dc:date>
+  <dc:subject>时政风云</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18316700</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/走钢索的习近平/a-18316399?maca=chi-rss-chi-all-1127-rdf">
+  <title>“走钢索的习近平”</title>
+  <link>http://www.dw.de/走钢索的习近平/a-18316399?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>《新苏黎世报》指出，掌握强大权势的中国领导人习近平在上台后收紧了对言论自由的管制并打压异议人士，开启了一场“中国噩梦”。《商报》则关注了中国IT企业踊跃参与汉诺威电子展。</description>
+  <dc:date>2015-03-14T15:26:00Z</dc:date>
+  <dc:subject>评论分析</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18316399</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/澳总理：尽快决定是否加入-亚投行/a-18316222?maca=chi-rss-chi-all-1127-rdf">
+  <title>澳总理：尽快决定是否加入&quot;亚投行&quot;</title>
+  <link>http://www.dw.de/澳总理：尽快决定是否加入-亚投行/a-18316222?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>澳大利亚总理阿博特周六（3月14日）表示，澳大利亚可能很快会对是否加入中国支持成立的亚洲基础设施投资银行(AIIB) 做出决定。</description>
+  <dc:date>2015-03-14T13:04:00Z</dc:date>
+  <dc:subject>经济纵横</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18316222</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/强烈气旋-帕姆-袭击瓦努阿图-破坏惨重/a-18316005?maca=chi-rss-chi-all-1127-rdf">
+  <title>强烈气旋&quot;帕姆&quot;袭击瓦努阿图 破坏惨重</title>
+  <link>http://www.dw.de/强烈气旋-帕姆-袭击瓦努阿图-破坏惨重/a-18316005?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>时速超过每小时250公里的热带气旋&quot;帕姆&quot;袭击南太平洋岛国瓦努阿图。据未经证实的消息称，强风已造成数十人死亡，数以万计人无家可归。当天，该国总统朗斯代尔正在日本出席联合国世界减灾大会。</description>
+  <dc:date>2015-03-14T10:19:00Z</dc:date>
+  <dc:subject>时政风云</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18316005</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/炸弹炸死中国平民-缅甸否认由政府军所为/a-18315916?maca=chi-rss-chi-all-1127-rdf">
+  <title>炸弹炸死中国平民 缅甸否认由政府军所为</title>
+  <link>http://www.dw.de/炸弹炸死中国平民-缅甸否认由政府军所为/a-18315916?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>缅甸军机的炸弹落入中国境内，造成四人死亡后，中国外交部周六（3月14日）召集缅甸驻华大使召开紧急会议。</description>
+  <dc:date>2015-03-14T08:40:00Z</dc:date>
+  <dc:subject>时政风云</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18315916</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/办公室里的内鬼和家贼/a-18308777?maca=chi-rss-chi-all-1127-rdf">
+  <title>办公室里的内鬼和家贼</title>
+  <link>http://www.dw.de/办公室里的内鬼和家贼/a-18308777?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>德国企业在与电脑犯罪作斗争时也不放心自己的员工：他们因为疏忽或者缺乏相关技能而可能对公司构成巨大风险。而且有些电子犯罪的作案者正是内部员工。</description>
+  <dc:date>2015-03-14T08:04:00Z</dc:date>
+  <dc:subject>科技环境</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18308777</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/那些走出去和走回来的德国人/a-18308779?maca=chi-rss-chi-all-1127-rdf">
+  <title>那些走出去和走回来的德国人</title>
+  <link>http://www.dw.de/那些走出去和走回来的德国人/a-18308779?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>1967年至2013年，移民海外以及移民海外又返回德国定居的德国人达到140万。其实，去国和还乡的理由大同小异，大多数人是因为对当地生活的不满而背起了行囊。</description>
+  <dc:date>2015-03-14T07:13:00Z</dc:date>
+  <dc:subject>文化经纬</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18308779</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/缺钱缺时间-希腊总理再晤欧盟高层/a-18315445?maca=chi-rss-chi-all-1127-rdf">
+  <title>缺钱缺时间 希腊总理再晤欧盟高层</title>
+  <link>http://www.dw.de/缺钱缺时间-希腊总理再晤欧盟高层/a-18315445?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>希腊总理齐普拉斯一方面要向国内选民兑现选战中的许诺，缓解多年紧缩政策造成的生活水平下降。但同时，他又要向欧盟表现出希腊认真对待改革的意愿。</description>
+  <dc:date>2015-03-13T21:02:00Z</dc:date>
+  <dc:subject>时政风云</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18315445</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/莫迪出访-印度后院-提升地区影响力/a-18314738?maca=chi-rss-chi-all-1127-rdf">
+  <title>莫迪出访“印度后院”提升地区影响力</title>
+  <link>http://www.dw.de/莫迪出访-印度后院-提升地区影响力/a-18314738?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>《新苏黎世报》指出，印度总理莫迪此次出访三个印度洋岛国是为了逼退中国在该地区的影响力。《法兰克福汇报》则分析了中国为何对达赖喇嘛不再转世的言论作出激烈回应。</description>
+  <dc:date>2015-03-13T15:21:00Z</dc:date>
+  <dc:subject>评论分析</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18314738</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/莱比锡书展爆冷门/a-18314362?maca=chi-rss-chi-all-1127-rdf">
+  <title>莱比锡书展爆冷门</title>
+  <link>http://www.dw.de/莱比锡书展爆冷门/a-18314362?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>德国当代诗坛中青才俊扬·瓦格纳成为莱比锡书展畅销书奖的首位抒情诗人。</description>
+  <dc:date>2015-03-13T14:08:00Z</dc:date>
+  <dc:subject>文化经纬</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18314362</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/俄罗斯在猜测-普京怎么了？/a-18313876?maca=chi-rss-chi-all-1127-rdf">
+  <title>俄罗斯在猜测-普京怎么了？</title>
+  <link>http://www.dw.de/俄罗斯在猜测-普京怎么了？/a-18313876?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>一周来，俄罗斯总统普京一直没有公开露面。周四（3月12日），克里姆林宫驳斥了有关其健康出现问题的传言。但各种猜测并没有因此平息。</description>
+  <dc:date>2015-03-13T11:37:00Z</dc:date>
+  <dc:subject>时政风云</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18313876</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/哈姆巴赫宫成为欧洲文化遗产/a-18313739?maca=chi-rss-chi-all-1127-rdf">
+  <title>哈姆巴赫宫成为欧洲文化遗产</title>
+  <link>http://www.dw.de/哈姆巴赫宫成为欧洲文化遗产/a-18313739?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>哈姆巴赫宫，这座位于葡萄酒之路上诺伊施塔特（Neustadt）的中世纪城堡被欧盟委员会誉为&quot;德国民主的摇篮&quot;。它以独特的方式体现了欧洲文化思想。2012年，哈姆巴赫宫的设计重建还获得了德国建筑博物馆奖。</description>
+  <dc:date>2015-03-13T10:45:00Z</dc:date>
+  <dc:subject>文化经纬</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18313739</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/核能在中国死灰复燃/a-18310658?maca=chi-rss-chi-all-1127-rdf">
+  <title>“核能在中国死灰复燃”</title>
+  <link>http://www.dw.de/核能在中国死灰复燃/a-18310658?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>《法兰克福汇报》关注了中国四年来首次批准核电项目。《南德意志报》指出，中国如此关注达赖喇嘛是否转世是为了挑选一个效忠政府的人选。</description>
+  <dc:date>2015-03-12T16:38:00Z</dc:date>
+  <dc:subject>评论分析</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18310658</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/2015年全球高校排行-北大升-港大降/a-18309716?maca=chi-rss-chi-all-1127-rdf">
+  <title>2015年全球高校排行 北大升 港大降</title>
+  <link>http://www.dw.de/2015年全球高校排行-北大升-港大降/a-18309716?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>中英国《泰晤士高等教育》杂志推出2015年度全球最具声望高校排行榜。中国清华大学和北京大学在列表中迅速攀升。香港地区的大学首次无缘前50名。德国慕尼黑大学的排名从去年的第46位提升至今年的第35位。</description>
+  <dc:date>2015-03-12T12:06:00Z</dc:date>
+  <dc:subject>文化经纬</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18309716</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/接下来的几年对中国而言将十分危险/a-18308143?maca=chi-rss-chi-all-1127-rdf">
+  <title>“接下来的几年对中国而言将十分危险”</title>
+  <link>http://www.dw.de/接下来的几年对中国而言将十分危险/a-18308143?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>政治学家黄靖在接受《新苏黎世报》采访时表示，中国政府处在两难境地：发展经济以维护执政合法性还是治理污染稳定民心？《法兰克福汇报》也关注了能让所有中国人团结起来的环境问题，尤其是最近因为一部记录片而名声大噪的“女英雄”。</description>
+  <dc:date>2015-03-11T15:03:00Z</dc:date>
+  <dc:subject>评论分析</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18308143</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/中国经济的-眼中钉-：国人去国外散金/a-18306385?maca=chi-rss-chi-all-1127-rdf">
+  <title>中国经济的“眼中钉”：国人去国外散金</title>
+  <link>http://www.dw.de/中国经济的-眼中钉-：国人去国外散金/a-18306385?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>瑞士《新苏黎世报》周二关注中国人令人乍舌的境外购买力，并建议，虏获中国人芳心的产品需要创新，创新的前提则是开放思想。《每日镜报》则指出，中国学术界受到更多的束缚。</description>
+  <dc:date>2015-03-10T16:41:00Z</dc:date>
+  <dc:subject>评论分析</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18306385</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/习的马克思主义和称赞雾霾片的环保部长/a-18304502?maca=chi-rss-chi-all-1127-rdf">
+  <title>习的马克思主义和称赞雾霾片的环保部长</title>
+  <link>http://www.dw.de/习的马克思主义和称赞雾霾片的环保部长/a-18304502?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>《法兰克福汇报》周一关注习近平提出的“四个全面”，并指出，习不允许社会主义内部的革命，却强调汉化马克思主义的必要性。《世界报》则聚焦称赞《穹顶之下》的新环保部长。</description>
+  <dc:date>2015-03-09T16:52:00Z</dc:date>
+  <dc:subject>评论分析</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18304502</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/古生物学新发现：非洲出土最古老人类化石/a-18299811?maca=chi-rss-chi-all-1127-rdf">
+  <title>古生物学新发现：非洲出土最古老人类化石</title>
+  <link>http://www.dw.de/古生物学新发现：非洲出土最古老人类化石/a-18299811?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>研究学者在东非发现了一块“人属”的颚骨化石，其存在时间比迄今为止最古老的人类化石更久远。这块化石的出土将人类历史推前40万年。</description>
+  <dc:date>2015-03-08T10:32:00Z</dc:date>
+  <dc:subject>科技环境</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18299811</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/photoshop是如何-忽悠-我们的？/a-18289966?maca=chi-rss-chi-all-1127-rdf">
+  <title>Photoshop是如何“忽悠”我们的？</title>
+  <link>http://www.dw.de/photoshop是如何-忽悠-我们的？/a-18289966?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>25年前，电子图像处理软件Photoshop问世。该软件不仅改变了图片处理的方法，也改变了人们认知图片的方式。</description>
+  <dc:date>2015-03-08T09:05:00Z</dc:date>
+  <dc:subject>科技环境</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18289966</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/在moma开个展的-冰雪女王-比约克/a-18301908?maca=chi-rss-chi-all-1127-rdf">
+  <title>在MoMA开个展的“冰雪女王”比约克</title>
+  <link>http://www.dw.de/在moma开个展的-冰雪女王-比约克/a-18301908?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>冰岛女歌手比约克有流行音乐界“冰雪女王”的美誉。如今，纽约当代艺术博物馆也拜倒在女王的石榴裙下，为她另类的曲风和饱含艺术元素的表演献上一份大礼。</description>
+  <dc:date>2015-03-08T08:57:00Z</dc:date>
+  <dc:subject>文化经纬</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18301908</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/咖啡喝的不止是味道还是-保健药/a-18294752?maca=chi-rss-chi-all-1127-rdf">
+  <title>咖啡喝的不止是味道还是&quot;保健药&quot;</title>
+  <link>http://www.dw.de/咖啡喝的不止是味道还是-保健药/a-18294752?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>喝咖啡到底可以防病还是会导致患病呢？韩国的医学人员现在有了新说法：适量饮用咖啡可以防止动脉血管阻塞。</description>
+  <dc:date>2015-03-07T08:20:00Z</dc:date>
+  <dc:subject>科技环境</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18294752</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/环境危机让北京的信誉-面临考验/a-18300924?maca=chi-rss-chi-all-1127-rdf">
+  <title>环境危机让北京的信誉“面临考验”</title>
+  <link>http://www.dw.de/环境危机让北京的信誉-面临考验/a-18300924?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>当中国空气污染成为人大会中心议题之际，总理李克强再次发誓要对其进行治理。然而这就够了吗？对此，德国之声采访了分析师希尔顿。</description>
+  <dc:date>2015-03-06T17:31:00Z</dc:date>
+  <dc:subject>科技环境</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18300924</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/对环境污染宣战-临沂关停多家钢铁厂/a-18300307?maca=chi-rss-chi-all-1127-rdf">
+  <title>对环境污染宣战 临沂关停多家钢铁厂</title>
+  <link>http://www.dw.de/对环境污染宣战-临沂关停多家钢铁厂/a-18300307?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>中国东部的工业城市临沂关闭多家钢铁和镍生铁制造工厂。此举显示出中国政府正加强新环境法的执法力度，以应对公众对环境污染日益增加的不满。</description>
+  <dc:date>2015-03-06T14:17:00Z</dc:date>
+  <dc:subject>科技环境</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18300307</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/研究：德国人对移民越来越友善/a-18299487?maca=chi-rss-chi-all-1127-rdf">
+  <title>研究：德国人对移民越来越友善</title>
+  <link>http://www.dw.de/研究：德国人对移民越来越友善/a-18299487?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>一份新研究显示，德国人对待移民的态度更加开放成熟。不过与德国西部民众相比，东部的德国人对移民的态度较为保留。</description>
+  <dc:date>2015-03-06T10:00:00Z</dc:date>
+  <dc:subject>文化经纬</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18299487</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/欧洲歌唱大赛-德国送选歌手出炉/a-18299463?maca=chi-rss-chi-all-1127-rdf">
+  <title>欧洲歌唱大赛    德国送选歌手出炉</title>
+  <link>http://www.dw.de/欧洲歌唱大赛-德国送选歌手出炉/a-18299463?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>欧洲歌唱大赛德国赛区昨晚的比赛过程跌宕起伏，结果相当让人意外。当晚选出的歌手将代表德国于5月底前往维也纳参加今年的&quot;欧洲歌唱大赛&quot;。</description>
+  <dc:date>2015-03-06T09:47:00Z</dc:date>
+  <dc:subject>文化经纬</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18299463</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/世界新闻摄影比赛一获奖作品被取消资格/a-18298879?maca=chi-rss-chi-all-1127-rdf">
+  <title>世界新闻摄影比赛一获奖作品被取消资格</title>
+  <link>http://www.dw.de/世界新闻摄影比赛一获奖作品被取消资格/a-18298879?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>世界新闻摄影奖评委会撤回了对意大利获奖人特罗伊洛的颁奖，理由是，他在提供关于其一张作品的说明时犯有欺骗行为。</description>
+  <dc:date>2015-03-05T18:00:00Z</dc:date>
+  <dc:subject>文化经纬</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18298879</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/德国人搭机出游次数上升-希腊最受青睐/a-18293319?maca=chi-rss-chi-all-1127-rdf">
+  <title>德国人搭机出游次数上升 希腊最受青睐</title>
+  <link>http://www.dw.de/德国人搭机出游次数上升-希腊最受青睐/a-18293319?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>根据联邦统计局周三公布的最新数据，德国人去年搭乘了8160万次飞机，比2013年增加了270万次，增幅为3.4%。自2010年的柏林国际旅游战后，德国人搭机出行的趋势持续上升。</description>
+  <dc:date>2015-03-04T14:13:00Z</dc:date>
+  <dc:subject>文化经纬</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18293319</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/指挥家拉特尔爵士的-回乡-之旅/a-18293380?maca=chi-rss-chi-all-1127-rdf">
+  <title>指挥家拉特尔爵士的&quot;回乡&quot;之旅</title>
+  <link>http://www.dw.de/指挥家拉特尔爵士的-回乡-之旅/a-18293380?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>柏林爱乐乐团首席指挥西蒙·拉特尔将从2017年9月起担任伦敦交响乐团的音乐总监。但这并不意味着拉特尔就此就离开了柏林。</description>
+  <dc:date>2015-03-04T14:12:00Z</dc:date>
+  <dc:subject>文化经纬</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18293380</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/纽约艺术馆里的德国电影周/a-18290625?maca=chi-rss-chi-all-1127-rdf">
+  <title>纽约艺术馆里的德国电影周</title>
+  <link>http://www.dw.de/纽约艺术馆里的德国电影周/a-18290625?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>纽约现代艺术博物馆举办德国导演温·韦德斯电影回顾周。韦德斯是德国当代电影大师之一，也是德国新浪潮导演的重要代表。</description>
+  <dc:date>2015-03-03T10:43:00Z</dc:date>
+  <dc:subject>文化经纬</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18290625</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/中国电影市场增长强劲-月票房成世界第一/a-18290597?maca=chi-rss-chi-all-1127-rdf">
+  <title>中国电影市场增长强劲  月票房成世界第一</title>
+  <link>http://www.dw.de/中国电影市场增长强劲-月票房成世界第一/a-18290597?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>近年来，中国已经成为世界最重要的电影市场，赶超第一大市场美国的劲头正猛。 根据《北京晚报》报道，中国去年票房增长率达到36%。而春节所在的二月份，中国的单月票房纪录首次超越美国市场，跃居世界第一。</description>
+  <dc:date>2015-03-03T10:43:00Z</dc:date>
+  <dc:subject>文化经纬</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18290597</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/中国公安摄像监视系统遭黑客袭击/a-18288772?maca=chi-rss-chi-all-1127-rdf">
+  <title>中国公安摄像监视系统遭黑客袭击</title>
+  <link>http://www.dw.de/中国公安摄像监视系统遭黑客袭击/a-18288772?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>一份被曝光的中国地方公安机关文件显示，遍布于各个角落的摄像头存在着巨大的安全隐患，其中一部分已经成为黑客攻击的对象。</description>
+  <dc:date>2015-03-02T11:26:00Z</dc:date>
+  <dc:subject>科技环境</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18288772</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/穹顶之下-爆红-引发评论浪潮/a-18287479?maca=chi-rss-chi-all-1127-rdf">
+  <title>&quot;穹顶之下&quot;爆红 引发评论浪潮</title>
+  <link>http://www.dw.de/穹顶之下-爆红-引发评论浪潮/a-18287479?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>柴静拍摄的雾霾调查纪录片&quot;穹顶之下&quot;近日在网上播出后立即受到中国各大媒体的关注和网民的围观评论，除了点赞的声音之外，也有人质疑这部环保片的拍摄动机，认为整个片子背后&quot;雾深沉&quot;。</description>
+  <dc:date>2015-03-01T11:23:00Z</dc:date>
+  <dc:subject>科技环境</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18287479</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/留学德国不得不知道的十件事情/a-18223897?maca=chi-rss-chi-all-1127-rdf">
+  <title>留学德国不得不知道的十件事情</title>
+  <link>http://www.dw.de/留学德国不得不知道的十件事情/a-18223897?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>德国大学因其卓越的教学质量而闻名，尤其因为学生（几乎）不需要交学费。难怪越来越多来自世界各地的学生想在德国留学。</description>
+  <dc:date>2015-03-01T08:08:00Z</dc:date>
+  <dc:subject>非常德国</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18223897</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/《超级中国》的喜与忧/a-18282871?maca=chi-rss-chi-all-1127-rdf">
+  <title>《超级中国》的喜与忧</title>
+  <link>http://www.dw.de/《超级中国》的喜与忧/a-18282871?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>韩国最大公共国际电视台KBS拍摄的名为《超级中国》的系列纪录片在中韩两地引起剧烈反响。片中对中国的大尺度褒奖让部分中国观众受宠若惊。同时，质疑和批评的声音也随之而来。</description>
+  <dc:date>2015-02-26T13:27:00Z</dc:date>
+  <dc:subject>文化经纬</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18282871</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/灾难发生前，我认为日本不会有核事故/a-18278886?maca=chi-rss-chi-all-1127-rdf">
+  <title>&quot;灾难发生前，我认为日本不会有核事故&quot;</title>
+  <link>http://www.dw.de/灾难发生前，我认为日本不会有核事故/a-18278886?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>日本核灾难带来了什么样的改变？福岛核灾发生四年后，日本前首相菅直人在接受德国之声专访时，对核能游说的后果以及如今的日本政府作出尖锐批评。</description>
+  <dc:date>2015-02-25T15:08:00Z</dc:date>
+  <dc:subject>科技环境</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18278886</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/医生无疆界-：新药对埃博拉早期患者有效/a-18277954?maca=chi-rss-chi-all-1127-rdf">
+  <title>“医生无疆界”：新药对埃博拉早期患者有效</title>
+  <link>http://www.dw.de/医生无疆界-：新药对埃博拉早期患者有效/a-18277954?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>一种新药对埃博拉轻度感染者有效。由80名患者参与的临床试验显示：如果患者及早治疗，死亡率将减半。</description>
+  <dc:date>2015-02-25T09:24:00Z</dc:date>
+  <dc:subject>科技环境</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18277954</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/小酌有益健康？7个关于喝酒的迷思与真相/a-18265674?maca=chi-rss-chi-all-1127-rdf">
+  <title>小酌有益健康？7个关于喝酒的迷思与真相</title>
+  <link>http://www.dw.de/小酌有益健康？7个关于喝酒的迷思与真相/a-18265674?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>近几年来经常听说，稍微喝点酒有益身体健康，甚至可以延年益寿。一份最新问卷结果却打破了这个迷思。</description>
+  <dc:date>2015-02-23T13:30:00Z</dc:date>
+  <dc:subject>科技环境</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18265674</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/留德华-们讲述留学的点滴体会/a-18224749?maca=chi-rss-chi-all-1127-rdf">
+  <title>“留德华”们讲述留学的点滴体会</title>
+  <link>http://www.dw.de/留德华-们讲述留学的点滴体会/a-18224749?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>《南德意志报》2014年11月曾经报道，德国大学每年吸引25500名中国留学生，比任何一个国家来德留学的人数都多。是什么原因让如此多中国人来德国留学呢？他们在德国学习和生活又是怎么样呢？为了更深入地了解“留德华”们的情况，德国之声采访了几位正在德国留学的中国人。</description>
+  <dc:date>2015-02-01T08:40:00Z</dc:date>
+  <dc:subject>教育就业</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18224749</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/美国顶尖大学：不光只招-官二代-富二代/a-18224859?maca=chi-rss-chi-all-1127-rdf">
+  <title>美国顶尖大学：不光只招“官二代 富二代”</title>
+  <link>http://www.dw.de/美国顶尖大学：不光只招-官二代-富二代/a-18224859?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>美国顶尖大学常被认为只会招收富裕家庭的孩子，现在，他们正努力摆脱这个形象，为更多来自中国中、低收入家庭的学生&quot;敞开大门&quot;。</description>
+  <dc:date>2015-01-29T18:29:00Z</dc:date>
+  <dc:subject>教育就业</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18224859</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/可贵的留德机会！国际媒体研究硕士课程欢迎您！/a-18215229?maca=chi-rss-chi-all-1127-rdf">
+  <title>可贵的留德机会！国际媒体研究硕士课程欢迎您！</title>
+  <link>http://www.dw.de/可贵的留德机会！国际媒体研究硕士课程欢迎您！/a-18215229?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>国际媒体研究硕士课程 (International Media Studies)为期4个学期、实行全日制。该课程结合了传媒和发展、新闻学、通信及媒体管理等学科。这是波恩大学，德国波恩-莱茵-西格-应用技术大学和总部设在波恩的国际广播媒体&quot;德国之声&quot;的一个合作项目。</description>
+  <dc:date>2015-01-26T14:02:00Z</dc:date>
+  <dc:subject>教育就业</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18215229</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/德国大学实录：生多师少-辍学率高/a-18137319?maca=chi-rss-chi-all-1127-rdf">
+  <title>德国大学实录：生多师少 辍学率高</title>
+  <link>http://www.dw.de/德国大学实录：生多师少-辍学率高/a-18137319?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>德国各大高校的教室人满为患，就读生的数量已经达到历史之最，不过学校师资力量匮乏，尤其是一些重要的理工学科缺少辅导学生的教授。而大学中，数学系本科生的辍学率高达47%。</description>
+  <dc:date>2014-12-20T09:16:00Z</dc:date>
+  <dc:subject>教育就业</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18137319</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/金砖国家及新兴经济体大学排名：百强内中国大学最多/a-18110539?maca=chi-rss-chi-all-1127-rdf">
+  <title>金砖国家及新兴经济体大学排名：百强内中国大学最多</title>
+  <link>http://www.dw.de/金砖国家及新兴经济体大学排名：百强内中国大学最多/a-18110539?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>在新近出炉的2015年金砖国家及新兴经济体大学排名中，进入百强的中国大学总数有27个。其中两所中国大学：北大和清华保持了上次排行的好成绩，依然排在前两位。</description>
+  <dc:date>2014-12-04T15:32:00Z</dc:date>
+  <dc:subject>教育就业</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18110539</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/在美中国留学生人数创历史新高/a-18069364?maca=chi-rss-chi-all-1127-rdf">
+  <title>在美中国留学生人数创历史新高</title>
+  <link>http://www.dw.de/在美中国留学生人数创历史新高/a-18069364?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>根据美国最新发表的《门户开放报告》，在美求学的中国学生比例创下史上新高，占外国学生总数近三分之一。</description>
+  <dc:date>2014-11-17T12:54:00Z</dc:date>
+  <dc:subject>教育就业</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18069364</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/在德留学-遇到困难怎么办？/a-18063615?maca=chi-rss-chi-all-1127-rdf">
+  <title>在德留学 遇到困难怎么办？</title>
+  <link>http://www.dw.de/在德留学-遇到困难怎么办？/a-18063615?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>鉴于初来乍到的外国留学生总会遇到或多或少的问题，德国高校通常会推出专门帮助留学生项目。科隆和慕尼黑大学的两个项目荣获今年外交部颁发的“关心照顾外国学生成绩杰出奖”。</description>
+  <dc:date>2014-11-14T14:50:00Z</dc:date>
+  <dc:subject>教育就业</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18063615</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/香港人英语不如内地人？/a-18062800?maca=chi-rss-chi-all-1127-rdf">
+  <title>香港人英语不如内地人？</title>
+  <link>http://www.dw.de/香港人英语不如内地人？/a-18062800?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>一项研究称，香港人的英语水平不如上海、北京和天津人。果真如此吗？</description>
+  <dc:date>2014-11-14T14:16:00Z</dc:date>
+  <dc:subject>教育就业</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>18062800</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/出国镀金-哪国性价比最高？/a-17914260?maca=chi-rss-chi-all-1127-rdf">
+  <title>出国镀金 哪国性价比最高？</title>
+  <link>http://www.dw.de/出国镀金-哪国性价比最高？/a-17914260?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>研究报告指出，澳大利亚是全球最昂贵的留学目的地，远超过留学新加坡和美国，而最便宜的留学目的国则是印度。</description>
+  <dc:date>2014-09-11T11:10:00Z</dc:date>
+  <dc:subject>教育就业</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>17914260</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/德国教育-喜忧参半/a-17911186?maca=chi-rss-chi-all-1127-rdf">
+  <title>德国教育 喜忧参半</title>
+  <link>http://www.dw.de/德国教育-喜忧参半/a-17911186?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>德国的教育水平优势，正不断被其他国家所蚕食。经合组织发布的最新分析报告，指出德国在教育机会的均等程度方面存在诸多不足。</description>
+  <dc:date>2014-09-09T19:00:00Z</dc:date>
+  <dc:subject>教育就业</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>17911186</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/夏令营让德国大学更加国际化/a-17853080?maca=chi-rss-chi-all-1127-rdf">
+  <title>夏令营让德国大学更加国际化</title>
+  <link>http://www.dw.de/夏令营让德国大学更加国际化/a-17853080?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>德国大学想走向世界，举办夏令营则是吸引全球各地学生的一个途径，尤其是慕尼黑大学（LMU)这样富有声望的大学。</description>
+  <dc:date>2014-08-17T10:46:00Z</dc:date>
+  <dc:subject>教育就业</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>17853080</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/不止是摆弄砂浆和砖头：德国的泥瓦工/a-17858038?maca=chi-rss-chi-all-1127-rdf">
+  <title>不止是摆弄砂浆和砖头：德国的泥瓦工</title>
+  <link>http://www.dw.de/不止是摆弄砂浆和砖头：德国的泥瓦工/a-17858038?maca=chi-rss-chi-all-1127-rdf</link>
+  <description>泥瓦工必须会干的，可不光是堆砌砖头。这个职业也与时俱进，发生了很大变化。如今德国的泥瓦工高度专门化，同时又是多样手。在当今技术工人紧缺的年头，泥瓦工的工作机会可谓看好。</description>
+  <dc:date>2014-08-16T08:35:00Z</dc:date>
+  <dc:subject>教育就业</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>17858038</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/埃以边境发生10年来最严重恐怖袭击事件/a-16146518?maca=chi-rss-chi-all-1127-rdf">
+  <title>埃以边境发生10年来最严重恐怖袭击事件</title>
+  <link>http://www.dw.de/埃以边境发生10年来最严重恐怖袭击事件/a-16146518?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2012-08-06T06:07:00Z</dc:date>
+  <dc:subject>新闻广角</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>16146518</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/多国总统拒访乌克兰/a-15917866?maca=chi-rss-chi-all-1127-rdf">
+  <title>多国总统拒访乌克兰</title>
+  <link>http://www.dw.de/多国总统拒访乌克兰/a-15917866?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2012-04-30T09:01:00Z</dc:date>
+  <dc:subject>新闻广角</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>15917866</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/奥朗德赢得法总统选举首轮投票/a-15904135?maca=chi-rss-chi-all-1127-rdf">
+  <title>奥朗德赢得法总统选举首轮投票</title>
+  <link>http://www.dw.de/奥朗德赢得法总统选举首轮投票/a-15904135?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2012-04-23T08:24:00Z</dc:date>
+  <dc:subject>新闻广角</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>15904135</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/越美举行海上联合演习/a-15904091?maca=chi-rss-chi-all-1127-rdf">
+  <title>越美举行海上联合演习</title>
+  <link>http://www.dw.de/越美举行海上联合演习/a-15904091?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2012-04-23T07:55:00Z</dc:date>
+  <dc:subject>新闻广角</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>15904091</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/万庆良：中国领导应开短会/a-15734024?maca=chi-rss-chi-all-1127-rdf">
+  <title>万庆良：中国领导应开短会</title>
+  <link>http://www.dw.de/万庆良：中国领导应开短会/a-15734024?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2012-02-09T19:12:00Z</dc:date>
+  <dc:subject>中国新闻</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>15734024</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/欧元区主席不再排除希腊破产的可能性/a-15719125?maca=chi-rss-chi-all-1127-rdf">
+  <title>欧元区主席不再排除希腊破产的可能性</title>
+  <link>http://www.dw.de/欧元区主席不再排除希腊破产的可能性/a-15719125?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2012-02-04T20:15:00Z</dc:date>
+  <dc:subject>新闻广角</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>15719125</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/中国称叙利亚问题决议有待进一步商榷/a-15719124?maca=chi-rss-chi-all-1127-rdf">
+  <title>中国称叙利亚问题决议有待进一步商榷</title>
+  <link>http://www.dw.de/中国称叙利亚问题决议有待进一步商榷/a-15719124?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2012-02-04T20:15:00Z</dc:date>
+  <dc:subject>中国新闻</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>15719124</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/维基解密嫌疑线人曼宁出庭受审/a-15719092?maca=chi-rss-chi-all-1127-rdf">
+  <title>维基解密嫌疑线人曼宁出庭受审</title>
+  <link>http://www.dw.de/维基解密嫌疑线人曼宁出庭受审/a-15719092?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2012-02-04T19:34:00Z</dc:date>
+  <dc:subject>新闻广角</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>15719092</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/俄中否决安理会叙利亚决议/a-15719016?maca=chi-rss-chi-all-1127-rdf">
+  <title>俄中否决安理会叙利亚决议</title>
+  <link>http://www.dw.de/俄中否决安理会叙利亚决议/a-15719016?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2012-02-04T17:53:00Z</dc:date>
+  <dc:subject>新闻广角</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>15719016</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/瑞典政府网站遭黑客攻击/a-15719000?maca=chi-rss-chi-all-1127-rdf">
+  <title>瑞典政府网站遭黑客攻击</title>
+  <link>http://www.dw.de/瑞典政府网站遭黑客攻击/a-15719000?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2012-02-04T17:40:00Z</dc:date>
+  <dc:subject>新闻广角</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>15719000</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/伊朗宣称批量生产一种短程巡航导弹/a-15718999?maca=chi-rss-chi-all-1127-rdf">
+  <title>伊朗宣称批量生产一种短程巡航导弹</title>
+  <link>http://www.dw.de/伊朗宣称批量生产一种短程巡航导弹/a-15718999?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2012-02-04T17:34:00Z</dc:date>
+  <dc:subject>新闻广角</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>15718999</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/格吕特斯反对撤回-启蒙的艺术-展/a-15028246?maca=chi-rss-chi-all-1127-rdf">
+  <title>格吕特斯反对撤回“启蒙的艺术”展</title>
+  <link>http://www.dw.de/格吕特斯反对撤回-启蒙的艺术-展/a-15028246?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2011-04-25T10:18:00Z</dc:date>
+  <dc:subject>欧中短讯</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>15028246</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/美国太平洋司令部司令访问北京/a-3059489?maca=chi-rss-chi-all-1127-rdf">
+  <title>美国太平洋司令部司令访问北京</title>
+  <link>http://www.dw.de/美国太平洋司令部司令访问北京/a-3059489?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2008-01-15T12:40:00Z</dc:date>
+  <dc:subject>欧中短讯</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>3059489</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/中国国内银行将允许参股现有保险公司/a-3059014?maca=chi-rss-chi-all-1127-rdf">
+  <title>中国国内银行将允许参股现有保险公司</title>
+  <link>http://www.dw.de/中国国内银行将允许参股现有保险公司/a-3059014?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2008-01-15T09:50:00Z</dc:date>
+  <dc:subject>欧中短讯</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>3059014</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/辛格呼吁加强印中两国核能与军事合作/a-3059077?maca=chi-rss-chi-all-1127-rdf">
+  <title>辛格呼吁加强印中两国核能与军事合作</title>
+  <link>http://www.dw.de/辛格呼吁加强印中两国核能与军事合作/a-3059077?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2008-01-15T09:49:00Z</dc:date>
+  <dc:subject>欧中短讯</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>3059077</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/德国议会要求中国取消劳改所制度/a-2510303?maca=chi-rss-chi-all-1127-rdf">
+  <title>德国议会要求中国取消劳改所制度</title>
+  <link>http://www.dw.de/德国议会要求中国取消劳改所制度/a-2510303?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2007-05-11T10:02:00Z</dc:date>
+  <dc:subject>欧中短讯</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>2510303</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/中国面临劳力紧缺/a-2510301?maca=chi-rss-chi-all-1127-rdf">
+  <title>中国面临劳力紧缺</title>
+  <link>http://www.dw.de/中国面临劳力紧缺/a-2510301?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2007-05-11T10:01:00Z</dc:date>
+  <dc:subject>欧中短讯</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>2510301</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/中国新建钢铁厂/a-2510295?maca=chi-rss-chi-all-1127-rdf">
+  <title>中国新建钢铁厂</title>
+  <link>http://www.dw.de/中国新建钢铁厂/a-2510295?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2007-05-11T09:59:00Z</dc:date>
+  <dc:subject>欧中短讯</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>2510295</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/中国目前多处面临缺水危险/a-2365004?maca=chi-rss-chi-all-1127-rdf">
+  <title>中国目前多处面临缺水危险</title>
+  <link>http://www.dw.de/中国目前多处面临缺水危险/a-2365004?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2007-02-26T10:13:00Z</dc:date>
+  <dc:subject>欧中短讯</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>2365004</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/切尼抨击中国/a-2362072?maca=chi-rss-chi-all-1127-rdf">
+  <title>切尼抨击中国</title>
+  <link>http://www.dw.de/切尼抨击中国/a-2362072?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2007-02-23T11:19:00Z</dc:date>
+  <dc:subject>欧中短讯</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>2362072</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/卡迪尔再度被提名诺奖候选人/a-2362078?maca=chi-rss-chi-all-1127-rdf">
+  <title>卡迪尔再度被提名诺奖候选人</title>
+  <link>http://www.dw.de/卡迪尔再度被提名诺奖候选人/a-2362078?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2007-02-23T11:18:00Z</dc:date>
+  <dc:subject>欧中短讯</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>2362078</dwsyn:contentID>
+ </item>
+ <item rdf:about="http://www.dw.de/奥地利-亚洲通-任欧盟驻华大使/a-2362073?maca=chi-rss-chi-all-1127-rdf">
+  <title>奥地利“亚洲通”任欧盟驻华大使</title>
+  <link>http://www.dw.de/奥地利-亚洲通-任欧盟驻华大使/a-2362073?maca=chi-rss-chi-all-1127-rdf</link>
+  <dc:date>2007-02-23T11:17:00Z</dc:date>
+  <dc:subject>欧中短讯</dc:subject>
+  <dc:language>zh</dc:language>
+  <dwsyn:contentID>2362073</dwsyn:contentID>
+ </item>
+</rdf:RDF>
